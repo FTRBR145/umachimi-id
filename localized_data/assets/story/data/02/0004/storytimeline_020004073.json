@@ -1,80 +1,80 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Komentator",
-            "text": "Umamusume yang nggak bisa dipercaya muncul! \nBahkan jadi lawan tangguh di level senior!"
-        },
-        {
-            "name": "Komentator",
-            "text": "Inilah salah satu pemegang lima mahkota, Narita Brian!!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "G-Gila, cewek ini luar biasa banget…"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Iya… dia ngacak-acak semua lawan yang coba ngejagain dia…"
-        },
-        {
-            "text": "Iya… sampai sejauh mana kamu bakal melampaui ekspektasi, Brian…",
-            "name": "<username>"
-        },
-        {
-            "text": "Iya… sampai sejauh mana kamu bakal melampaui ekspektasi, Brian…",
-            "name": "<username>"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Ahh～…! Telepon Trainer-san bunyi lagi…"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Mau wawancara lagi!? Berapa banyak sih yang ngantri!"
-        },
-        {
-            "text": "Sejak kemarin habis “Arima Kinen”, begini terus. \nYa, haloー"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "…Aku nggak nyangka responnya segini besar…"
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "Maaf mengganggu! Um, aku mau atur jadwal wawancara \nuntuk Narita Brian-san, telepon sekolah nggak berhenti bunyi…"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Ehh～…! Di sini-situ malah bikin repot!"
-        },
-        {
-            "text": "Sorakan di balapan juga pecah, \nNarita Brian benar-benar melampaui semua ekspektasi…",
-            "name": "<username>"
-        },
-        {
-            "text": "Sorakan di balapan juga pecah, \nNarita Brian benar-benar melampaui semua ekspektasi…",
-            "name": "<username>"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Bahkan di situasi kayak gini, kemana si biang kerok jalan-jalan～!?"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "……"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "“Umamusume Triple Crown”, penaklukan “Arima Kinen” \ndengan 5 kemenangan G1…"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Tapi tetap saja, ambisiku belum penuh, \ndan semangatku masih belum puas."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Balapan berikutnya… masih belum…!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Komentator",
+      "text": "Umamusume yang nggak bisa dipercaya muncul! \nBahkan jadi lawan tangguh di level senior!"
+    },
+    {
+      "name": "Komentator",
+      "text": "Inilah salah satu pemegang lima mahkota, Narita Brian!!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "G-Gila, cewek ini luar biasa banget…"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Iya… dia ngacak-acak semua lawan yang coba ngejagain dia…"
+    },
+    {
+      "text": "Iya… sampai sejauh mana kamu bakal melampaui ekspektasi, Brian…",
+      "name": "<username>"
+    },
+    {
+      "text": "Iya… sampai sejauh mana kamu bakal melampaui ekspektasi, Brian…",
+      "name": "<username>"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ahh～…! Telepon Trainer-san bunyi lagi…"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Mau wawancara lagi!? Berapa banyak sih yang ngantri!"
+    },
+    {
+      "text": "Sejak kemarin habis “Arima Kinen”, begini terus. \nYa, haloー"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "…Aku nggak nyangka responnya segini besar…"
+    },
+    {
+      "name": "Hayakawa Tazuna",
+      "text": "Maaf mengganggu! Um, aku mau atur jadwal wawancara \nuntuk Narita Brian-san, telepon sekolah nggak berhenti bunyi…"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ehh～…! Di sini-situ malah bikin repot!"
+    },
+    {
+      "text": "Sorakan di balapan juga pecah, \nNarita Brian benar-benar melampaui semua ekspektasi…",
+      "name": "<username>"
+    },
+    {
+      "text": "Sorakan di balapan juga pecah, \nNarita Brian benar-benar melampaui semua ekspektasi…",
+      "name": "<username>"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Bahkan di situasi kayak gini, kemana si biang kerok jalan-jalan～!?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "……"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "“Umamusume Triple Crown”, penaklukan “Arima Kinen” \ndengan 5 kemenangan G1…"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Tapi tetap saja, ambisiku belum penuh, \ndan semangatku masih belum puas."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Balapan berikutnya… masih belum…!"
+    }
+  ]
 }

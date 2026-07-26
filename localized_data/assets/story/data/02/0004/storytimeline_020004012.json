@@ -1,211 +1,211 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Komentator",
-            "text": "Laju depan benar-benar gila, penuh tekanan! \nPertarungan sengit antar Umamusume, tapi hanya satu yang bisa lepas dan menang—Narita Brian!"
-        },
-        {
-            "name": "Komentator",
-            "text": "Dan lihat waktunya! \nBukan cuma rekor “SatsukiShou”, tapi juga rekor lintasan 2000m Nakayama!!"
-        },
-        {
-            "name": "Komentator",
-            "text": "Lari yang luar biasa! \nSorakan dari tribun nggak berhenti sama sekali!"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "……"
-        },
-        {
-            "name": "Penonton A",
-            "text": "A-Apa-apaan tuh lurusan terakhirnya!!"
-        },
-        {
-            "name": "Penonton B",
-            "text": "Padahal ini G1, tapi lawan-lawannya diperlakukan kayak anak kecil!? \nSeberapa kuat sih kamu, Narita Brian!"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Menang telak dengan jarak 3 badan plus bikin rekor lintasan… \nBahkan setelah pencapaian kayak gitu, mukamu masih datar aja, \nnggak keliatan kayak pelari."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Brian, kamu emang adik yang keras kepala."
-        },
-        {
-            "text": "Balapan klasik, kemenangan telak di panggung besarー"
-        },
-        {
-            "text": "Inilah yang jadi titik awal buat ngasih dia gelar \n“Umamusume Terkuat”."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Fu…"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…Ah!!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Woah, Brian gila banget… \nDia udah beberapa kali pecahin catatan waktunya sendiri."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Padahal di “SatsukiShou” dia udah lari habis-habisan, \ntapi kelihatan makin kuat."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Lihat deh, orang-orang yang biasanya ribut soal kamu aja \njadi bengong, nggak bisa ngomong apa-apa."
-        },
-        {
-            "text": "Setiap kali dia lari, hasilnya selalu di luar dugaan. \nMenu latihanku aja udah sering harus dirombak gara-gara dia."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…Haaah."
-        },
-        {
-            "text": "Lari yang bagus, Brian. \nKayaknya langkahmu makin stabil sekarang."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Lari dengan pusat gravitasi rendah ya? \nWaktu itu aku sama Trainer nyusun taktik ini bareng pas rekrut Brian."
-        },
-        {
-            "text": "Aku cuma ngasih sedikit saran, \ntapi Brian yang bener-bener ngejalanin. \nAku kaget banget pas lihat dia lari kayak gitu.",
-            "name": "<username>"
-        },
-         {
-            "text": "Aku cuma ngasih sedikit saran, \ntapi Brian yang bener-bener ngejalanin. \nAku kaget banget pas lihat dia lari kayak gitu.",
-            "name": "<username>"
-        },
-        {
-            "text": "Yaudah, yuk tutup dengan satu kali lari lagi di akhir."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Udah cukup… Kalau gitu, kali ini aku bakal serius. \nTolong catat waktuku."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Hah!? Jadi selama ini kamu belum serius!?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "…Trainer-san, kayaknya kita mesti evaluasi lagi menu latihannya."
-        },
-        {
-            "text": "Sepertinya begitu…"
-        },
-        {
-            "name": "Reporter A",
-            "text": "Permisi, Brian-san! \nBoleh wawancara sebentar!?"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Hah!? Ini lagi latihan loh! Dasar ngeselin!!"
-        },
-        {
-            "name": "Reporter A",
-            "text": "Saya tahu ini nggak sopan, tapi saya nggak pernah bisa ngejar Anda. \nMakanya saya nekat dateng pas latihan…!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Kalau gitu, kenapa nggak wawancara aku aja?"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Golshi, Trainer, aku serahin sisanya ke kalian. \nAku lanjut lari."
-        },
-        {
-            "name": "Reporter A",
-            "text": "Ahh～, tunggu sebentar! \nMinimal satu kata aja!!"
-        },
-        {
-            "name": "Reporter A",
-            "text": "Kemenanganmu di “SatsukiShou” bener-bener luar biasa. \nTapi apa tujuanmu berikutnya adalah jadi Umamusume kelima \nyang dapet “Triple Crown” dalam sejarah?"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "……"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…Itu cuma “titik lewat” aja."
-        },
-        {
-            "name": "Reporter A",
-            "text": "…Titik lewat? M-Maksudnya gimana?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Ya artinya gitu."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Menang triple crown bukan berarti rasa haus \nuntuk balapan bakal berhenti…"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Udah kuduga kamu ada di sini."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Sekolah penuh sama wartawan \nyang nungguin kamu tiap selesai latihan."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Kak…"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Di “SatsukiShou” kalau ngikut arus cepat begitu, \nnormalnya orang bakal habis tenaga di lurusan terakhir."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Tapi kamu malah bisa ikut arus, \ndan pas semua orang kehabisan tenaga, \nkamu satu-satunya yang lepas dan menang."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Wajar aja dunia heboh lihat hal kayak gitu."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…Aku nggak merasa ngelakuin hal spesial. \nBahkan pace tadi juga nggak terasa cepat."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Aku tahu jelas ada Umamusume yang larinya lebih cepat."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "…Walau udah bikin dunia segempar ini dengan balapan seheboh itu, \nwajahmu tetap datar. Kayak nggak ada rasa puas sama sekali."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Kapan ya datang harinya kamu bisa ngerasain puas?"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "……"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "…Kalau pulang nanti lewat aja dari gerbang belakang. \nDi situ nggak ada wartawan."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Kamu udah ada di tim bagus, hasilmu juga nunjukin itu. \nAku bakal lihat sejauh mana kamu bisa melangkah ke depan."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Hari aku puas bakal datang… \nKak, bukannya kamu yang paling tahu soal itu?"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Itu hari ketika aku bisa melewati punggungmu."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Komentator",
+      "text": "Laju depan benar-benar gila, penuh tekanan! \nPertarungan sengit antar Umamusume, tapi hanya satu yang bisa lepas dan menang—Narita Brian!"
+    },
+    {
+      "name": "Komentator",
+      "text": "Dan lihat waktunya! \nBukan cuma rekor “SatsukiShou”, tapi juga rekor lintasan 2000m Nakayama!!"
+    },
+    {
+      "name": "Komentator",
+      "text": "Lari yang luar biasa! \nSorakan dari tribun nggak berhenti sama sekali!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "……"
+    },
+    {
+      "name": "Penonton A",
+      "text": "A-Apa-apaan tuh lurusan terakhirnya!!"
+    },
+    {
+      "name": "Penonton B",
+      "text": "Padahal ini G1, tapi lawan-lawannya diperlakukan kayak anak kecil!? \nSeberapa kuat sih kamu, Narita Brian!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Menang telak dengan jarak 3 badan plus bikin rekor lintasan… \nBahkan setelah pencapaian kayak gitu, mukamu masih datar aja, \nnggak keliatan kayak pelari."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Brian, kamu emang adik yang keras kepala."
+    },
+    {
+      "text": "Balapan klasik, kemenangan telak di panggung besarー"
+    },
+    {
+      "text": "Inilah yang jadi titik awal buat ngasih dia gelar \n“Umamusume Terkuat”."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Fu…"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…Ah!!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Woah, Brian gila banget… \nDia udah beberapa kali pecahin catatan waktunya sendiri."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Padahal di “SatsukiShou” dia udah lari habis-habisan, \ntapi kelihatan makin kuat."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Lihat deh, orang-orang yang biasanya ribut soal kamu aja \njadi bengong, nggak bisa ngomong apa-apa."
+    },
+    {
+      "text": "Setiap kali dia lari, hasilnya selalu di luar dugaan. \nMenu latihanku aja udah sering harus dirombak gara-gara dia."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…Haaah."
+    },
+    {
+      "text": "Lari yang bagus, Brian. \nKayaknya langkahmu makin stabil sekarang."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Lari dengan pusat gravitasi rendah ya? \nWaktu itu aku sama Trainer nyusun taktik ini bareng pas rekrut Brian."
+    },
+    {
+      "text": "Aku cuma ngasih sedikit saran, \ntapi Brian yang bener-bener ngejalanin. \nAku kaget banget pas lihat dia lari kayak gitu.",
+      "name": "<username>"
+    },
+    {
+      "text": "Aku cuma ngasih sedikit saran, \ntapi Brian yang bener-bener ngejalanin. \nAku kaget banget pas lihat dia lari kayak gitu.",
+      "name": "<username>"
+    },
+    {
+      "text": "Yaudah, yuk tutup dengan satu kali lari lagi di akhir."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Udah cukup… Kalau gitu, kali ini aku bakal serius. \nTolong catat waktuku."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hah!? Jadi selama ini kamu belum serius!?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "…Trainer-san, kayaknya kita mesti evaluasi lagi menu latihannya."
+    },
+    {
+      "text": "Sepertinya begitu…"
+    },
+    {
+      "name": "Reporter A",
+      "text": "Permisi, Brian-san! \nBoleh wawancara sebentar!?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hah!? Ini lagi latihan loh! Dasar ngeselin!!"
+    },
+    {
+      "name": "Reporter A",
+      "text": "Saya tahu ini nggak sopan, tapi saya nggak pernah bisa ngejar Anda. \nMakanya saya nekat dateng pas latihan…!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Kalau gitu, kenapa nggak wawancara aku aja?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Golshi, Trainer, aku serahin sisanya ke kalian. \nAku lanjut lari."
+    },
+    {
+      "name": "Reporter A",
+      "text": "Ahh～, tunggu sebentar! \nMinimal satu kata aja!!"
+    },
+    {
+      "name": "Reporter A",
+      "text": "Kemenanganmu di “SatsukiShou” bener-bener luar biasa. \nTapi apa tujuanmu berikutnya adalah jadi Umamusume kelima \nyang dapet “Triple Crown” dalam sejarah?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "……"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…Itu cuma “titik lewat” aja."
+    },
+    {
+      "name": "Reporter A",
+      "text": "…Titik lewat? M-Maksudnya gimana?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ya artinya gitu."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Menang triple crown bukan berarti rasa haus \nuntuk balapan bakal berhenti…"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Udah kuduga kamu ada di sini."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Sekolah penuh sama wartawan \nyang nungguin kamu tiap selesai latihan."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Kak…"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Di “SatsukiShou” kalau ngikut arus cepat begitu, \nnormalnya orang bakal habis tenaga di lurusan terakhir."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Tapi kamu malah bisa ikut arus, \ndan pas semua orang kehabisan tenaga, \nkamu satu-satunya yang lepas dan menang."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Wajar aja dunia heboh lihat hal kayak gitu."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…Aku nggak merasa ngelakuin hal spesial. \nBahkan pace tadi juga nggak terasa cepat."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Aku tahu jelas ada Umamusume yang larinya lebih cepat."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "…Walau udah bikin dunia segempar ini dengan balapan seheboh itu, \nwajahmu tetap datar. Kayak nggak ada rasa puas sama sekali."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Kapan ya datang harinya kamu bisa ngerasain puas?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "……"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "…Kalau pulang nanti lewat aja dari gerbang belakang. \nDi situ nggak ada wartawan."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Kamu udah ada di tim bagus, hasilmu juga nunjukin itu. \nAku bakal lihat sejauh mana kamu bisa melangkah ke depan."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Hari aku puas bakal datang… \nKak, bukannya kamu yang paling tahu soal itu?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Itu hari ketika aku bisa melewati punggungmu."
+    }
+  ]
 }

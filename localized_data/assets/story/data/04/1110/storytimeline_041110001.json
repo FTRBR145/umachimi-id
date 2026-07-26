@@ -1,249 +1,249 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Kalau diumpamain, rasanya bahagia seperti\nsaat membuka buku baru. Walau deg-degan ketika baru \nmembaca satu baris, tapi sudah menghayati isi ceritanya."
-        },
-        {
-            "text": "Itulah yang kurasakan tepat saat balapan\nSeleksi ini dimulai. Seluruh penonton dipenuhi \nkegembiraan yang aneh karena intensnya balapan ini――"
-        },
-        {
-            "name": "<size=36>Trainer Tingkat Menengah A</size>",
-            "text": "Rhein Kraft dan Daring Heart!\nKeduanya mengambil posisi yang bagus!"
-        },
-        {
-            "name": "<size=36>Trainer Tingkat Menengah B</size>",
-            "text": "Dan dari belakang, Air Messiah juga mengincar mereka!\nAh, dan dia mulai bergerak!"
-        },
-        {
-            "text": "Seperti yang sudah diberitakan sebelumnya, tampaknya banyak\nUmamusume berbakat berlari hari ini. Ketegangannya hampir\nseperti balapan besar. Aku mengepalkan tanganku."
-        },
-        {
-            "text": "Pertarungan ini, siapa yang akan menang――"
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "Kuu……!"
-        },
-        {
-            "name": "<size=36>Trainer Tingkat Menengah A</size>",
-            "text": "Rhein Kraft! 200m lagi, Rhein Kraft mulai unggul!! Luar biasa!\nPace-nya tidak menurun!",
-            "choice_data_list": [
-                "Apa dia akan bertahan……!?",
-                "Apa dia akan bertahan……!?"
-            ]
-        },
-        {
-            "name": "<size=36>Trainer Tingkat Menengah B</size>",
-            "text": "Lihat! Dari belakang!\nDia mengejar dengan kecepatan luar biasa!"
-        },
-        {
-            "name": "<size=36>Umamusume yang Mengejar</size>",
-            "text": "……………………!\nHaaaaaaaaaaaaaaaa!!!"
-        },
-        {
-            "text": "Dengan kilatan biru dan emas, balapan melesat maju. Seorang\nUmamusume memotong jarak dan menyusul Rhein Kraft.",
-            "choice_data_list": [
-                "Penampilan yang hebat……!!",
-                "Penampilan yang hebat……!!"
-            ]
-        },
-        {
-            "name": "<size=36>Trainer Tingkat Menengah A</size>",
-            "text": "Itu Cesario? Di tikungan terakhir tadi, kupikir dia sangat jauh\ndi belakang. Tidak kusangka dia bisa menyusul sedemikian rupa……!!"
-        },
-        {
-            "name": "Cesario",
-            "text": "Kuu…………belum!!\nHaaaaaaaaaaaaaaaaーーーー!!!"
-        },
-        {
-            "text": "Aku bisa merasakan jantungku berdetak kencang.",
-            "choice_data_list": [
-                "Balapan yang hebat……"
-            ]
-        },
-        {
-            "text": "\"Dalam sekejap aku berubah menjadi rusa; dan\nhasratku, seperti anjing pemburu kejam, terus\nmengejarku.\" ――Kalimat dari drama terkenal itu muncul di benakku."
-        },
-        {
-            "text": "Itu adalah kata-kata seorang Adipati yang menyatakan\njatuh cintanya pada seorang Countess. Tapi begitulah perasaanku\nterhadap leg terakhir itu."
-        },
-        {
-            "text": "Cesario――nama yang indah dan anggun.\nIa bahkan punya aura seperti seorang ratu."
-        },
-        {
-            "text": "Saat aku masih larut dalam suasana itu, kerumunan sudah\nmengelilingi para peserta. Aku tertinggal dan buru-buru\nbergegas mendekat."
-        },
-        {
-            "name": "Cesario",
-            "text": "Ya. 『Oka Sho』, 『Oaks』, dan 『Shuuka Sho』――Untuk menaklukkan\nketiga ini dan meraih Triple Tiara adalah tujuanku."
-        },
-        {
-            "name": "<size=36>Trainer Tingkat Menengah A</size>",
-            "text": "Rotasi Tiara, ya……! Ayo kita incar bersama!\nKalau itu kamu, pasti bisa!"
-        },
-        {
-            "name": "<size=36>Trainer Tingkat Menengah B</size>",
-            "text": "Cesario-san, izinkan aku merekrutmu! Untuk rotasi Tiara,\naku lebih berpengalaman. Aku tidak akan membuatmu menyesal!"
-        },
-        {
-            "name": "Cesario",
-            "text": "Untuk semua ajakan yang begitu bersemangat, aku sangat\nbersyukur. Selain menandatangani kontrak, aku ingin\nlebih mengenal kalian semua."
-        },
-        {
-            "name": "Cesario",
-            "text": "Pertama, lewat dialog……agar saling memahami lebih dalam.\nKarena ketika karir kita dimulai, kita akan berjalan bersama\nsebagai satu tim."
-        },
-        {
-            "name": "<size=36>Trainer Tingkat Menengah A</size>",
-            "text": "Benar juga. Setelah ini, mari luangkan waktu dan ngobrol panjang.\nAku akan menyiapkan materi pembelajarannya."
-        },
-        {
-            "name": "<size=36>Trainer Tingkat Menengah B</size>",
-            "text": "Aku juga akan membuat rencana yang sesuai dengan tujuanmu.\nKalau berkenan, bisakah kau ceritakan kenapa mengincar Triple Tiara?"
-        },
-        {
-            "name": "Cesario",
-            "text": "Di balik mimpi besar Triple Tiara,\naku……punya mimpi lain."
-        },
-        {
-            "name": "Cesario",
-            "text": "Dan itu adalah menjadi cahaya penuntun bagi Umamusume\nmasa depan――Karenanya, untuk membuktikan nilainya,\naku harus memenangkan balapan."
-        },
-        {
-            "name": "Cesario",
-            "text": "Terutama 『Oaks』, itu tidak boleh lepas dariku.\nMahkota Ratu dari Oaks……harus kuraih……"
-        },
-        {
-            "text": "Apa maksudnya membuktikan nilai sebagai cahaya penuntun?\n――Bahkan saat makan pun, aku terus memikirkannya.",
-            "choice_data_list": [
-                "<size=42>Padahal aku belum bicara dengannya!</size>"
-            ]
-        },
-        {
-            "text": "Tanganku terpeleset dan menjatuhkan gelasku yang setengah\nkosong. Isinya tumpah ke meja dan menetes ke lantai."
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "Uwaaah, berantakan! Aku ambil kain untuk bersih-bersih!"
-        },
-        {
-            "name": "Cesario",
-            "text": "Aku serahkan itu padamu. ……Kelihatannya sampai membasahi\nujung jaketmu. Akan kubersihkan nodanya. Boleh kupinjam jaketnya?",
-            "choice_data_list": [
-                "Y-ya……",
-                "Y-ya……"
-            ]
-        },
-        {
-            "text": "Setelah menyerahkan jaketku, dia meletakkan sapu tangan di bawah\nbagian yang terkena noda, lalu menepuk-nepuknya dengan kain basah."
-        },
-        {
-            "text": "Gadis yang tadi tak sempat kuberi salam kini tepat\nada di depanku……sementara aku masih bingung harus\nmengatakan apa, meja dan jaketku sudah bersih……"
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "Padahal kamu tidak perlu mentraktir kami. Trainer-san benar-benar\norang baik. Terima kasih banyak!"
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "Fufuu, kue, kue♪ Ini sama seperti yang kita bagi kemarin,\nkan Cesario? Dan yang hari ini buahnya lebih banyak!"
-        },
-        {
-            "name": "Cesario",
-            "text": "Waktu itu hanya tersisa satu, ya? Seru juga memilih siapa yang\nmakan buah bagian mana waktu itu♪",
-            "choice_data_list": [
-                "(Loh? Kok suasana nya beda?……)"
-            ]
-        },
-        {
-            "name": "Cesario",
-            "text": "Kraft, kamu butuh gula? Kalau mau, akan kutambahkan.\nKalau terlalu panas, bilang saja. Akan kusingkirkan panasnya."
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "Terima kasih! Cesario, kamu manis sekali～!"
-        },
-        {
-            "name": "Cesario",
-            "text": "Um, gelasmu kosong, mau tambah air? Mau yang suhu ruangan atau\nhangat? Akan kuambilkan.",
-            "choice_data_list": [
-                "Kalau gitu...bentar! Daripada itu!"
-            ]
-        },
-        {
-            "name": "Cesario",
-            "text": "? Ada apa?"
-        },
-        {
-            "text": "Dia memang terlihat seperti Cesario dari balapan Seleksi.\nTapi aura anggun itu sama sekali tidak ada."
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "Ah, aku tahu! Kamu pasti kaget karena suasana Cesario\nberubah total, kan?"
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "Cesario itu, gimana ya, perbedaan On dan Off-nya sangat jelas.\nBisa berubah tergantung situasi――ya, kan?"
-        },
-        {
-            "name": "Cesario",
-            "text": "Fufu, kadang orang bertanya 『Yang mana Cesario yang asli?』,\ntapi keduanya adalah aku. Bedanya hanya apakah\naku sedang fokus atau tidak……",
-            "choice_data_list": [
-                "B-begitu ya……"
-            ]
-        },
-        {
-            "text": "Meski dia menjelaskannya begitu, rasanya seperti dua orang yang\nberbeda. Mungkin itu berarti dia sangat ketat mengendalikan dirinya."
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "Fuaaaah……setelah kenyang rasanya jadi mengantuk……"
-        },
-        {
-            "name": "Cesario",
-            "text": "Di sini hangat ya? Kursinya juga teduh karena tiang.\nKamu bisa tidur di pangkuanku."
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "Yaaay……kalau begitu, sebentar saja……"
-        },
-        {
-            "name": "Cesario",
-            "text": "Bagaimana kalau kamu istirahat sebentar juga?\nAku punya selimut, akan kupinjamkan.",
-            "choice_data_list": [
-                "Kalau gitu...bentar! Tidak usah, deh!"
-            ]
-        },
-        {
-            "text": "Aku hampir terbawa oleh senyumnya yang lembut, tapi sebagai orang\ndewasa, mana bisa aku tidur di sini! Aku buru-buru menggeleng."
-        },
-        {
-            "name": "Cesario",
-            "text": "Begitu……Kalau begitu, bisakah kau mengulurkan tangan?",
-            "choice_data_list": [
-                "Tanganku? Baik……"
-            ]
-        },
-        {
-            "text": "Cesario menggenggam tanganku dan menekan titik-titik tertentu.\nAwalnya aku terkejut, tapi tekanan lembut itu membuat kepalaku jernih."
-        },
-        {
-            "name": "Cesario",
-            "text": "Titik-titik ini membantu meredakan lelah.\nKalau merasa capek, coba lakukan ini."
-        },
-        {
-            "name": "Cesario",
-            "text": "Fufu, sepertinya wajahmu sudah agak membaik.\nJangan terlalu memaksakan diri di siang hari, ya?",
-            "choice_data_list": [
-                "Terima kasih. Aku merasa lebih baik."
-            ]
-        },
-        {
-            "text": "Wajahnya sama. Suaranya juga sama.\nTapi ekspresinya benar-benar berbeda."
-        },
-        {
-            "text": "Seperti siang dan malam yang membentuk satu hari penuh,\nitu adalah dua sisi dari koin yang sama. Bagaimana aku\ntidak tertarik dengan sifat seperti itu……?"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Kalau diumpamain, rasanya bahagia seperti\nsaat membuka buku baru. Walau deg-degan ketika baru \nmembaca satu baris, tapi sudah menghayati isi ceritanya."
+    },
+    {
+      "text": "Itulah yang kurasakan tepat saat balapan\nSeleksi ini dimulai. Seluruh penonton dipenuhi \nkegembiraan yang aneh karena intensnya balapan ini――"
+    },
+    {
+      "name": "<size=36>Trainer Tingkat Menengah A</size>",
+      "text": "Rhein Kraft dan Daring Heart!\nKeduanya mengambil posisi yang bagus!"
+    },
+    {
+      "name": "<size=36>Trainer Tingkat Menengah B</size>",
+      "text": "Dan dari belakang, Air Messiah juga mengincar mereka!\nAh, dan dia mulai bergerak!"
+    },
+    {
+      "text": "Seperti yang sudah diberitakan sebelumnya, tampaknya banyak\nUmamusume berbakat berlari hari ini. Ketegangannya hampir\nseperti balapan besar. Aku mengepalkan tanganku."
+    },
+    {
+      "text": "Pertarungan ini, siapa yang akan menang――"
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Kuu……!"
+    },
+    {
+      "name": "<size=36>Trainer Tingkat Menengah A</size>",
+      "text": "Rhein Kraft! 200m lagi, Rhein Kraft mulai unggul!! Luar biasa!\nPace-nya tidak menurun!",
+      "choice_data_list": [
+        "Apa dia akan bertahan……!?",
+        "Apa dia akan bertahan……!?"
+      ]
+    },
+    {
+      "name": "<size=36>Trainer Tingkat Menengah B</size>",
+      "text": "Lihat! Dari belakang!\nDia mengejar dengan kecepatan luar biasa!"
+    },
+    {
+      "name": "<size=36>Umamusume yang Mengejar</size>",
+      "text": "……………………!\nHaaaaaaaaaaaaaaaa!!!"
+    },
+    {
+      "text": "Dengan kilatan biru dan emas, balapan melesat maju. Seorang\nUmamusume memotong jarak dan menyusul Rhein Kraft.",
+      "choice_data_list": [
+        "Penampilan yang hebat……!!",
+        "Penampilan yang hebat……!!"
+      ]
+    },
+    {
+      "name": "<size=36>Trainer Tingkat Menengah A</size>",
+      "text": "Itu Cesario? Di tikungan terakhir tadi, kupikir dia sangat jauh\ndi belakang. Tidak kusangka dia bisa menyusul sedemikian rupa……!!"
+    },
+    {
+      "name": "Cesario",
+      "text": "Bulan............belum!!\nHaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+      "text": "Aku bisa merasakan jantungku berdetak kencang.",
+      "choice_data_list": [
+        "Balapan yang hebat……"
+      ]
+    },
+    {
+      "text": "\"Dalam sekejap aku berubah menjadi rusa; dan\nhasratku, seperti anjing pemburu kejam, terus\nmengejarku.\" ――Kalimat dari drama terkenal itu muncul di benakku."
+    },
+    {
+      "text": "Itu adalah kata-kata seorang Adipati yang menyatakan\njatuh cintanya pada seorang Countess. Tapi begitulah perasaanku\nterhadap leg terakhir itu."
+    },
+    {
+      "text": "Cesario――nama yang indah dan anggun.\nIa bahkan punya aura seperti seorang ratu."
+    },
+    {
+      "text": "Saat aku masih larut dalam suasana itu, kerumunan sudah\nmengelilingi para peserta. Aku tertinggal dan buru-buru\nbergegas mendekat."
+    },
+    {
+      "name": "Cesario",
+      "text": "Ya. 『Oka Sho』, 『Oaks』, dan 『Shuuka Sho』――Untuk menaklukkan\nketiga ini dan meraih Triple Tiara adalah tujuanku."
+    },
+    {
+      "name": "<size=36>Trainer Tingkat Menengah A</size>",
+      "text": "Rotasi Tiara, ya……! Ayo kita incar bersama!\nKalau itu kamu, pasti bisa!"
+    },
+    {
+      "name": "<size=36>Trainer Tingkat Menengah B</size>",
+      "text": "Cesario-san, izinkan aku merekrutmu! Untuk rotasi Tiara,\naku lebih berpengalaman. Aku tidak akan membuatmu menyesal!"
+    },
+    {
+      "name": "Cesario",
+      "text": "Untuk semua ajakan yang begitu bersemangat, aku sangat\nbersyukur. Selain menandatangani kontrak, aku ingin\nlebih mengenal kalian semua."
+    },
+    {
+      "name": "Cesario",
+      "text": "Pertama, lewat dialog……agar saling memahami lebih dalam.\nKarena ketika karir kita dimulai, kita akan berjalan bersama\nsebagai satu tim."
+    },
+    {
+      "name": "<size=36>Trainer Tingkat Menengah A</size>",
+      "text": "Benar juga. Setelah ini, mari luangkan waktu dan ngobrol panjang.\nAku akan menyiapkan materi pembelajarannya."
+    },
+    {
+      "name": "<size=36>Trainer Tingkat Menengah B</size>",
+      "text": "Aku juga akan membuat rencana yang sesuai dengan tujuanmu.\nKalau berkenan, bisakah kau ceritakan kenapa mengincar Triple Tiara?"
+    },
+    {
+      "name": "Cesario",
+      "text": "Di balik mimpi besar Triple Tiara,\naku……punya mimpi lain."
+    },
+    {
+      "name": "Cesario",
+      "text": "Dan itu adalah menjadi cahaya penuntun bagi Umamusume\nmasa depan――Karenanya, untuk membuktikan nilainya,\naku harus memenangkan balapan."
+    },
+    {
+      "name": "Cesario",
+      "text": "Terutama 『Oaks』, itu tidak boleh lepas dariku.\nMahkota Ratu dari Oaks……harus kuraih……"
+    },
+    {
+      "text": "Apa maksudnya membuktikan nilai sebagai cahaya penuntun?\n――Bahkan saat makan pun, aku terus memikirkannya.",
+      "choice_data_list": [
+        "<size=42>Padahal aku belum bicara dengannya!</size>"
+      ]
+    },
+    {
+      "text": "Tanganku terpeleset dan menjatuhkan gelasku yang setengah\nkosong. Isinya tumpah ke meja dan menetes ke lantai."
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Uwaaah, berantakan! Aku ambil kain untuk bersih-bersih!"
+    },
+    {
+      "name": "Cesario",
+      "text": "Aku serahkan itu padamu. ……Kelihatannya sampai membasahi\nujung jaketmu. Akan kubersihkan nodanya. Boleh kupinjam jaketnya?",
+      "choice_data_list": [
+        "Y-ya……",
+        "Y-ya……"
+      ]
+    },
+    {
+      "text": "Setelah menyerahkan jaketku, dia meletakkan sapu tangan di bawah\nbagian yang terkena noda, lalu menepuk-nepuknya dengan kain basah."
+    },
+    {
+      "text": "Gadis yang tadi tak sempat kuberi salam kini tepat\nada di depanku……sementara aku masih bingung harus\nmengatakan apa, meja dan jaketku sudah bersih……"
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Padahal kamu tidak perlu mentraktir kami. Trainer-san benar-benar\norang baik. Terima kasih banyak!"
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Fufuu, kue, kue♪ Ini sama seperti yang kita bagi kemarin,\nkan Cesario? Dan yang hari ini buahnya lebih banyak!"
+    },
+    {
+      "name": "Cesario",
+      "text": "Waktu itu hanya tersisa satu, ya? Seru juga memilih siapa yang\nmakan buah bagian mana waktu itu♪",
+      "choice_data_list": [
+        "(Loh? Kok suasana nya beda?……)"
+      ]
+    },
+    {
+      "name": "Cesario",
+      "text": "Kraft, kamu butuh gula? Kalau mau, akan kutambahkan.\nKalau terlalu panas, bilang saja. Akan kusingkirkan panasnya."
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Terima kasih! Cesario, kamu manis sekali～!"
+    },
+    {
+      "name": "Cesario",
+      "text": "Um, gelasmu kosong, mau tambah air? Mau yang suhu ruangan atau\nhangat? Akan kuambilkan.",
+      "choice_data_list": [
+        "Kalau gitu...bentar! Daripada itu!"
+      ]
+    },
+    {
+      "name": "Cesario",
+      "text": "? Ada apa?"
+    },
+    {
+      "text": "Dia memang terlihat seperti Cesario dari balapan Seleksi.\nTapi aura anggun itu sama sekali tidak ada."
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Ah, aku tahu! Kamu pasti kaget karena suasana Cesario\nberubah total, kan?"
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Cesario itu, gimana ya, perbedaan On dan Off-nya sangat jelas.\nBisa berubah tergantung situasi――ya, kan?"
+    },
+    {
+      "name": "Cesario",
+      "text": "Fufu, kadang orang bertanya 『Yang mana Cesario yang asli?』,\ntapi keduanya adalah aku. Bedanya hanya apakah\naku sedang fokus atau tidak……",
+      "choice_data_list": [
+        "B-begitu ya……"
+      ]
+    },
+    {
+      "text": "Meski dia menjelaskannya begitu, rasanya seperti dua orang yang\nberbeda. Mungkin itu berarti dia sangat ketat mengendalikan dirinya."
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Fuaaaah……setelah kenyang rasanya jadi mengantuk……"
+    },
+    {
+      "name": "Cesario",
+      "text": "Di sini hangat ya? Kursinya juga teduh karena tiang.\nKamu bisa tidur di pangkuanku."
+    },
+    {
+      "name": "Rhein Kraft",
+      "text": "Yaaay……kalau begitu, sebentar saja……"
+    },
+    {
+      "name": "Cesario",
+      "text": "Bagaimana kalau kamu istirahat sebentar juga?\nAku punya selimut, akan kupinjamkan.",
+      "choice_data_list": [
+        "Kalau gitu...bentar! Tidak usah, deh!"
+      ]
+    },
+    {
+      "text": "Aku hampir terbawa oleh senyumnya yang lembut, tapi sebagai orang\ndewasa, mana bisa aku tidur di sini! Aku buru-buru menggeleng."
+    },
+    {
+      "name": "Cesario",
+      "text": "Begitu……Kalau begitu, bisakah kau mengulurkan tangan?",
+      "choice_data_list": [
+        "Tanganku? Baik……"
+      ]
+    },
+    {
+      "text": "Cesario menggenggam tanganku dan menekan titik-titik tertentu.\nAwalnya aku terkejut, tapi tekanan lembut itu membuat kepalaku jernih."
+    },
+    {
+      "name": "Cesario",
+      "text": "Titik-titik ini membantu meredakan lelah.\nKalau merasa capek, coba lakukan ini."
+    },
+    {
+      "name": "Cesario",
+      "text": "Fufu, sepertinya wajahmu sudah agak membaik.\nJangan terlalu memaksakan diri di siang hari, ya?",
+      "choice_data_list": [
+        "Terima kasih. Aku merasa lebih baik."
+      ]
+    },
+    {
+      "text": "Wajahnya sama. Suaranya juga sama.\nTapi ekspresinya benar-benar berbeda."
+    },
+    {
+      "text": "Seperti siang dan malam yang membentuk satu hari penuh,\nitu adalah dua sisi dari koin yang sama. Bagaimana aku\ntidak tertarik dengan sifat seperti itu……?"
+    }
+  ]
 }

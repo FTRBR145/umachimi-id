@@ -58,9 +58,9 @@
     {
       "text": "Dan mungkin sulit buat dia untuk nyemangatin Winning Ticket.",
       "choice_data_list": [
-                "Kurasa dia ga mau lari sama kamu",
-                "Kurasa dia ga mau lari sama kamu"
-            ]
+        "Kurasa dia ga mau lari sama kamu",
+        "Kurasa dia ga mau lari sama kamu"
+      ]
     },
     {
       "name": "Biwa Hayahide",
@@ -83,11 +83,11 @@
     },
     {
       "text": "Daripada lari berdampingan, nunjukin punggungmu\n itu sesuatu yang bisa kamu lakukan sebagai rival.",
-            "name": "<username>"
+      "name": "<username>"
     },
-     {
+    {
       "text": "Daripada lari berdampingan, nunjukin punggungmu\n itu sesuatu yang bisa kamu lakukan sebagai rival.",
-            "name": "<username>"
+      "name": "<username>"
     },
     {
       "name": "Winning Ticket",

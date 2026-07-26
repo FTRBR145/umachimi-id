@@ -1,347 +1,347 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {},
-        {
-            "name": "Komentator Langsung",
-            "text": "200 meter terakhir!! Hishi Amazon masih memimpin! \nNarita Brian kesulitan banget buat nyusul!"
-        },
-        {
-            "text": "Setelah “Emperor Prize (Autumn)”, dia juga kalah \ndi “Japan Cup”ー"
-        },
-        {
-            "text": "Aku bolak-balik nonton rekaman lomba, nyari tahu \nkenapa Narita Brian yang dulu selalu menang, \nsekarang malah kalah beruntun."
-        },
-        {
-            "text": "Kalau lihat jadwal sekarang, selanjutnya “Arima Kinen”. \nApa ada tanda-tanda kekuatannya bakal balik lagi ya…"
-        },
-        {
-            "name": "Komentator Langsung",
-            "text": "Hishi Amazon sampai garis duluan dengan jarak 2 panjang badan! \nNarita Brian makin tertinggal, finis di posisi 6!"
-        },
-        {
-            "text": "Rasanya belum balik juga. Gaya larinya dengan pusat \nberat badan rendah kayak duluー",
-            "name": "<username>"
-        },
-        {
-            "text": "Rasanya belum balik juga. Gaya larinya dengan pusat \nberat badan rendah kayak duluー",
-            "name": "<username>"
-        },
-        {
-            "text": "(Tok-Tok)"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Maaf ganggu tiba-tiba, aku masuk ya."
-        },
-        {
-            "text": "Jarang banget, kamu datang nengokin aku.",
-            "name": "<username>"
-        },
-        {
-            "text": "Jarang banget, kamu datang nengokin aku.",
-            "name": "<username>"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Iya, aku mau ngobrol soal adikku yang kamu rawat sekarang."
-        },
-        {
-            "text": "Walaupun nadanya kayak biasa, ekspresinya serius. \nSekarang dia pasti orang yang paling mikirin Narita Brian."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Di luar sana ada omongan, katanya “Apa jangan-jangan dia \nmasih cedera, atau belum sembuh total”…"
-        },
-        {
-            "text": "Itu cuma omongan doang. Bahkan kalau kulihat rekaman lomba, \ncederanya Brian udah sembuh kok."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Aku juga mikir gitu, susah percaya kalau kamu maksain Brian. \nTapi memang faktanya hasilnya belum keliatan."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Dalam kondisi gini, kamu masih mau biarin Brian ikut “Arima Kinen”?"
-        },
-        {
-            "text": "Terserah Brian kalau dia memang mau ikut."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Tapi kamu sendiri juga nggak tahu apa penyebabnya kan?"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "…Kalau dia kalah lagi dengan cara yang sama di “Arima Kinen”, \nsuara yang meragukan kebijakanmu bakal makin keras. \nKamu tetap biarin dia ikut?"
-        },
-        {
-            "text": "Aku yakin reaksi kayak yang dibilang Biwa Hayahide pasti muncul, \ntapi aku nggak peduli sama ituー",
-            "choice_data_list": [
-                "Aku cuma mikirin keinginan Brian, itu yang nomor satu",
-                "Aku cuma mikirin keinginan Brian, itu yang nomor satu"
-            ]
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Ehehe… Begitu ya, dengar kamu ngomong gitu bikin aku lega."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Jujur aja, aku datang hari ini sebenarnya mau minta kamu biarin \nBrian ikut “Arima Kinen”."
-        },
-        {
-            "text": "Eh…?"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Tapi ternyata nggak perlu. Umamusume-mu… kamu selalu \nprioritaskan Brian duluan."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Aku ada sesuatu yang mau bilang. Tentang waktu dia kalah \ndi “Emperor Prize (Autumn)”."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Aku sendiri nggak nyangka dia sampai finis peringkat 12. \nJadi aku sempet ngobrol sama dia habis lomba…"
-        },
-        {
-            "text": "Brian nangis…?"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Aku udah jadi kakaknya bertahun-tahun, tapi aku lupa \nkapan terakhir kali lihat dia nangis."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Tapi dia bukan tipe cewek yang gampang berhenti lari."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Trainer, dengan kekuatanmu tolong bantu adikku… Kumohon."
-        },
-        {
-            "text": "Biwa Hayahide, mungkin dia sebenarnya sudah tahu \napa yang terjadi sama Narita Brian."
-        },
-        {
-            "text": "Mata yang bilang “Tolong adikku”, \nmenyimpan perasaan yang begitu kuat."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Heh… heh…"
-        },
-        {
-            "text": "Udahan dulu latihan di lintasan, Brian.",
-            "name": "<username>"
-        },
-        {
-            "text": "Udahan dulu latihan di lintasan, Brian.",
-            "name": "<username>"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…“Arima Kinen” sebentar lagi. Aku nggak ada waktu \nbuat santai-santai."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Jadi Trainer… kamu ke sini buat nyuruh aku berhenti latihan?"
-        },
-        {
-            "text": "Nggak, aku datang buat ketemu kamu.",
-            "name": "<username>"
-        },
-        {
-            "text": "Nggak, aku datang buat ketemu kamu.",
-            "name": "<username>"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…Ketemu aku?"
-        },
-        {
-            "text": "Aku denger dari Hayahide soal kejadian \ndi “Emperor Prize (Autumn)” habis lomba."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "……"
-        },
-        {
-            "text": "Aku nggak tahu apa arti dari air matamu.",
-            "name": "<username>"
-        },
-        {
-            "text": "Aku nggak tahu apa arti dari air matamu.",
-            "name": "<username>"
-        },
-        {
-            "text": "Tapi aku ngerti kalau “Emperor Prize (Autumn)” \nitu punya arti besar banget buatmu.",
-            "name": "<username>"
-        },
-        {
-            "text": "Tapi aku ngerti kalau “Emperor Prize (Autumn)” \nitu punya arti besar banget buatmu.",
-            "name": "<username>"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…Begitu ya, makanya kamu datang ketemu aku."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Jadi gimana? Kamu mau bilang aku harus batal \nikut lomba “Arima Kinen”?"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Apa kamu mau bilang Umamusume payah yang kalah \ndan nangis kayak aku nggak pantas muncul di Grand Prix!"
-        },
-        {
-            "text": "Narita Brian menatapku dengan tatapan tajam."
-        },
-        {
-            "text": "Seakan ada cahaya samar di matanya. \nMakanya aku yakin.",
-            "choice_data_list": [
-                "Nggak, kamu tetap akan ikut di “Arima Kinen”",
-                "Nggak, kamu tetap akan ikut di “Arima Kinen”"
-            ]
-        },
-        {
-            "text": "Seakan ada cahaya samar di matanya. \nMakanya aku yakin.",
-            "choice_data_list": [
-                "Nggak, kamu tetap akan ikut di “Arima Kinen”",
-                "Nggak, kamu tetap akan ikut di “Arima Kinen”"
-            ]
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…Kenapa, kamu ngelakuin itu?"
-        },
-        {
-            "text": "Karena aku sedikit ngerti arti dari air matamu. \nPerasaanmu nggak akan pernah berubah.",
-            "name": "<username>"
-        },
-        {
-            "text": "Karena aku sedikit ngerti arti dari air matamu. \nPerasaanmu nggak akan pernah berubah.",
-            "name": "<username>"
-        },
-        {
-            "text": "Makanya aku bilang, aku biarin kamu lakuin sesukamu. \nAku ini Trainer yang dukung Umamusume.",
-            "name": "<username>"
-        },
-        {
-            "text": "Makanya aku bilang, aku biarin kamu lakuin sesukamu. \nAku ini Trainer yang dukung Umamusume.",
-            "name": "<username>"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…Begitu ya."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Maaf, aku tadi ngomongnya kayak nyalahin. Dan juga… makasih.",
-            "choice_data_list": [
-                "Pergi dan menangkan lomba, Brian!",
-                "Pergi dan menangkan lomba, Brian!"
-            ]
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Iya, ayo kita tantang mereka habis-habisan!"
-        },
-        {
-            "text": "Aku nggak tahu kenapa kondisi Narita Brian memburuk. \nDan aku juga nggak tahu arti sebenarnya dari air mata itu."
-        },
-        {
-            "text": "Tapi aku tetap percaya sama dia. Perasaan kuat yang \nada di balik tatapan itu."
-        },
-        {
-            "name": "Komentator",
-            "text": "Narita Brian masuk lurusan terakhir dengan kondisi sempurna! \nSekarang, apa Narita Brian bakal bangkit hari ini!!?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Posisinya sempurna! Dari sini saatnya maju!!"
-        },
-        {
-            "name": "Komentator",
-            "text": "Yang pertama Mayano Top Gun, pemenang “Kikkashou”!! \nNarita Brian ngejar habis-habisan!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Ayo Brian! Tunjukin lari terbaikmu!!"
-        },
-        {
-            "name": "Komentator",
-            "text": "Tapi sulit banget maju! Brian, apa kaki hebatmu \ngak bisa keluar lagi di sini!?"
-        },
-        {
-            "text": "Beberapa saat kemudian, ekspresi Narita Brian yang lari di depanku \nmuncul jelas di pandanganku."
-        },
-        {
-            "text": "Narita Brian lari sekuat tenaga dengan kakinya."
-        },
-        {
-            "text": "Tapi bayangan Mayano Top Gun di depannya makin menjauh, \ndia juga tersusul sama lawan dari belakang."
-        },
-        {
-            "name": "Penonton A",
-            "text": "Nggak bisa, nggak maju juga!"
-        },
-        {
-            "name": "Penonton B",
-            "text": "Ternyata Brian yang terkuat udah nggak ada lagi…!"
-        },
-        {
-            "text": "Tapi matanya nggak berubah. Tatapan penuh keyakinan \nyang hanya fokus ke garis finis."
-        },
-        {
-            "text": "Pas aku lihat ekspresi putus asa Narita Brian, \nakhirnya aku sadar."
-        },
-        {
-            "text": "Alasan dia terus kalah bukan karena sakit atau kurang latihan. \nDia udah nggak bisa lagi lakukan “Lari itu” seperti dulu…"
-        },
-        {
-            "text": "Dia sadar hal itu di “Emperor Prize (Autumn)”, \nmakanya dia putus asa dan menangis."
-        },
-        {
-            "name": "Komentator",
-            "text": "Narita Brian, jaraknya nggak bisa dipersempit! \nMayano Top Gun berlari sendirian!"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Haaaa～～!!!!"
-        },
-        {
-            "text": "…Tapi, dia tetap lari kayak gini. \nLihat ke depan, bukan ke belakang."
-        },
-        {
-            "text": "Saat aku sadar itu, tiba-tiba kata-kata muncul di kepalakuー",
-            "choice_data_list": [
-                "Brian, kamu pasti bisa!!!!"
-            ]
-        },
-        {
-            "name": "Penonton A",
-            "text": "…Eh!? Kamu pasti bisa～～!!!!"
-        },
-        {
-            "name": "Penonton B",
-            "text": "Kamu bisa Brian!! Kamu bisa!!"
-        },
-        {
-            "name": "Komentator",
-            "text": "Mayano Top Gun yang pertama nyebrang garis! \nPemenang “Kikkashou” juga menang di “Arima Kinen”!"
-        },
-        {
-            "name": "Komentator",
-            "text": "Narita Brian finis di posisi 4!"
-        },
-        {
-            "text": "Mungkin ini pertama kalinya aku bilang “Kamu bisa” \nke dia yang dulu selalu menang dengan mudah."
-        },
-        {
-            "text": "Tapi sebagai Trainernya, aku merasa ikut maju juga."
-        },
-        {
-            "text": "Narita Brian tetap lari menuju kemenangan dan terus berjuang. \nMakanya dia masih Umamusume terkuat bahkan sampai sekarang…!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {},
+    {
+      "name": "Komentator Langsung",
+      "text": "200 meter terakhir!! Hishi Amazon masih memimpin! \nNarita Brian kesulitan banget buat nyusul!"
+    },
+    {
+      "text": "Setelah “Emperor Prize (Autumn)”, dia juga kalah \ndi “Japan Cup”ー"
+    },
+    {
+      "text": "Aku bolak-balik nonton rekaman lomba, nyari tahu \nkenapa Narita Brian yang dulu selalu menang, \nsekarang malah kalah beruntun."
+    },
+    {
+      "text": "Kalau lihat jadwal sekarang, selanjutnya “Arima Kinen”. \nApa ada tanda-tanda kekuatannya bakal balik lagi ya…"
+    },
+    {
+      "name": "Komentator Langsung",
+      "text": "Hishi Amazon sampai garis duluan dengan jarak 2 panjang badan! \nNarita Brian makin tertinggal, finis di posisi 6!"
+    },
+    {
+      "text": "Rasanya belum balik juga. Gaya larinya dengan pusat \nberat badan rendah kayak duluー",
+      "name": "<username>"
+    },
+    {
+      "text": "Rasanya belum balik juga. Gaya larinya dengan pusat \nberat badan rendah kayak duluー",
+      "name": "<username>"
+    },
+    {
+      "text": "(Tok-Tok)"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Maaf ganggu tiba-tiba, aku masuk ya."
+    },
+    {
+      "text": "Jarang banget, kamu datang nengokin aku.",
+      "name": "<username>"
+    },
+    {
+      "text": "Jarang banget, kamu datang nengokin aku.",
+      "name": "<username>"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Iya, aku mau ngobrol soal adikku yang kamu rawat sekarang."
+    },
+    {
+      "text": "Walaupun nadanya kayak biasa, ekspresinya serius. \nSekarang dia pasti orang yang paling mikirin Narita Brian."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Di luar sana ada omongan, katanya “Apa jangan-jangan dia \nmasih cedera, atau belum sembuh total”…"
+    },
+    {
+      "text": "Itu cuma omongan doang. Bahkan kalau kulihat rekaman lomba, \ncederanya Brian udah sembuh kok."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Aku juga mikir gitu, susah percaya kalau kamu maksain Brian. \nTapi memang faktanya hasilnya belum keliatan."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Dalam kondisi gini, kamu masih mau biarin Brian ikut “Arima Kinen”?"
+    },
+    {
+      "text": "Terserah Brian kalau dia memang mau ikut."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Tapi kamu sendiri juga nggak tahu apa penyebabnya kan?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "…Kalau dia kalah lagi dengan cara yang sama di “Arima Kinen”, \nsuara yang meragukan kebijakanmu bakal makin keras. \nKamu tetap biarin dia ikut?"
+    },
+    {
+      "text": "Aku yakin reaksi kayak yang dibilang Biwa Hayahide pasti muncul, \ntapi aku nggak peduli sama ituー",
+      "choice_data_list": [
+        "Aku cuma mikirin keinginan Brian, itu yang nomor satu",
+        "Aku cuma mikirin keinginan Brian, itu yang nomor satu"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ehehe… Begitu ya, dengar kamu ngomong gitu bikin aku lega."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Jujur aja, aku datang hari ini sebenarnya mau minta kamu biarin \nBrian ikut “Arima Kinen”."
+    },
+    {
+      "text": "Eh…?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Tapi ternyata nggak perlu. Umamusume-mu… kamu selalu \nprioritaskan Brian duluan."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Aku ada sesuatu yang mau bilang. Tentang waktu dia kalah \ndi “Emperor Prize (Autumn)”."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Aku sendiri nggak nyangka dia sampai finis peringkat 12. \nJadi aku sempet ngobrol sama dia habis lomba…"
+    },
+    {
+      "text": "Brian nangis…?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Aku udah jadi kakaknya bertahun-tahun, tapi aku lupa \nkapan terakhir kali lihat dia nangis."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Tapi dia bukan tipe cewek yang gampang berhenti lari."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Trainer, dengan kekuatanmu tolong bantu adikku… Kumohon."
+    },
+    {
+      "text": "Biwa Hayahide, mungkin dia sebenarnya sudah tahu \napa yang terjadi sama Narita Brian."
+    },
+    {
+      "text": "Mata yang bilang “Tolong adikku”, \nmenyimpan perasaan yang begitu kuat."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Heh… heh…"
+    },
+    {
+      "text": "Udahan dulu latihan di lintasan, Brian.",
+      "name": "<username>"
+    },
+    {
+      "text": "Udahan dulu latihan di lintasan, Brian.",
+      "name": "<username>"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…“Arima Kinen” sebentar lagi. Aku nggak ada waktu \nbuat santai-santai."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Jadi Trainer… kamu ke sini buat nyuruh aku berhenti latihan?"
+    },
+    {
+      "text": "Nggak, aku datang buat ketemu kamu.",
+      "name": "<username>"
+    },
+    {
+      "text": "Nggak, aku datang buat ketemu kamu.",
+      "name": "<username>"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…Ketemu aku?"
+    },
+    {
+      "text": "Aku denger dari Hayahide soal kejadian \ndi “Emperor Prize (Autumn)” habis lomba."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "……"
+    },
+    {
+      "text": "Aku nggak tahu apa arti dari air matamu.",
+      "name": "<username>"
+    },
+    {
+      "text": "Aku nggak tahu apa arti dari air matamu.",
+      "name": "<username>"
+    },
+    {
+      "text": "Tapi aku ngerti kalau “Emperor Prize (Autumn)” \nitu punya arti besar banget buatmu.",
+      "name": "<username>"
+    },
+    {
+      "text": "Tapi aku ngerti kalau “Emperor Prize (Autumn)” \nitu punya arti besar banget buatmu.",
+      "name": "<username>"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…Begitu ya, makanya kamu datang ketemu aku."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Jadi gimana? Kamu mau bilang aku harus batal \nikut lomba “Arima Kinen”?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Apa kamu mau bilang Umamusume payah yang kalah \ndan nangis kayak aku nggak pantas muncul di Grand Prix!"
+    },
+    {
+      "text": "Narita Brian menatapku dengan tatapan tajam."
+    },
+    {
+      "text": "Seakan ada cahaya samar di matanya. \nMakanya aku yakin.",
+      "choice_data_list": [
+        "Nggak, kamu tetap akan ikut di “Arima Kinen”",
+        "Nggak, kamu tetap akan ikut di “Arima Kinen”"
+      ]
+    },
+    {
+      "text": "Seakan ada cahaya samar di matanya. \nMakanya aku yakin.",
+      "choice_data_list": [
+        "Nggak, kamu tetap akan ikut di “Arima Kinen”",
+        "Nggak, kamu tetap akan ikut di “Arima Kinen”"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…Kenapa, kamu ngelakuin itu?"
+    },
+    {
+      "text": "Karena aku sedikit ngerti arti dari air matamu. \nPerasaanmu nggak akan pernah berubah.",
+      "name": "<username>"
+    },
+    {
+      "text": "Karena aku sedikit ngerti arti dari air matamu. \nPerasaanmu nggak akan pernah berubah.",
+      "name": "<username>"
+    },
+    {
+      "text": "Makanya aku bilang, aku biarin kamu lakuin sesukamu. \nAku ini Trainer yang dukung Umamusume.",
+      "name": "<username>"
+    },
+    {
+      "text": "Makanya aku bilang, aku biarin kamu lakuin sesukamu. \nAku ini Trainer yang dukung Umamusume.",
+      "name": "<username>"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…Begitu ya."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Maaf, aku tadi ngomongnya kayak nyalahin. Dan juga… makasih.",
+      "choice_data_list": [
+        "Pergi dan menangkan lomba, Brian!",
+        "Pergi dan menangkan lomba, Brian!"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Iya, ayo kita tantang mereka habis-habisan!"
+    },
+    {
+      "text": "Aku nggak tahu kenapa kondisi Narita Brian memburuk. \nDan aku juga nggak tahu arti sebenarnya dari air mata itu."
+    },
+    {
+      "text": "Tapi aku tetap percaya sama dia. Perasaan kuat yang \nada di balik tatapan itu."
+    },
+    {
+      "name": "Komentator",
+      "text": "Narita Brian masuk lurusan terakhir dengan kondisi sempurna! \nSekarang, apa Narita Brian bakal bangkit hari ini!!?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Posisinya sempurna! Dari sini saatnya maju!!"
+    },
+    {
+      "name": "Komentator",
+      "text": "Yang pertama Mayano Top Gun, pemenang “Kikkashou”!! \nNarita Brian ngejar habis-habisan!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Ayo Brian! Tunjukin lari terbaikmu!!"
+    },
+    {
+      "name": "Komentator",
+      "text": "Tapi sulit banget maju! Brian, apa kaki hebatmu \ngak bisa keluar lagi di sini!?"
+    },
+    {
+      "text": "Beberapa saat kemudian, ekspresi Narita Brian yang lari di depanku \nmuncul jelas di pandanganku."
+    },
+    {
+      "text": "Narita Brian lari sekuat tenaga dengan kakinya."
+    },
+    {
+      "text": "Tapi bayangan Mayano Top Gun di depannya makin menjauh, \ndia juga tersusul sama lawan dari belakang."
+    },
+    {
+      "name": "Penonton A",
+      "text": "Nggak bisa, nggak maju juga!"
+    },
+    {
+      "name": "Penonton B",
+      "text": "Ternyata Brian yang terkuat udah nggak ada lagi…!"
+    },
+    {
+      "text": "Tapi matanya nggak berubah. Tatapan penuh keyakinan \nyang hanya fokus ke garis finis."
+    },
+    {
+      "text": "Pas aku lihat ekspresi putus asa Narita Brian, \nakhirnya aku sadar."
+    },
+    {
+      "text": "Alasan dia terus kalah bukan karena sakit atau kurang latihan. \nDia udah nggak bisa lagi lakukan “Lari itu” seperti dulu…"
+    },
+    {
+      "text": "Dia sadar hal itu di “Emperor Prize (Autumn)”, \nmakanya dia putus asa dan menangis."
+    },
+    {
+      "name": "Komentator",
+      "text": "Narita Brian, jaraknya nggak bisa dipersempit! \nMayano Top Gun berlari sendirian!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Haaaa～～!!!!"
+    },
+    {
+      "text": "…Tapi, dia tetap lari kayak gini. \nLihat ke depan, bukan ke belakang."
+    },
+    {
+      "text": "Saat aku sadar itu, tiba-tiba kata-kata muncul di kepalakuー",
+      "choice_data_list": [
+        "Brian, kamu pasti bisa!!!!"
+      ]
+    },
+    {
+      "name": "Penonton A",
+      "text": "…Eh!? Kamu pasti bisa～～!!!!"
+    },
+    {
+      "name": "Penonton B",
+      "text": "Kamu bisa Brian!! Kamu bisa!!"
+    },
+    {
+      "name": "Komentator",
+      "text": "Mayano Top Gun yang pertama nyebrang garis! \nPemenang “Kikkashou” juga menang di “Arima Kinen”!"
+    },
+    {
+      "name": "Komentator",
+      "text": "Narita Brian finis di posisi 4!"
+    },
+    {
+      "text": "Mungkin ini pertama kalinya aku bilang “Kamu bisa” \nke dia yang dulu selalu menang dengan mudah."
+    },
+    {
+      "text": "Tapi sebagai Trainernya, aku merasa ikut maju juga."
+    },
+    {
+      "text": "Narita Brian tetap lari menuju kemenangan dan terus berjuang. \nMakanya dia masih Umamusume terkuat bahkan sampai sekarang…!"
+    }
+  ]
 }

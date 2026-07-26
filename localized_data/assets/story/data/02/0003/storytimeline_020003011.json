@@ -1,297 +1,297 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "“Japan Derby”"
-        },
-        {
-            "text": "Balapan paling bersejarah, penuh tradisi, dan paling bergengsi di dunia.\nHanya bisa dijalani sekali seumur hidup. Betapa kejamnya."
-        },
-        {
-            "text": "Faktanya, banyak Umamusume yang gagal sebelum bisa meraih mimpi itu.\nMimpi semua Umamusume: berdiri di puncak sebagai Umamusume Derby."
-        },
-        {
-            "text": "Hari itu, sebanyak 20 juta orang menyaksikan ketika gerbang dibuka."
-        },
-        {
-            "text": "Susah sekali ikut derby dan menang. Tapi ada satu gadis dengan baju merah muda peach,\nmenyodok maju tanpa ragu."
-        },
-        {
-            "text": "Dia berlari kencang, tak membiarkan siapa pun lolos.\nPertarungan sengit yang benar-benar menguras tenaga."
-        },
-        {
-            "text": "Menerobos garis finis, mengalahkan rival-rival yang mengejar.\nDengan tubuh yang sudah mengeluarkan segalanya, tersisa hanya setetes tenaga terakhir."
-        },
-        {
-            "text": "Itu hanyalah salah satu kemenangannya."
-        },
-        {
-            "text": "Nama pemenangnya adalah Ines Fujin."
-        },
-        {
-            "text": "Hari itu, sorakan luar biasa untuk Ines Fujin di arena balap\nmasih bergema di hati semua penggemar."
-        },
-        {
-            "text": "(Sorak-sorai!!!!)"
-        },
-        {
-            "name": "Komentator",
-            "text": "Sekarang garis terakhir! Umamusume mana yang akan jadi juara!"
-        },
-        {
-            "name": "Kuda Gadis Kecil",
-            "text": "Kakak Umamusume, semangat!"
-        },
-        {
-            "name": "Kuda Gadis Kecil",
-            "text": "Keren banget! Kakak dan semuanya larinya kenceng!"
-        },
-        {
-            "name": "Komentator",
-            "text": "Mereka makin cepat! Antara dua kekuatan besar, siapa yang akan memimpin!"
-        },
-        {
-            "name": "Kuda Gadis Kecil",
-            "text": "Tidak, kakakku akan tersalip!"
-        },
-        {
-            "name": "Komentator",
-            "text": "Dia melakukannya! Hanya terpaut satu panjang tubuh!\nJaraknya mulai melebar!"
-        },
-        {
-            "name": "Kuda Gadis Kecil",
-            "text": "Kasihan kakak…"
-        },
-        {
-            "name": "Ibu Winning Ticket",
-            "text": "Kakakmu belum menyerah, kan? Jadi Ticket juga jangan menyerah,\ndan teruslah beri semangat."
-        },
-        {
-            "name": "Kuda Gadis Kecil",
-            "text": "Mmm… Semangat!! Semangat!!"
-        },
-        {
-            "name": "Komentator",
-            "text": "Sekarang melintasi garis finisーーー!\nMengalahkan rivalnya dan menjadi Umamusume mahkota!"
-        },
-        {
-            "name": "Kuda Gadis Kecil",
-            "text": "Kakakku kalah. Dia menangis…"
-        },
-        {
-            "name": "Ibu Winning Ticket",
-            "text": "Iya, sayang sekali. Dia sudah berusaha keras.\nTapi lihatlah, kakak yang menang juga menangis."
-        },
-        {
-            "name": "Kuda Gadis Kecil",
-            "text": "Benar juga… Kenapa?"
-        },
-        {
-            "name": "Ibu Winning Ticket",
-            "text": "Derby adalah mimpi semua Umamusume."
-        },
-        {
-            "name": "Ibu Winning Ticket",
-            "text": "Alasan mereka menangis, entah menang atau kalah,\nadalah karena mereka sudah berjuang keras demi mimpi itu.\nKarena mereka sudah mencoba sekuat tenaga."
-        },
-        {
-            "name": "Kuda Gadis Kecil",
-            "text": "Mimpi… Derby…"
-        },
-        {
-            "text": "Hari-hari panas terik mulai perlahan berkurang."
-        },
-        {
-            "text": "Di Akademi Tracen, acara tahunan “Festival Tapal Kuda Suci” semakin dekat."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Yosh! Persediaan kubis sudah aman!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Kubis? Maksudmu apa?"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "“Festival Tapal Kuda Suci”! Saat itulah aku memutuskan untuk jualan Yakisoba Gold-chan!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "McQueen dan Trainer-san harus bantu aku hari itu, jadi mulai sekarang biasakan diri dengan wajan besi!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Aku sudah merasa nggak enak nih. Trainer-san, urusan rasa beracun dari Yakisoba itu aku serahkan padamu.",
-            "choice_data_list": [
-                "Ini bukan uji rasa biasa, tapi uji racun…?"
-            ]
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Tenang aja, aku nggak bakal masukin bahan yang nggak bisa dimakan.\n“Kubis dan wortel, wasabi ulek, Hon Wasabi, dan Kizami Wasabi.”"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Sebanyak apa sih wasabi yang mau kamu masukin!?"
-        },
-        {
-            "text": "Seperti itu, semua orang di sekolah sibuk mempersiapkan Festival Tapal Kuda Suci.\nDi tengah-tengah ituー"
-        },
-        {
-            "name": "Tazuna Hayakawa",
-            "text": "Trainer-san, jadi kamu ada di sini."
-        },
-        {
-            "text": "Tazuna-san, sekretaris dewan direksi Akademi Tracen,\ndatang dengan wajah ceria.",
-            "choice_data_list": [
-                "Ada apa, Tazuna?"
-            ]
-        },
-        {
-            "name": "Tazuna Hayakawa",
-            "text": "Kabar besar♪ Sebenarnya, diputuskan bahwa mantan Trainer akan diberi penghargaan oleh URA."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Penghargaan? Apa dia nemuin kucing liar?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Kamu nggak tahu? Itu penghargaan untuk Umamusume dan Trainer\nyang sudah meraih prestasi gemilang."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Banyak yang mengincarnya, dan kalau dapat penghargaan itu,\nfoto serta prestasimu berhak dipajang di “Museum Umamusume”\ndi arena balap Tokyo."
-        },
-        {
-            "name": "Tazuna Hayakawa",
-            "text": "Dia memang layak dihormati. Terutama, lomba terakhir Oguri-san\nmasih mendapat banyak dukungan bahkan sampai sekarang."
-        },
-        {
-            "text": "Hari itu bukan hanya para penggemar yang mendukung.\nAku dan Mejiro McQueen juga ada di sana.\nArima Kinen itu benar-benar balapan yang tak terlupakan."
-        },
-        {
-            "text": "Hari itu bukan hanya para penggemar yang mendukung.\nAku dan Mejiro McQueen juga ada di sana.\nArima Kinen itu benar-benar balapan yang tak terlupakan."
-        },
-        {
-            "text": "Seperti yang diduga, dia disebut Umamusume salju.\nBenar-benar luar biasa, Sensei."
-        },
-        {
-            "name": "Tazuna Hayakawa",
-            "text": "Upacara penghargaan akan disiarkan langsung,\njadi jangan lupa ditonton ya!"
-        },
-        {
-            "name": "Tazuna Hayakawa",
-            "text": "Selain itu, aku punya satu permintaan untukmu, Trainer-san…"
-        },
-        {
-            "text": "Aku ingin kau membantuku dengan Umamusume ini,\nyang sedang dikejar-kejar persiapan Festival Tapal Kuda Suci.\nAku diberi tahu tentang dia saat berkunjung ke perpustakaan."
-        },
-        {
-            "name": "???",
-            "text": "Waaaa～～!! Aku terharu～～!!"
-        },
-        {
-            "name": "???",
-            "text": "Berapapun kali dia kalah, berapapun kali dia terluka,\ndia tetap terus berlari diam-diam.\nGadis ini sudah bekerja sangat keras."
-        },
-        {
-            "text": "Tangisan bergema di ruang perpustakaan yang seharusnya sepi.\nTidak ada orang lain. Jadi dialah yang ingin meminta bantuanku\nuntuk Festival Tapal Kuda Suci?",
-            "choice_data_list": [
-                "Kamu mau aku bantu di Festival Tapal Kuda Suci?",
-                "Kamu mau aku bantu di Festival Tapal Kuda Suci?"
-            ]
-        },
-        {
-            "name": "???",
-            "text": "Ah! Apa kamu kebetulan Trainer yang dibicarakan Tazuna?\nAhhh～～ Jadi kamu bakal bantu aku～～ Terima kasih～～～～!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Aduh! Aku malah lupa perkenalan! Senang kenal kamu!\nNamaku Winning Ticket."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Jadi begini～ Walau aku maju untuk posisi di Festival Tapal Kuda Suci,\ntapi waktu udah siap, aku sadar aku nggak punya satu pun orang buat bantu～",
-            "choice_data_list": [
-                "Jadi, apa yang bisa kubantu?"
-            ]
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Singkatnya! “Pameran Derby”! Inilah bahan-bahan yang akan dipamerkan!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Pertama! Semangat dan gairah para senior yang menantang derby!\nItu semua harus ditunjukkan!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Contohnya, Umamusume ini! Dari paling luar, langsung melesat ke posisi pertama!\nMenyalurkan perasaannya lewat Derby!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Lalu yang ini, jadi juara dengan lari kabur sejak awal!\nPadahal cara itu susah banget untuk menang, tapi dia tetap percaya pada gayanya sendiri…. Hiks…"
-        },
-        {
-            "text": "Kalau bicara derby, di Twinkle Series itu dianggap puncak tertinggi balapan."
-        },
-        {
-            "text": "“Tahun dimulai dengan Derby dan berakhir dengan Derby.”\nBagi sebagian orang, tidak diragukan lagi betapa besarnya artinya."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Pokoknya, Derby itu yang terbaik～!! Ooh～～～!\nTargetnya jadi Umamusume Derby!!!"
-        },
-        {
-            "text": "Matanya basah oleh air mata saat bicara tentang Derby.\nDia benar-benar sangat menyukai Derby."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Trainer-san, maaf sudah bikin kamu begadang! Soalnya kalau ngomongin Derby, aku jadi kebawa semangat banget."
-        },
-        {
-            "text": "Sungguh menarik. Bagi Winning Ticket, Derby itu istimewa."
-        },
-        {
-            "text": "Sungguh menarik. Bagi Winning Ticket, Derby itu istimewa."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Ya! Menang di Derby adalah mimpiku!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Ikut Derby dan menang! Mimpi itu adalah menciptakan drama yang tidak kalah dari para senior."
-        },
-        {
-            "text": "Sisi Winning Ticket yang berkata begitu terlihat sangat tegas,\nsampai-sampai sulit kubayangkan dari gadis yang barusan terharu dan menangis."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Tapi yang pertama harus kulakukan adalah… direkrut oleh Trainer\nyang mau membawaku menuju Derby!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Oh iya, tapi untuk sekarang aku harus fokus ke pameran Derby dulu!\nAyo kita sukseskan bareng-bareng!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Dan panggil aku Tickezou aja deh. Lebih gampang, kan?",
-            "choice_data_list": [
-                "Baiklah, Tickezou."
-            ]
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Hehe, senang kenal kamu! Trainer-san!"
-        },
-        {
-            "text": "Aku nggak tahu apakah dia bisa sampai ke Derby atau kalau bisa,\napakah dia bisa menang di sanaー"
-        },
-        {
-            "text": "Tapi aku ingin melihat dramanya mengejar mimpi\nyang bersinar begitu murni."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "“Japan Derby”"
+    },
+    {
+      "text": "Balapan paling bersejarah, penuh tradisi, dan paling bergengsi di dunia.\nHanya bisa dijalani sekali seumur hidup. Betapa kejamnya."
+    },
+    {
+      "text": "Faktanya, banyak Umamusume yang gagal sebelum bisa meraih mimpi itu.\nMimpi semua Umamusume: berdiri di puncak sebagai Umamusume Derby."
+    },
+    {
+      "text": "Hari itu, sebanyak 20 juta orang menyaksikan ketika gerbang dibuka."
+    },
+    {
+      "text": "Susah sekali ikut derby dan menang. Tapi ada satu gadis dengan baju merah muda peach,\nmenyodok maju tanpa ragu."
+    },
+    {
+      "text": "Dia berlari kencang, tak membiarkan siapa pun lolos.\nPertarungan sengit yang benar-benar menguras tenaga."
+    },
+    {
+      "text": "Menerobos garis finis, mengalahkan rival-rival yang mengejar.\nDengan tubuh yang sudah mengeluarkan segalanya, tersisa hanya setetes tenaga terakhir."
+    },
+    {
+      "text": "Itu hanyalah salah satu kemenangannya."
+    },
+    {
+      "text": "Nama pemenangnya adalah Ines Fujin."
+    },
+    {
+      "text": "Hari itu, sorakan luar biasa untuk Ines Fujin di arena balap\nmasih bergema di hati semua penggemar."
+    },
+    {
+      "text": "(Sorak-sorai!!!!)"
+    },
+    {
+      "name": "Komentator",
+      "text": "Sekarang garis terakhir! Umamusume mana yang akan jadi juara!"
+    },
+    {
+      "name": "Kuda Gadis Kecil",
+      "text": "Kakak Umamusume, semangat!"
+    },
+    {
+      "name": "Kuda Gadis Kecil",
+      "text": "Keren banget! Kakak dan semuanya larinya kenceng!"
+    },
+    {
+      "name": "Komentator",
+      "text": "Mereka makin cepat! Antara dua kekuatan besar, siapa yang akan memimpin!"
+    },
+    {
+      "name": "Kuda Gadis Kecil",
+      "text": "Tidak, kakakku akan tersalip!"
+    },
+    {
+      "name": "Komentator",
+      "text": "Dia melakukannya! Hanya terpaut satu panjang tubuh!\nJaraknya mulai melebar!"
+    },
+    {
+      "name": "Kuda Gadis Kecil",
+      "text": "Kasihan kakak…"
+    },
+    {
+      "name": "Ibu Winning Ticket",
+      "text": "Kakakmu belum menyerah, kan? Jadi Ticket juga jangan menyerah,\ndan teruslah beri semangat."
+    },
+    {
+      "name": "Kuda Gadis Kecil",
+      "text": "Mmm… Semangat!! Semangat!!"
+    },
+    {
+      "name": "Komentator",
+      "text": "Sekarang melintasi garis finisーーー!\nMengalahkan rivalnya dan menjadi Umamusume mahkota!"
+    },
+    {
+      "name": "Kuda Gadis Kecil",
+      "text": "Kakakku kalah. Dia menangis…"
+    },
+    {
+      "name": "Ibu Winning Ticket",
+      "text": "Iya, sayang sekali. Dia sudah berusaha keras.\nTapi lihatlah, kakak yang menang juga menangis."
+    },
+    {
+      "name": "Kuda Gadis Kecil",
+      "text": "Benar juga… Kenapa?"
+    },
+    {
+      "name": "Ibu Winning Ticket",
+      "text": "Derby adalah mimpi semua Umamusume."
+    },
+    {
+      "name": "Ibu Winning Ticket",
+      "text": "Alasan mereka menangis, entah menang atau kalah,\nadalah karena mereka sudah berjuang keras demi mimpi itu.\nKarena mereka sudah mencoba sekuat tenaga."
+    },
+    {
+      "name": "Kuda Gadis Kecil",
+      "text": "Mimpi… Derby…"
+    },
+    {
+      "text": "Hari-hari panas terik mulai perlahan berkurang."
+    },
+    {
+      "text": "Di Akademi Tracen, acara tahunan “Festival Tapal Kuda Suci” semakin dekat."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Yosh! Persediaan kubis sudah aman!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Kubis? Maksudmu apa?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "“Festival Tapal Kuda Suci”! Saat itulah aku memutuskan untuk jualan Yakisoba Gold-chan!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "McQueen dan Trainer-san harus bantu aku hari itu, jadi mulai sekarang biasakan diri dengan wajan besi!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Aku sudah merasa nggak enak nih. Trainer-san, urusan rasa beracun dari Yakisoba itu aku serahkan padamu.",
+      "choice_data_list": [
+        "Ini bukan uji rasa biasa, tapi uji racun…?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Tenang aja, aku nggak bakal masukin bahan yang nggak bisa dimakan.\n“Kubis dan wortel, wasabi ulek, Hon Wasabi, dan Kizami Wasabi.”"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Sebanyak apa sih wasabi yang mau kamu masukin!?"
+    },
+    {
+      "text": "Seperti itu, semua orang di sekolah sibuk mempersiapkan Festival Tapal Kuda Suci.\nDi tengah-tengah ituー"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Trainer-san, jadi kamu ada di sini."
+    },
+    {
+      "text": "Tazuna-san, sekretaris dewan direksi Akademi Tracen,\ndatang dengan wajah ceria.",
+      "choice_data_list": [
+        "Ada apa, Tazuna?"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Kabar besar♪ Sebenarnya, diputuskan bahwa mantan Trainer akan diberi penghargaan oleh URA."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Penghargaan? Apa dia nemuin kucing liar?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Kamu nggak tahu? Itu penghargaan untuk Umamusume dan Trainer\nyang sudah meraih prestasi gemilang."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Banyak yang mengincarnya, dan kalau dapat penghargaan itu,\nfoto serta prestasimu berhak dipajang di “Museum Umamusume”\ndi arena balap Tokyo."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Dia memang layak dihormati. Terutama, lomba terakhir Oguri-san\nmasih mendapat banyak dukungan bahkan sampai sekarang."
+    },
+    {
+      "text": "Hari itu bukan hanya para penggemar yang mendukung.\nAku dan Mejiro McQueen juga ada di sana.\nArima Kinen itu benar-benar balapan yang tak terlupakan."
+    },
+    {
+      "text": "Hari itu bukan hanya para penggemar yang mendukung.\nAku dan Mejiro McQueen juga ada di sana.\nArima Kinen itu benar-benar balapan yang tak terlupakan."
+    },
+    {
+      "text": "Seperti yang diduga, dia disebut Umamusume salju.\nBenar-benar luar biasa, Sensei."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Upacara penghargaan akan disiarkan langsung,\njadi jangan lupa ditonton ya!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Selain itu, aku punya satu permintaan untukmu, Trainer-san…"
+    },
+    {
+      "text": "Aku ingin kau membantuku dengan Umamusume ini,\nyang sedang dikejar-kejar persiapan Festival Tapal Kuda Suci.\nAku diberi tahu tentang dia saat berkunjung ke perpustakaan."
+    },
+    {
+      "name": "???",
+      "text": "Waaaa～～!! Aku terharu～～!!"
+    },
+    {
+      "name": "???",
+      "text": "Berapapun kali dia kalah, berapapun kali dia terluka,\ndia tetap terus berlari diam-diam.\nGadis ini sudah bekerja sangat keras."
+    },
+    {
+      "text": "Tangisan bergema di ruang perpustakaan yang seharusnya sepi.\nTidak ada orang lain. Jadi dialah yang ingin meminta bantuanku\nuntuk Festival Tapal Kuda Suci?",
+      "choice_data_list": [
+        "Kamu mau aku bantu di Festival Tapal Kuda Suci?",
+        "Kamu mau aku bantu di Festival Tapal Kuda Suci?"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Ah! Apa kamu kebetulan Trainer yang dibicarakan Tazuna?\nAhhh～～ Jadi kamu bakal bantu aku～～ Terima kasih～～～～!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Aduh! Aku malah lupa perkenalan! Senang kenal kamu!\nNamaku Winning Ticket."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Jadi begini～ Walau aku maju untuk posisi di Festival Tapal Kuda Suci,\ntapi waktu udah siap, aku sadar aku nggak punya satu pun orang buat bantu～",
+      "choice_data_list": [
+        "Jadi, apa yang bisa kubantu?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Singkatnya! “Pameran Derby”! Inilah bahan-bahan yang akan dipamerkan!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Pertama! Semangat dan gairah para senior yang menantang derby!\nItu semua harus ditunjukkan!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Contohnya, Umamusume ini! Dari paling luar, langsung melesat ke posisi pertama!\nMenyalurkan perasaannya lewat Derby!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Lalu yang ini, jadi juara dengan lari kabur sejak awal!\nPadahal cara itu susah banget untuk menang, tapi dia tetap percaya pada gayanya sendiri…. Hiks…"
+    },
+    {
+      "text": "Kalau bicara derby, di Twinkle Series itu dianggap puncak tertinggi balapan."
+    },
+    {
+      "text": "“Tahun dimulai dengan Derby dan berakhir dengan Derby.”\nBagi sebagian orang, tidak diragukan lagi betapa besarnya artinya."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Pokoknya, Derby itu yang terbaik～!! Ooh～～～!\nTargetnya jadi Umamusume Derby!!!"
+    },
+    {
+      "text": "Matanya basah oleh air mata saat bicara tentang Derby.\nDia benar-benar sangat menyukai Derby."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Trainer-san, maaf sudah bikin kamu begadang! Soalnya kalau ngomongin Derby, aku jadi kebawa semangat banget."
+    },
+    {
+      "text": "Sungguh menarik. Bagi Winning Ticket, Derby itu istimewa."
+    },
+    {
+      "text": "Sungguh menarik. Bagi Winning Ticket, Derby itu istimewa."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ya! Menang di Derby adalah mimpiku!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ikut Derby dan menang! Mimpi itu adalah menciptakan drama yang tidak kalah dari para senior."
+    },
+    {
+      "text": "Sisi Winning Ticket yang berkata begitu terlihat sangat tegas,\nsampai-sampai sulit kubayangkan dari gadis yang barusan terharu dan menangis."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Tapi yang pertama harus kulakukan adalah… direkrut oleh Trainer\nyang mau membawaku menuju Derby!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Oh iya, tapi untuk sekarang aku harus fokus ke pameran Derby dulu!\nAyo kita sukseskan bareng-bareng!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Dan panggil aku Tickezou aja deh. Lebih gampang, kan?",
+      "choice_data_list": [
+        "Baiklah, Tickezou."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Hehe, senang kenal kamu! Trainer-san!"
+    },
+    {
+      "text": "Aku nggak tahu apakah dia bisa sampai ke Derby atau kalau bisa,\napakah dia bisa menang di sanaー"
+    },
+    {
+      "text": "Tapi aku ingin melihat dramanya mengejar mimpi\nyang bersinar begitu murni."
+    }
+  ]
 }

@@ -1,355 +1,355 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Di hari upacara penghargaan URA, aku sabar menunggu siaran langsung\nuntuk melihat stand kehormatan Sensei."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Bam bam baam! Trainer-san, kamu di sini!?"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Oh, kamu di sini! Sekarang waktunya pas nggak ya?\nAku mau konsultasi soal pameran Derby.",
-            "choice_data_list": [
-                "Konsultasi tentang apa?"
-            ]
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Soal bahan-bahan yang mau dipamerkan, maksudku….\nPokoknya aku pengen supaya orang lebih gampang ngerti senior kita."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Kalau tetap seperti sekarang, aku pengen semua yang lihat bahan-bahan itu mikir,\n“Wah… Keren～～” gitu rasanya."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Aku mulai mikir apa ada cara yang bagus, tapi aku nggak terlalu jago mikir…. haha."
-        },
-        {
-            "text": "Kalau gitu, Tickezou, kenapa nggak\n jelasin dari sudut pandang perasaanmu?",
-            "name": "<username>"
-        },
-         {
-            "text": "Kalau gitu, Tickezou, kenapa nggak\n jelasin dari sudut pandang perasaanmu?",
-            "name": "<username>"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Dari sudut pandang perasaan….?"
-        },
-        {
-            "text": "Lihat, pas Tickezou ngomongin Derby.\nUmamusume ini mikir gini, biasanya kamu ngomong kayak gitu kan?",
-            "name": "<username>"
-        },
-         {
-            "text": "Lihat, pas Tickezou ngomongin Derby.\nUmamusume ini mikir gini, biasanya kamu ngomong kayak gitu kan?",
-            "name": "<username>"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Oh, ngerti! Aku harus masukin lebih banyak drama.\nMisalnya bedanya antara dua hal!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Terus aku punya bahan yang kubuat sendiri,\njadi mungkin bisa! Yosh, ayo kita buat bahan-bahannya maksimal～!"
-        },
-        {
-            "text": "Waktu Winning Ticket mulai ngerjain pameran,\nwaktu siaran langsung makin dekat."
-        },
-        {
-            "text": "Sebelumnya, aku mau nonton TV sebentar,\nmantan Trainer-ku bakal ada di upacara penghargaan URA.",
-            "name": "<username>"
-        },
-        {
-            "text": "Sebelumnya, aku mau nonton TV sebentar,\nmantan Trainer-ku bakal ada di upacara penghargaan URA.",
-            "name": "<username>"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Oh, maksudmu Trainer Oguri-san, kan!\nOke, aku nonton bareng kamu! Bisa jadi cerita yang bagus nih."
-        },
-        {
-            "text": "Setelah nyalain TV sebentar, siaran upacara penghargaan pun dimulai."
-        },
-        {
-            "name": "Announcer",
-            "text": "“Selamat atas Penghargaan URA kali ini”\nApakah ada balapan yang paling meninggalkan kesan di karier panjang Anda?"
-        },
-        {
-            "name": "Trainer Pendahulu",
-            "text": "Oh, setiap balapan punya banyak cerita dari para Umamusume,\njadi semua meninggalkan kesan yang mendalam."
-        },
-        {
-            "name": "Announcer",
-            "text": "Penghargaan ini untuk menghormati prestasi Anda sejauh ini,\nbagaimana perasaan Anda saat mendengarnya?"
-        },
-        {
-            "name": "Trainer Pendahulu",
-            "text": "Tentu aku senang, tapi juga berpikir\napakah benar aku pantas menerima penghargaan ini."
-        },
-        {
-            "name": "Trainer Pendahulu",
-            "text": "“Tidak semua mimpi Umamusume bisa terwujud.\nSoal Derby, belum ada yang menang di bawahku.”"
-        },
-        {
-            "name": "Trainer Pendahulu",
-            "text": "Soalnya, sebagai orang yang terlibat dalam balapan,\nkemenangan di Derby itu puncak kehormatan…."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Eh…. Oh. Mereka belum pernah menang Derby…."
-        },
-        {
-            "text": "Beliau tetap jadi Trainer bertahun-tahun, bahkan Sensei yang\nmenang banyak gelar besar,\nbelum berhasil menang Derby."
-        },
-        {
-            "text": "Meski itu puncak balapan, bahkan Sensei veteran pun,\nDerby bukan sesuatu yang gampang dimenangkan.",
-            "name": "<username>"
-        },
-        {
-            "text": "Meski itu puncak balapan, bahkan Sensei veteran pun,\nDerby bukan sesuatu yang gampang dimenangkan.",
-            "name": "<username>"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Derby itu balapan besar pertama di Twinkle Series."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Semua orang berjuang keras untuk menang,\ndan drama mereka menumpuk sampai hari ini."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Semua serius, benar-benar serius!\nJadi, mau Trainer veteran atau Umamusume kuat, susah banget menang."
-        },
-        {
-            "text": "Fakta bahwa Sensei pun tak bisa menang, membuat Winning Ticket yakin."
-        },
-        {
-            "name": "Announcer",
-            "text": "Ada juga yang jadi favorit nomor 1 tapi tetap nggak menang."
-        },
-        {
-            "name": "Trainer Pendahulu",
-            "text": "Pada masanya, kami latihan sampai hari\n yang ditunggu dengan bayangan kemenangan.\nTapi, di garis lurus terakhir…."
-        },
-        {
-            "name": "Trainer Pendahulu",
-            "text": "Aku mikir, kalau besok, aku bakal bikin ini, seperti ini,\nuntuk dia yang berlari sekuat tenaga."
-        },
-        {
-            "name": "Trainer Pendahulu",
-            "text": "Daripada “Melihat ke belakang”, untuk melupakan pikirannya tentang Derby,\nkami mulai mikir langkah berikutnya."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "…Ah, ini tentang Derby pertama yang aku lihat!\nAku nonton di arena balap tempat ibuku membawaku!"
-        },
-        {
-            "text": "Maksudmu Derby yang Sensei nggak bisa menang…?",
-            "name": "<username>"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Iya, nggak diragukan lagi! Balapannya luar biasa banget!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Meski favorit nomor 1, dia makin ditekan.\nTapi dia masih serius mikirin kemenangan, nggak nyerah sampai akhir!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Aku baru ngerti betapa berharganya Derby.\nMakanya aku kagum."
-        },
-        {
-            "text": "Itu juga Derby di mana Sensei dan Umamusume \nyang ditugaskan menaruh pikiran dan perasaan mereka."
-        },
-        {
-            "name": "Trainer Pendahulu",
-            "text": "“Akhirnya aku pensiun tanpa menang…”\nTapi sekarang, ada orang di tim sekarang <Sirius> yang mewarisi perasaanku."
-        },
-        {
-            "name": "Trainer Pendahulu",
-            "text": "Aku percaya dia akan menang Derby."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Eh, maksudmu Trainer-san.\nKamu bisa menang Derby!?"
-        },
-        {
-            "text": "Oh, iya…."
-        },
-         {
-            "text": "Oh, iya…."
-        },
-        {
-            "text": "Rasanya Sensei di TV menatapku.\nSeperti mimpi…. Seolah bilang, “Kamu bisa.”"
-        },
-        {
-            "text": "Rasanya Senpai di TV menatapku.\nSeperti mimpi…. Seolah bilang, “Kamu bisa.”"
-        },
-        {
-            "text": "Sensei mempercayakan mimpinya padaku.\nDia percaya padaku….",
-            "choice_data_list": [
-                "….Aku mau menang Derby."
-            ]
-        },
-        {
-            "text": "Rasanya Senpai di TV menatapku.\nSeperti mimpi…. Seolah bilang, “Kamu bisa.”",
-            "choice_data_list": [
-                "Aku Mau Menang Derby"
-            ]
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Eh!? Jadi, Trainer-san kamu juga pengen Derby!?"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Waaaa～～!! Drama banget～!!\nMurid mengejar mimpi yang gurunya tak bisa wujudkan!"
-        },
-        {
-            "text": "Sepertinya memang bukan kebetulan kalau ini dramanya,\nseperti yang Winning Ticket bilang."
-        },
-        {
-            "text": "Aku diminta bantu pameran kali ini dan bertemu\nWinning Ticket yang menarget Derbyー"
-        },
-        {
-            "text": "Dan saat itu Winning Ticket datang ke ruangan Trainer,\nmendengar cerita Sensei bareng aku, semuanya terasa hidupー"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Announcer juga wawancara dengan bagus!\nRasanya terharu bisa dengar cerita Derby seperti ini～!",
-            "choice_data_list": [
-                "Aku ingin Menang Derby!～"
-            ]
-        },
-        {
-            "text": "Mungkin ini takdir. Rasanya seperti itu",
-            "choice_data_list": [
-                "Hei, mau kita kejar bareng?",
-                "Hei, mau kita kejar bareng?"
-            ]
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Eh….? Bareng maksudmu…."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Per, Mungkin… maksudmu Derby!? B, Bareng sama aku!?"
-        },
-        {
-            "text": "Iya, Tickezou pengen menang Derby, kan?",
-            "name": "<username>"
-        },
-         {
-            "text": "Iya, Tickezou pengen menang Derby, kan?",
-            "name": "<username>"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Tentu! Aku mau menang! Itu mimpiku! Sejak kecil."
-        },
-        {
-            "text": "Aku juga sekarang, aku juga mau menang.",
-            "name": "<username>"
-        },
-         {
-            "text": "Aku juga sekarang, aku juga mau menang.",
-            "name": "<username>"
-        },
-        {
-            "text": "Kalau Tickezou setuju, kenapa kita nggak kejar bareng?",
-            "name": "<username>"
-        },
-        {
-            "text": "Kalau Tickezou setuju, kenapa kita nggak kejar bareng?",
-            "name": "<username>"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Se, serius? Kamu nggak keberatan sama aku…?",
-            "choice_data_list": [
-                "Hanya kamu yang bisa!",
-                "Hanya kamu yang bisa!"
-            ]
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Waaa…. Waaaaaa～～～～!!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Aku berhasil～～! Aku direkrut! Ayo kejar bareng Trainer-san!!\nMenuju Derby!!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Tehehe! Trainer-san, aku kasih kamu gelar “Trainer Derby” sebagai hadiah."
-        },
-        {
-            "text": "Terus, aku akan beri gelar “Umamusume Derby” ke Tickezou.",
-            "name": "<username>"
-        },
-         {
-            "text": "Terus, aku akan beri gelar “Umamusume Derby” ke Tickezou.",
-            "name": "<username>"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Yeah!! Kita berdua semangat!! Yosh～～!\nMenuju Derby!!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Winning Ticket di sini! Senang kenal kalian!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Oho, akhirnya barang bagus datang juga!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Aku dengar tentang kamu Ticket-san.\nKamu menarget menang Derby."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Derby favorit banyak Umamusume.\nBakal banyak rival, tapi ayo kita berjuang ke arah mimpi itu."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Terima kasih! Aku janji bakal bawa kemenangan Derby ke tim <Sirius>!",
-            "choice_data_list": [
-                "Aku Menyukaimu!",
-                "Aku Menyukaimu!"
-            ]
-        },
-        {
-            "text": "Tickezou untuk menang Derby butuh kekuatan hati.\nYuk kita dorong mimpimu bersama tim!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Oho! Keren!! Ayo lari pemula, ke arah matahari itu!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Yeah! Ayo…. Der～～ By～～!!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Asik rasanya! iya kan! Oke, aku juga! Der～～ By～～!!"
-        },
-        {
-            "text": "Begitulah, tirai dibuka untuk Winning Ticket\n dan drama mengejar kemenangan Derby."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Ya!! Mari kita lakukan yang terbaik\nbersama-sama!! OK! Mari kita bidik Derby!!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Ini adalah Winning Ticket , Terimakasih!!!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Di hari upacara penghargaan URA, aku sabar menunggu siaran langsung\nuntuk melihat stand kehormatan Sensei."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Bam bam baam! Trainer-san, kamu di sini!?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Oh, kamu di sini! Sekarang waktunya pas nggak ya?\nAku mau konsultasi soal pameran Derby.",
+      "choice_data_list": [
+        "Konsultasi tentang apa?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Soal bahan-bahan yang mau dipamerkan, maksudku….\nPokoknya aku pengen supaya orang lebih gampang ngerti senior kita."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Kalau tetap seperti sekarang, aku pengen semua yang lihat bahan-bahan itu mikir,\n“Wah… Keren～～” gitu rasanya."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Aku mulai mikir apa ada cara yang bagus, tapi aku nggak terlalu jago mikir…. haha."
+    },
+    {
+      "text": "Kalau gitu, Tickezou, kenapa nggak\n jelasin dari sudut pandang perasaanmu?",
+      "name": "<username>"
+    },
+    {
+      "text": "Kalau gitu, Tickezou, kenapa nggak\n jelasin dari sudut pandang perasaanmu?",
+      "name": "<username>"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Dari sudut pandang perasaan….?"
+    },
+    {
+      "text": "Lihat, pas Tickezou ngomongin Derby.\nUmamusume ini mikir gini, biasanya kamu ngomong kayak gitu kan?",
+      "name": "<username>"
+    },
+    {
+      "text": "Lihat, pas Tickezou ngomongin Derby.\nUmamusume ini mikir gini, biasanya kamu ngomong kayak gitu kan?",
+      "name": "<username>"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Oh, ngerti! Aku harus masukin lebih banyak drama.\nMisalnya bedanya antara dua hal!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Terus aku punya bahan yang kubuat sendiri,\njadi mungkin bisa! Yosh, ayo kita buat bahan-bahannya maksimal～!"
+    },
+    {
+      "text": "Waktu Winning Ticket mulai ngerjain pameran,\nwaktu siaran langsung makin dekat."
+    },
+    {
+      "text": "Sebelumnya, aku mau nonton TV sebentar,\nmantan Trainer-ku bakal ada di upacara penghargaan URA.",
+      "name": "<username>"
+    },
+    {
+      "text": "Sebelumnya, aku mau nonton TV sebentar,\nmantan Trainer-ku bakal ada di upacara penghargaan URA.",
+      "name": "<username>"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Oh, maksudmu Trainer Oguri-san, kan!\nOke, aku nonton bareng kamu! Bisa jadi cerita yang bagus nih."
+    },
+    {
+      "text": "Setelah nyalain TV sebentar, siaran upacara penghargaan pun dimulai."
+    },
+    {
+      "name": "Announcer",
+      "text": "“Selamat atas Penghargaan URA kali ini”\nApakah ada balapan yang paling meninggalkan kesan di karier panjang Anda?"
+    },
+    {
+      "name": "Trainer Pendahulu",
+      "text": "Oh, setiap balapan punya banyak cerita dari para Umamusume,\njadi semua meninggalkan kesan yang mendalam."
+    },
+    {
+      "name": "Announcer",
+      "text": "Penghargaan ini untuk menghormati prestasi Anda sejauh ini,\nbagaimana perasaan Anda saat mendengarnya?"
+    },
+    {
+      "name": "Trainer Pendahulu",
+      "text": "Tentu aku senang, tapi juga berpikir\napakah benar aku pantas menerima penghargaan ini."
+    },
+    {
+      "name": "Trainer Pendahulu",
+      "text": "“Tidak semua mimpi Umamusume bisa terwujud.\nSoal Derby, belum ada yang menang di bawahku.”"
+    },
+    {
+      "name": "Trainer Pendahulu",
+      "text": "Soalnya, sebagai orang yang terlibat dalam balapan,\nkemenangan di Derby itu puncak kehormatan…."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Eh…. Oh. Mereka belum pernah menang Derby…."
+    },
+    {
+      "text": "Beliau tetap jadi Trainer bertahun-tahun, bahkan Sensei yang\nmenang banyak gelar besar,\nbelum berhasil menang Derby."
+    },
+    {
+      "text": "Meski itu puncak balapan, bahkan Sensei veteran pun,\nDerby bukan sesuatu yang gampang dimenangkan.",
+      "name": "<username>"
+    },
+    {
+      "text": "Meski itu puncak balapan, bahkan Sensei veteran pun,\nDerby bukan sesuatu yang gampang dimenangkan.",
+      "name": "<username>"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Derby itu balapan besar pertama di Twinkle Series."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Semua orang berjuang keras untuk menang,\ndan drama mereka menumpuk sampai hari ini."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Semua serius, benar-benar serius!\nJadi, mau Trainer veteran atau Umamusume kuat, susah banget menang."
+    },
+    {
+      "text": "Fakta bahwa Sensei pun tak bisa menang, membuat Winning Ticket yakin."
+    },
+    {
+      "name": "Announcer",
+      "text": "Ada juga yang jadi favorit nomor 1 tapi tetap nggak menang."
+    },
+    {
+      "name": "Trainer Pendahulu",
+      "text": "Pada masanya, kami latihan sampai hari\n yang ditunggu dengan bayangan kemenangan.\nTapi, di garis lurus terakhir…."
+    },
+    {
+      "name": "Trainer Pendahulu",
+      "text": "Aku mikir, kalau besok, aku bakal bikin ini, seperti ini,\nuntuk dia yang berlari sekuat tenaga."
+    },
+    {
+      "name": "Trainer Pendahulu",
+      "text": "Daripada “Melihat ke belakang”, untuk melupakan pikirannya tentang Derby,\nkami mulai mikir langkah berikutnya."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "…Ah, ini tentang Derby pertama yang aku lihat!\nAku nonton di arena balap tempat ibuku membawaku!"
+    },
+    {
+      "text": "Maksudmu Derby yang Sensei nggak bisa menang…?",
+      "name": "<username>"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Iya, nggak diragukan lagi! Balapannya luar biasa banget!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Meski favorit nomor 1, dia makin ditekan.\nTapi dia masih serius mikirin kemenangan, nggak nyerah sampai akhir!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Aku baru ngerti betapa berharganya Derby.\nMakanya aku kagum."
+    },
+    {
+      "text": "Itu juga Derby di mana Sensei dan Umamusume \nyang ditugaskan menaruh pikiran dan perasaan mereka."
+    },
+    {
+      "name": "Trainer Pendahulu",
+      "text": "“Akhirnya aku pensiun tanpa menang…”\nTapi sekarang, ada orang di tim sekarang <Sirius> yang mewarisi perasaanku."
+    },
+    {
+      "name": "Trainer Pendahulu",
+      "text": "Aku percaya dia akan menang Derby."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Eh, maksudmu Trainer-san.\nKamu bisa menang Derby!?"
+    },
+    {
+      "text": "Oh, iya…."
+    },
+    {
+      "text": "Oh, iya…."
+    },
+    {
+      "text": "Rasanya Sensei di TV menatapku.\nSeperti mimpi…. Seolah bilang, “Kamu bisa.”"
+    },
+    {
+      "text": "Rasanya Senpai di TV menatapku.\nSeperti mimpi…. Seolah bilang, “Kamu bisa.”"
+    },
+    {
+      "text": "Sensei mempercayakan mimpinya padaku.\nDia percaya padaku….",
+      "choice_data_list": [
+        "….Aku mau menang Derby."
+      ]
+    },
+    {
+      "text": "Rasanya Senpai di TV menatapku.\nSeperti mimpi…. Seolah bilang, “Kamu bisa.”",
+      "choice_data_list": [
+        "Aku Mau Menang Derby"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Eh!? Jadi, Trainer-san kamu juga pengen Derby!?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Waaaa～～!! Drama banget～!!\nMurid mengejar mimpi yang gurunya tak bisa wujudkan!"
+    },
+    {
+      "text": "Sepertinya memang bukan kebetulan kalau ini dramanya,\nseperti yang Winning Ticket bilang."
+    },
+    {
+      "text": "Aku diminta bantu pameran kali ini dan bertemu\nWinning Ticket yang menarget Derbyー"
+    },
+    {
+      "text": "Dan saat itu Winning Ticket datang ke ruangan Trainer,\nmendengar cerita Sensei bareng aku, semuanya terasa hidupー"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Announcer juga wawancara dengan bagus!\nRasanya terharu bisa dengar cerita Derby seperti ini～!",
+      "choice_data_list": [
+        "Aku ingin Menang Derby!～"
+      ]
+    },
+    {
+      "text": "Mungkin ini takdir. Rasanya seperti itu",
+      "choice_data_list": [
+        "Hei, mau kita kejar bareng?",
+        "Hei, mau kita kejar bareng?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Eh….? Bareng maksudmu…."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Per, Mungkin… maksudmu Derby!? B, Bareng sama aku!?"
+    },
+    {
+      "text": "Iya, Tickezou pengen menang Derby, kan?",
+      "name": "<username>"
+    },
+    {
+      "text": "Iya, Tickezou pengen menang Derby, kan?",
+      "name": "<username>"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Tentu! Aku mau menang! Itu mimpiku! Sejak kecil."
+    },
+    {
+      "text": "Aku juga sekarang, aku juga mau menang.",
+      "name": "<username>"
+    },
+    {
+      "text": "Aku juga sekarang, aku juga mau menang.",
+      "name": "<username>"
+    },
+    {
+      "text": "Kalau Tickezou setuju, kenapa kita nggak kejar bareng?",
+      "name": "<username>"
+    },
+    {
+      "text": "Kalau Tickezou setuju, kenapa kita nggak kejar bareng?",
+      "name": "<username>"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Se, serius? Kamu nggak keberatan sama aku…?",
+      "choice_data_list": [
+        "Hanya kamu yang bisa!",
+        "Hanya kamu yang bisa!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Waaa…. Waaaaaa～～～～!!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Aku berhasil～～! Aku direkrut! Ayo kejar bareng Trainer-san!!\nMenuju Derby!!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Tehehe! Trainer-san, aku kasih kamu gelar “Trainer Derby” sebagai hadiah."
+    },
+    {
+      "text": "Terus, aku akan beri gelar “Umamusume Derby” ke Tickezou.",
+      "name": "<username>"
+    },
+    {
+      "text": "Terus, aku akan beri gelar “Umamusume Derby” ke Tickezou.",
+      "name": "<username>"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Yeah!! Kita berdua semangat!! Yosh～～!\nMenuju Derby!!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Winning Ticket di sini! Senang kenal kalian!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Oho, akhirnya barang bagus datang juga!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Aku dengar tentang kamu Ticket-san.\nKamu menarget menang Derby."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Derby favorit banyak Umamusume.\nBakal banyak rival, tapi ayo kita berjuang ke arah mimpi itu."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Terima kasih! Aku janji bakal bawa kemenangan Derby ke tim <Sirius>!",
+      "choice_data_list": [
+        "Aku Menyukaimu!",
+        "Aku Menyukaimu!"
+      ]
+    },
+    {
+      "text": "Tickezou untuk menang Derby butuh kekuatan hati.\nYuk kita dorong mimpimu bersama tim!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Oho! Keren!! Ayo lari pemula, ke arah matahari itu!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Yeah! Ayo…. Der～～ By～～!!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Asik rasanya! iya kan! Oke, aku juga! Der～～ By～～!!"
+    },
+    {
+      "text": "Begitulah, tirai dibuka untuk Winning Ticket\n dan drama mengejar kemenangan Derby."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Ya!! Mari kita lakukan yang terbaik\nbersama-sama!! OK! Mari kita bidik Derby!!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Ini adalah Winning Ticket , Terimakasih!!!"
+    }
+  ]
 }

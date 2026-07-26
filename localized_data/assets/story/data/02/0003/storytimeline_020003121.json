@@ -37,7 +37,7 @@
     },
     {
       "text": "Tapi akhirnya aku bisa sampai di panggung seumur hidup sekali ini.\nYang ada di kepalaku cuma satu: lewat garis finis paling depan.",
-            "name": "Partisipan Uma"
+      "name": "Partisipan Uma"
     },
     {
       "name": "Winning Ticket",
@@ -68,11 +68,11 @@
     },
     {
       "text": "Ya, jelas banget kalau kamu memang lebih takut dari siapa pun.",
-            "name": "<username>"
+      "name": "<username>"
     },
     {
       "text": "Ya, jelas banget kalau kamu memang lebih takut dari siapa pun.",
-            "name": "<username>"
+      "name": "<username>"
     },
     {
       "name": "Winning Ticket",
@@ -96,11 +96,11 @@
     },
     {
       "text": "Justru itu kenapa kamu bisa menang!",
-            "name": "<username>"
+      "name": "<username>"
     },
     {
       "text": "Justru itu kenapa kamu bisa menang!",
-            "name": "<username>"
+      "name": "<username>"
     },
     {
       "name": "Winning Ticket",
@@ -130,7 +130,7 @@
       "name": "<username>",
       "text": "Kamu udah ngumpulin perasaan itu lebih banyak dari siapa pun.\nDari sejak pertama kali kamu lihat Derby waktu kecil…!"
     },
-     {
+    {
       "name": "<username>",
       "text": "Kamu udah ngumpulin perasaan itu lebih banyak dari siapa pun.\nDari sejak pertama kali kamu lihat Derby waktu kecil…!"
     },
@@ -146,7 +146,6 @@
       "name": "<username>",
       "text": "Perasaan yang terkumpul itu bakal jadi tenaga buat bertahan di saat sulit!\nJadi kekuatan buat menang, yang bisa diandalkan lebih dari siapa pun!"
     },
-    
     {
       "name": "Winning Ticket",
       "text": "Aku bisa lebih baik dari siapa pun…\nBisa lebih mengandalkan ini dari siapa pun…!"
@@ -247,7 +246,7 @@
       "name": "<username>",
       "text": "Taishin bakal jadi lawan terkuatmu kali ini juga."
     },
-     {
+    {
       "name": "<username>",
       "text": "Taishin bakal jadi lawan terkuatmu kali ini juga."
     },

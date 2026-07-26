@@ -1,253 +1,253 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Di hari debut Winning Ticket"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Trainer-san, dan kalian berdua! Terima kasih sudah datang mendukung aku～～!!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Santai saja. Kita kan partner di tim yang sama!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Ini panggung teman satu timku. Bahkan yang nggak bisa\n datang hari ini, aku tetap dukung kalian sekuat tenaga."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Dan setelah selesai kita makan malam seru! Kerang \nbakar dan lebih banyak kerang! Donburi tiga \nwarna dari kepiting, bulu babi, dan salmon roe!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Parfait melon! Jangan lupa parfait melon!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "… Jadi itu tujuan sebenarnya kalian."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "A-apa maksudmu!? Makanannya bonus!\n Pokoknya sekarang fokus! Konsentrasi!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Betul. Konsentrasi, konsentrasi. Nah, Trainer-san, aku berangkat dulu!",
-            "choice_data_list": [
-                "Semoga sukses!",
-                "Semoga sukses!"
-            ]
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Yeah! Jalan menuju Derby dimulai dari sini! Aku pasti menang!"
-        },
-        {
-            "text": "Winning Ticket mengambil langkah\n pertamanya menuju mimpi besar. Dan kemudianー"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Waaaaaa!!!! Aku kalah～!!"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Diam! Berapa kali lagi mau teriak kalah?"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Hee… Dingin banget～. Kita teman sejak\n masuk sekolah, paling nggak bisa dikasih semangat dikit～."
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Kalau dikasih semangat juga, kamu bakal nangis teriak lagi."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Yah, ini kan titik awal Derby, kan? Walaupun\n masih jauh, nggak nyangka aku kalah di balapan pertama."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Yah, setelah lihat semangatmu, bukan berarti aku nggak ngerti asal-usulmu."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Benar kan!? Gimana kalau gara-gara ini aku nggak bisa ikut Derby?"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Oh～～Aduh! Kalah di debut bukan alasan nggak bisa ikut Derby!"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Aku juga kalah di debut, makanya aku pikir kamu harus mulai lihat ke depan."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Betul, kamu bisa mulai lagi dari sini. Kalau mau\n bener-bener sedih, tunggu aja sampai mimpimu hancur."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Wooo… Semangat pantang menyerah Taishin! \nSemangat tenang tapi membara Hayahide! Aku nggak bisa berhenti di sini!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Kalau mau Derby, nggak boleh berhenti! Makasih, \nmemang seharusnya punya teman～～Waaa～!!"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Akhirnya kamu nangis juga! Diam, aduh!"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Tapi kesederhanaan ini juga salah\n satu kualitas bagus Ticket. Kita nggak boleh kalah juga."
-        },
-        {
-            "text": "Saat latihan timー"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Waaaa～～! Derby!!!!"
-        },
-        {
-            "text": "Biasanya latihan setelah balapan ringan, tapi\n Winning Ticket lari sekuat tenaga seolah balapan segera dimulai."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Wow… Ticket-san semangat banget."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Kupikir dia bakal sedih setelah balapan kemarin, tapi dia ceria banget, gadis ini."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Dia bilang didorong oleh teman-temannya.\n Ticket-san punya teman hebat yang ngerti mimpinya."
-        },
-        {
-            "text": "Kalau mau Derby, nggak boleh santai."
-        },
-        {
-            "text": "Aku harus tanggap sama dia yang berlari ke mimpinya!"
-        },
-        {
-            "text": "Tickezou! Ayunkan tanganmu!",
-            "name": "<username>"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Yes!!!!"
-        },
-        {
-            "text": "Perhatikan langkahmu! Simpan tenaga sampai akhir!!",
-            "name": "<username>"
-        },
-        {
-            "text": "Perhatikan langkahmu! Simpan tenaga sampai akhir!!",
-            "name": "<username>"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Panjang langkah Waaaaaa!! Ayo keluar dari sini～～!!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Ahhhh............. Oke, selesai! Terima kasih atas kerja kerasnya!"
-        },
-        {
-            "text": "Kerja bagus. Istirahat yang cukup supaya nggak capek.",
-            "name": "<username>"
-        },
-        {
-            "text": "Kerja bagus. Istirahat yang cukup supaya nggak capek.",
-            "name": "<username>"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Yeah! Tapi, aku masih pengen lari sedikit lagi."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Aku kalah di debut, tapi didorong\n teman-teman, dan dapat coaching tegas dari trainer."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Artinya, kekalahan itu nggak sia-sia. Perasaanku untuk Derby makin besar!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Kamu gadis menarik. Aku nggak benci orang kayak kamu."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Untuk semangat ini, Trainer-san juga harus tanggap."
-        },
-        {
-            "text": "Tentu, itu yang akan kulakukan.\nNggak ada trainer yang menahan Umamusume yang mengejar mimpinya.",
-            "choice_data_list": [
-                "Tickezou, balapanmu berikutnya minggu depan!",
-                "Tickezou, balapanmu berikutnya minggu depan!"
-            ],
-            "name": "<username>"
-        },
-        {
-            "text": "Tentu, itu yang akan kulakukan.\nNggak ada trainer yang menahan Umamusume yang mengejar mimpinya.",
-            "choice_data_list": [
-                "Tickezou, balapanmu berikutnya minggu depan!",
-                "Tickezou, balapanmu berikutnya minggu depan!"
-            ],
-            "name": "<username>"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Huh?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Jangan bilang, ini balapan seri!? Lebih susah dari yang kamu kira!!"
-        },
-        {
-            "text": "Tentu, kondisi fisik prioritas. tapi kalau Tickezou, aku yakinー"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "W… Waaaa!! Aku akan lari!!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Aku akan hadapi banyak tantangan menuju Derby! Artinya aku dan trainer akan kerja sama!",
-            "choice_data_list": [
-                "Ayo menang bareng!"
-            ]
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Ayo menang～!!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "… Kayaknya trainer juga ‘Hot blood’ ya."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Pasti pengaruh Ticket-san. Seru liat masa depan mereka berdua."
-        },
-        {
-            "text": "Kisah Winning Ticket yang dimulai dari kekalahanー"
-        },
-        {
-            "text": "Tapi pasti mulai bergerak menuju tujuannya."
-        },
-        {
-            "name": "Komentator",
-            "text": "Ini dia Winning Ticket! Winning Ticket sekarang, pertama melewati garis finish!"
-        },
-        {
-            "text": "(Sorak～～～～!!)"
-        },
-        {
-            "text": "Setelah 2 minggu balapan, Winning Ticket menang untuk pertama kalinya."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Di hari debut Winning Ticket"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Trainer-san, dan kalian berdua! Terima kasih sudah datang mendukung aku～～!!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Santai saja. Kita kan partner di tim yang sama!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ini panggung teman satu timku. Bahkan yang nggak bisa\n datang hari ini, aku tetap dukung kalian sekuat tenaga."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Dan setelah selesai kita makan malam seru! Kerang \nbakar dan lebih banyak kerang! Donburi tiga \nwarna dari kepiting, bulu babi, dan salmon roe!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Parfait melon! Jangan lupa parfait melon!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "… Jadi itu tujuan sebenarnya kalian."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "A-apa maksudmu!? Makanannya bonus!\n Pokoknya sekarang fokus! Konsentrasi!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Betul. Konsentrasi, konsentrasi. Nah, Trainer-san, aku berangkat dulu!",
+      "choice_data_list": [
+        "Semoga sukses!",
+        "Semoga sukses!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Yeah! Jalan menuju Derby dimulai dari sini! Aku pasti menang!"
+    },
+    {
+      "text": "Winning Ticket mengambil langkah\n pertamanya menuju mimpi besar. Dan kemudianー"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Waaaaaa!!!! Aku kalah～!!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Diam! Berapa kali lagi mau teriak kalah?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Hee… Dingin banget～. Kita teman sejak\n masuk sekolah, paling nggak bisa dikasih semangat dikit～."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Kalau dikasih semangat juga, kamu bakal nangis teriak lagi."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Yah, ini kan titik awal Derby, kan? Walaupun\n masih jauh, nggak nyangka aku kalah di balapan pertama."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Yah, setelah lihat semangatmu, bukan berarti aku nggak ngerti asal-usulmu."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Benar kan!? Gimana kalau gara-gara ini aku nggak bisa ikut Derby?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Oh～～Aduh! Kalah di debut bukan alasan nggak bisa ikut Derby!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Aku juga kalah di debut, makanya aku pikir kamu harus mulai lihat ke depan."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Betul, kamu bisa mulai lagi dari sini. Kalau mau\n bener-bener sedih, tunggu aja sampai mimpimu hancur."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Wooo… Semangat pantang menyerah Taishin! \nSemangat tenang tapi membara Hayahide! Aku nggak bisa berhenti di sini!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Kalau mau Derby, nggak boleh berhenti! Makasih, \nmemang seharusnya punya teman～～Waaa～!!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Akhirnya kamu nangis juga! Diam, aduh!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Tapi kesederhanaan ini juga salah\n satu kualitas bagus Ticket. Kita nggak boleh kalah juga."
+    },
+    {
+      "text": "Saat latihan timー"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Waaaa～～! Derby!!!!"
+    },
+    {
+      "text": "Biasanya latihan setelah balapan ringan, tapi\n Winning Ticket lari sekuat tenaga seolah balapan segera dimulai."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Wow… Ticket-san semangat banget."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Kupikir dia bakal sedih setelah balapan kemarin, tapi dia ceria banget, gadis ini."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Dia bilang didorong oleh teman-temannya.\n Ticket-san punya teman hebat yang ngerti mimpinya."
+    },
+    {
+      "text": "Kalau mau Derby, nggak boleh santai."
+    },
+    {
+      "text": "Aku harus tanggap sama dia yang berlari ke mimpinya!"
+    },
+    {
+      "text": "Tickezou! Ayunkan tanganmu!",
+      "name": "<username>"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Yes!!!!"
+    },
+    {
+      "text": "Perhatikan langkahmu! Simpan tenaga sampai akhir!!",
+      "name": "<username>"
+    },
+    {
+      "text": "Perhatikan langkahmu! Simpan tenaga sampai akhir!!",
+      "name": "<username>"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Panjang langkah Waaaaaa!! Ayo keluar dari sini～～!!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ahhhh............. Oke, selesai! Terima kasih atas kerja kerasnya!"
+    },
+    {
+      "text": "Kerja bagus. Istirahat yang cukup supaya nggak capek.",
+      "name": "<username>"
+    },
+    {
+      "text": "Kerja bagus. Istirahat yang cukup supaya nggak capek.",
+      "name": "<username>"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Yeah! Tapi, aku masih pengen lari sedikit lagi."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Aku kalah di debut, tapi didorong\n teman-teman, dan dapat coaching tegas dari trainer."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Artinya, kekalahan itu nggak sia-sia. Perasaanku untuk Derby makin besar!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Kamu gadis menarik. Aku nggak benci orang kayak kamu."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Untuk semangat ini, Trainer-san juga harus tanggap."
+    },
+    {
+      "text": "Tentu, itu yang akan kulakukan.\nNggak ada trainer yang menahan Umamusume yang mengejar mimpinya.",
+      "choice_data_list": [
+        "Tickezou, balapanmu berikutnya minggu depan!",
+        "Tickezou, balapanmu berikutnya minggu depan!"
+      ],
+      "name": "<username>"
+    },
+    {
+      "text": "Tentu, itu yang akan kulakukan.\nNggak ada trainer yang menahan Umamusume yang mengejar mimpinya.",
+      "choice_data_list": [
+        "Tickezou, balapanmu berikutnya minggu depan!",
+        "Tickezou, balapanmu berikutnya minggu depan!"
+      ],
+      "name": "<username>"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Huh?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Jangan bilang, ini balapan seri!? Lebih susah dari yang kamu kira!!"
+    },
+    {
+      "text": "Tentu, kondisi fisik prioritas. tapi kalau Tickezou, aku yakinー"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "W… Waaaa!! Aku akan lari!!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Aku akan hadapi banyak tantangan menuju Derby! Artinya aku dan trainer akan kerja sama!",
+      "choice_data_list": [
+        "Ayo menang bareng!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ayo menang～!!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "… Kayaknya trainer juga ‘Hot blood’ ya."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Pasti pengaruh Ticket-san. Seru liat masa depan mereka berdua."
+    },
+    {
+      "text": "Kisah Winning Ticket yang dimulai dari kekalahanー"
+    },
+    {
+      "text": "Tapi pasti mulai bergerak menuju tujuannya."
+    },
+    {
+      "name": "Komentator",
+      "text": "Ini dia Winning Ticket! Winning Ticket sekarang, pertama melewati garis finish!"
+    },
+    {
+      "text": "(Sorak～～～～!!)"
+    },
+    {
+      "text": "Setelah 2 minggu balapan, Winning Ticket menang untuk pertama kalinya."
+    }
+  ]
 }

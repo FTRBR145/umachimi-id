@@ -1,291 +1,291 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Saat latihanー"
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Halo, maaf ya kalau ganggu."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Heeh!? Bourbon-san!?"
-        },
-        {
-            "text": "Hari ini aku ngajak Mihono Bourbon buat jadi partner latihannya Rice."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Hari ini aku cuma temen latihan.\nTolong bimbing aku ya."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Ehh…."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Latihan yang biasa aku lakuin, katanya orang-orang itu kayak latihan ‘iblis’ gitu."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Tapi kan kamu udah pernah ngalahin aku.\nJadi pasti bisa kok.\nAyo semangat bareng hari ini."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Fweeh…!!"
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "“Fweeh” bukan waktunya itu.\nAyo langsung mulai.\nKita lari 4 putaran keliling lapangan!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Heh, siap～!"
-        },
-        {
-            "text": "Rice Shower mulai lari, dikejar Mihono Bourbon."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "…Sekarang, aku juga harus mulai latihan.\nSoalnya “Emperor Prize” musim semi sebentar lagi."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Aku nggak sabar buat lari bareng Rice Shower di “Emperor Prize”.\nBener kan, Trainer-san."
-        },
-        {
-            "text": "Aku merasa harus ngobrol sama dia ...."
-        },
-        {
-            "text": "Tapi sepertinya itu juga ada maksud buat ngebiarin Rice Shower.\nJadi, yang bisa aku jawab cuma:",
-            "choice_data_list": [
-                "Rice pasti bakal lari di “Emperor Prize” musim semi."
-            ]
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Iya, aku juga percaya begitu.",
-            "choice_data_list": [
-                "Trus Gimana ? Katanya begitu"
-            ]
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Apa-apaan!? Rice juga bakal ikut “Emperor Award”! Cepet sebarin beritanya!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Hei, tunggu! Itu belum boleh diumumin sekarang!!"
-        },
-        {
-            "text": "Latihan spesial hari ini jadi awal yang baru."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Heh… heh… heh…"
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Seperti yang kuduga, kamu berhasil selesain latihan ‘iblis’ku dengan cepat.\nSekarang, ayo lanjut ke latihan terakhir."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "…Rice-san, tolong tantang aku dan kalahkan aku."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Heh… tantang Bourbon-san…"
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Kamu udah ngalahin aku di “Kikkashou Award”.\nJadi ini bukan hal mustahil kok."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Tapi Rice…"
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Aku nggak nyangka Rice-san yang bisa lari sekeren itu, ternyata segini takutnya."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Di “Kikkashou Award” kamu ngincer aku habis-habisan.\nAku bisa ngerasain tekadmu buat nggak lepasin aku sedetik pun."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Waktu itu aku yakin, kamu lari sepenuh hati buat ngalahin aku."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "……"
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Sekarang aku juga latihan keras buat bisa ngalahin Rice-san."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Tapi… kalau Rice sekarang lawan siapa pun, mereka bakal menang gampang."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Itu bukan Rice yang aku kenal.\nRice yang aku tahu, bukan lawan gampang yang bisa dikalahin tanpa usaha."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Bourbon-san…"
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Tolonglah, Rice-san. Larilah."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Kasih aku perasaan itu lagi… perasaan “Aku pengin menang”, kayak waktu itu."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Aku pengin menang, perasaan itu…."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Aku suka lari, tapi aku nggak bisa menang.\nDan waktu aku liat lomba McQueen-san…"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Rice juga pengin menang!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "…Iya, makanya Rice gabung tim ini dan latihan keras-keras…"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Meski ada orang yang nggak suka kalau Rice menang, tetep aja Rice…"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Rice pengin menang!"
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Akhirnya kamu balik lagi.\nSekarang ayo lanjut ke latihan terakhir kita."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Iya!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Hah!? Rice sama Bourbon mau adu lari!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Rice-san, dia lari dengan tatapan lurus ke depan."
-        },
-        {
-            "text": "Itu ngingetin aku sama seseorang yang bener-bener pengin menang."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Iya."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Kalau gitu, biar aku yang jadi juri di garis finis!"
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Ha… ha… ha… ha…"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "(Bourbon-san cepat banget… bahkan lebih cepat daripada waktu “Kikkashou Award”)."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "(Rice pengin menang, makanya aku berusaha keras…)"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "(Bourbon-san menerima Rice, padahal semua orang nggak nerima.)"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "(Kalau gitu… aku harus bales dengan sungguh-sungguh!!)"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Yaaaaaa～～～～!!"
-        },
-        {
-            "text": "Semangat itu sama persis kayak waktu Rice menang di “Kikkashou Award”.\nPerasaan ingin menang mendorong Rice Shower maju."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Finis!! Rice Shower menang!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Heh… heh… heh～…."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Heh… heh…"
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Rice-san, larianmu barusan keren banget.\nBahkan lebih hebat dari “Kikkashou Award”."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Bourbon-san… Rice lari dengan pikiran, aku pengin ngalahin Bourbon-san."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Aku juga seneng bisa liat larian Rice-san lagi.\nJadi kayaknya aku harus latihan lebih keras lagi."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Selanjutnya ayo lari di Twinkle Series.\nSebagai rival terbaikku."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Iya… iya!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Trainer-san, dengerin ya.\nRice bakal ikut “Emperor’s Award”."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Rice pengin menang.\nMeski itu lomba besar buat McQueen-san."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Haha, itu baru yang aku suka.",
-            "choice_data_list": [
-                "Kalian berdua, semangat ya!"
-            ]
-        },
-        {
-            "name": "Keduanya",
-            "text": "Siap!"
-        },
-        {
-            "text": "Dengan begitu, Rice Shower pun memutuskan\nbuat naik ke panggung besar “Emperor’s Award” musim semi.",
-            "choice_data_list": [
-                "Kalian Semangat Dong !!!"
-            ]
-        },
-        {
-            "name": "- (Mereka)",
-            "text": "Siap!"
-        },
-        {
-            "text": "Dan dengan begitu, Rice Shower akhirnya memutuskan\nuntuk naik ke panggung Spring Tenno-sho"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Saat latihanー"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Halo, maaf ya kalau ganggu."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Heeh!? Bourbon-san!?"
+    },
+    {
+      "text": "Hari ini aku ngajak Mihono Bourbon buat jadi partner latihannya Rice."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Hari ini aku cuma temen latihan.\nTolong bimbing aku ya."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ehh…."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Latihan yang biasa aku lakuin, katanya orang-orang itu kayak latihan ‘iblis’ gitu."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Tapi kan kamu udah pernah ngalahin aku.\nJadi pasti bisa kok.\nAyo semangat bareng hari ini."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Fweeh…!!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "“Fweeh” bukan waktunya itu.\nAyo langsung mulai.\nKita lari 4 putaran keliling lapangan!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Heh, siap～!"
+    },
+    {
+      "text": "Rice Shower mulai lari, dikejar Mihono Bourbon."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "…Sekarang, aku juga harus mulai latihan.\nSoalnya “Emperor Prize” musim semi sebentar lagi."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Aku nggak sabar buat lari bareng Rice Shower di “Emperor Prize”.\nBener kan, Trainer-san."
+    },
+    {
+      "text": "Aku merasa harus ngobrol sama dia ...."
+    },
+    {
+      "text": "Tapi sepertinya itu juga ada maksud buat ngebiarin Rice Shower.\nJadi, yang bisa aku jawab cuma:",
+      "choice_data_list": [
+        "Rice pasti bakal lari di “Emperor Prize” musim semi."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Iya, aku juga percaya begitu.",
+      "choice_data_list": [
+        "Trus Gimana ? Katanya begitu"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Apa-apaan!? Rice juga bakal ikut “Emperor Award”! Cepet sebarin beritanya!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Hei, tunggu! Itu belum boleh diumumin sekarang!!"
+    },
+    {
+      "text": "Latihan spesial hari ini jadi awal yang baru."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Heh… heh… heh…"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Seperti yang kuduga, kamu berhasil selesain latihan ‘iblis’ku dengan cepat.\nSekarang, ayo lanjut ke latihan terakhir."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "…Rice-san, tolong tantang aku dan kalahkan aku."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Heh… tantang Bourbon-san…"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Kamu udah ngalahin aku di “Kikkashou Award”.\nJadi ini bukan hal mustahil kok."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Tapi Rice…"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Aku nggak nyangka Rice-san yang bisa lari sekeren itu, ternyata segini takutnya."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Di “Kikkashou Award” kamu ngincer aku habis-habisan.\nAku bisa ngerasain tekadmu buat nggak lepasin aku sedetik pun."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Waktu itu aku yakin, kamu lari sepenuh hati buat ngalahin aku."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "……"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Sekarang aku juga latihan keras buat bisa ngalahin Rice-san."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Tapi… kalau Rice sekarang lawan siapa pun, mereka bakal menang gampang."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Itu bukan Rice yang aku kenal.\nRice yang aku tahu, bukan lawan gampang yang bisa dikalahin tanpa usaha."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Bourbon-san…"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Tolonglah, Rice-san. Larilah."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Kasih aku perasaan itu lagi… perasaan “Aku pengin menang”, kayak waktu itu."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Aku pengin menang, perasaan itu…."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Aku suka lari, tapi aku nggak bisa menang.\nDan waktu aku liat lomba McQueen-san…"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Rice juga pengin menang!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "…Iya, makanya Rice gabung tim ini dan latihan keras-keras…"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Meski ada orang yang nggak suka kalau Rice menang, tetep aja Rice…"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Rice pengin menang!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Akhirnya kamu balik lagi.\nSekarang ayo lanjut ke latihan terakhir kita."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Iya!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hah!? Rice sama Bourbon mau adu lari!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Rice-san, dia lari dengan tatapan lurus ke depan."
+    },
+    {
+      "text": "Itu ngingetin aku sama seseorang yang bener-bener pengin menang."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Iya."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Kalau gitu, biar aku yang jadi juri di garis finis!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Ha… ha… ha… ha…"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "(Bourbon-san cepat banget… bahkan lebih cepat daripada waktu “Kikkashou Award”)."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "(Rice pengin menang, makanya aku berusaha keras…)"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "(Bourbon-san menerima Rice, padahal semua orang nggak nerima.)"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "(Kalau gitu… aku harus bales dengan sungguh-sungguh!!)"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Yaaaaaa～～～～!!"
+    },
+    {
+      "text": "Semangat itu sama persis kayak waktu Rice menang di “Kikkashou Award”.\nPerasaan ingin menang mendorong Rice Shower maju."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Finis!! Rice Shower menang!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Heh… heh… heh～…."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Heh… heh…"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Rice-san, larianmu barusan keren banget.\nBahkan lebih hebat dari “Kikkashou Award”."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Bourbon-san… Rice lari dengan pikiran, aku pengin ngalahin Bourbon-san."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Aku juga seneng bisa liat larian Rice-san lagi.\nJadi kayaknya aku harus latihan lebih keras lagi."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Selanjutnya ayo lari di Twinkle Series.\nSebagai rival terbaikku."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Iya… iya!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Trainer-san, dengerin ya.\nRice bakal ikut “Emperor’s Award”."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Rice pengin menang.\nMeski itu lomba besar buat McQueen-san."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Haha, itu baru yang aku suka.",
+      "choice_data_list": [
+        "Kalian berdua, semangat ya!"
+      ]
+    },
+    {
+      "name": "Keduanya",
+      "text": "Siap!"
+    },
+    {
+      "text": "Dengan begitu, Rice Shower pun memutuskan\nbuat naik ke panggung besar “Emperor’s Award” musim semi.",
+      "choice_data_list": [
+        "Kalian Semangat Dong !!!"
+      ]
+    },
+    {
+      "name": "- (Mereka)",
+      "text": "Siap!"
+    },
+    {
+      "text": "Dan dengan begitu, Rice Shower akhirnya memutuskan\nuntuk naik ke panggung Spring Tenno-sho"
+    }
+  ]
 }

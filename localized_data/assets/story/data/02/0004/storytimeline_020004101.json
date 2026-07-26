@@ -1,189 +1,189 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Komentator",
-            "text": "Menjelang “Emperor Prize (Autumn)”, ayo lupakan dulu dinginnya musim dingin ini selama 2 menit \ndi tengah panasnya lomba! Dia balik lagi ke panggung!"
-        },
-        {
-            "name": "Komentator",
-            "text": "“Triple Crown Umamusume” Narita Brian yang sempat kena cedera sebelum “Emperor Prize (Spring)” \nsekarang sudah siap lari dengan sepenuh hati!"
-        },
-        {
-            "name": "Komentator",
-            "text": "Hari ini kira-kira dia bakal kasih kita tontonan kayak apa ya? \nDia udah dapet dukungan besar dan jadi favorit nomor satu!"
-        },
-        {
-            "name": "Penonton A",
-            "text": "Aku udah nunggu kamu dari musim semi～! \nPengen banget lihat Brian lari!"
-        },
-        {
-            "name": "Penonton B",
-            "text": "Mungkin bakal pecah rekor lagi nih! Nggak sabar～!"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "……"
-        },
-        {
-            "text": "Aku fokus ngawasin cederamu, jadi latihannya nggak selalu maksimal. \nTapi kondisimu nggak jelek kok."
-        },
-        {
-            "text": "Dan yang paling penting, semangatmu\n buat lari di sini masih sama kayak dulu. \nTunjukin lari terbaikmu!",
-            "name": "<username>"
-        },
-        {
-            "text": "Dan yang paling penting, semangatmu\n buat lari di sini masih sama kayak dulu. \nTunjukin lari terbaikmu!",
-            "name": "<username>"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…Iya."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…Aku bakal lakukan sebisaku."
-        },
-        {
-            "name": "Komentator",
-            "text": "Masuk tikungan terakhir, lurusan terakhir! Semua mulai ngegas bareng-bareng!"
-        },
-        {
-            "name": "Komentator",
-            "text": "Eh!? Narita Brian nggak meledak di lurusan!? \nSementara yang lain mulai nyusul!"
-        },
-        {
-            "text": "Musim gugur iniーNarita Brian balik dengan finis peringkat 12, \nhasil yang di luar dugaan."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Heh… heh…"
-        },
-        {
-            "text": "Ya, rasanya nggak jelek. Kaki juga masih bisa gerak bagus."
-        },
-        {
-            "text": "Aku sempet mikir cederanya belum pulih totalー \ntapi ternyata Brian kerja keras banget di latihan biar bisa kayak gini."
-        },
-        {
-            "text": "Oke, kalau gitu sekarang kita latihan dengan anggapannya kayak lurusan terakhir. \nRace berikutnya “Japan Cup”, lurusan terakhir di Tokyo panjang banget."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Lurusan terakhir… jadi maksudnya gitu."
-        },
-        {
-            "text": "Iya, tapi ada apa?",
-            "name": "<username>"
-        },
-        {
-            "text": "Iya, tapi ada apa?",
-            "name": "<username>"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Maaf, bisa ganti ke latihan lain nggak? \nAku bakal coba spurtnya sendiri nanti."
-        },
-        {
-            "text": "Aku nggak masalah sih…"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "“Japan Cup” lebih panjang daripada “Emperor Prize (Autumn)”, \njadi aku pengen fokus ke pembagian pace."
-        },
-        {
-            "text": "Kalau gitu, ayo latihan pace-distribution aja."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Ya, aku berangkat."
-        },
-        {
-            "text": "…Baru kali ini dia sendiri yang minta ganti menu latihan."
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Katanya sih cederanya udah sembuh, tapi kenapa ya…?"
-        },
-        {
-            "name": "Umamusume A",
-            "text": "Mayano! Latihan udah mulai!"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Ah, iya iya! Aku datang!"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "…Aku lihat Brian lari, tapi rasanya agak kabur. \nAku nggak se-excited dulu lagi…"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "…Brian-san."
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Pembawa Acara TV:『Ayo bilang sesuatu buat fans \nyang nonton langsung race Narita Brian』"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Tamu TV A:『Kalau dipikir tenang, ini normal kok. \nDia kan istirahat 6 bulan』"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Tamu TV B:『Betul! Kebangkitan Brian sepenuhnya \nada di race berikutnya!』"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Di TV sama berita juga bilang kalau hasil ini karena dia \nrehab 6 bulan setelah cedera."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Selain itu insting balapnya juga pasti kaku, \ndan emang susah banget langsung balik ke kondisi puncak setelah comeback."
-        },
-        {
-            "text": "Aku terlalu sering lihat Brian menang, \njadi kadang suka lupa sama akal sehatー"
-        },
-        {
-            "text": "Menang setelah cedera itu nggak gampang. Makanya kita harus atur strategi \nlagi sebelum masuk “Japan Cup”."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Ya… kamu bener."
-        },
-        {
-            "text": "Aku juga nggak bebas dari rasa khawatir. \nLarinya selalu di luar nalar."
-        },
-        {
-            "text": "Dan emang aku juga salah, dari awal cedera itu \naku nggak tangani dengan benar, padahal udah jelas harusnya gimana."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Heh… heh…"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "……"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…Maaf Trainer, tapi tetap saja aku…"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Aku sekarang milih buat lari dengan caraku sendiri…"
-        },
-        {
-            "name": "Komentator",
-            "text": "200 meter terakhir!! Hishi Amazon masih di depan! \nNarita Brian susah banget nyusul!"
-        },
-        {
-            "name": "Komentator",
-            "text": "Hishi Amazon nyampe garis duluan dengan jarak 2 panjang badan! \nNarita Brian makin ketinggalan, finis di posisi 6!"
-        },
-        {
-            "name": "Komentator",
-            "text": "Sama kayak di “Emperor Prize (Autumn)”, \ndi “Japan Cup” pun dia nggak bisa meledak di akhir!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Komentator",
+      "text": "Menjelang “Emperor Prize (Autumn)”, ayo lupakan dulu dinginnya musim dingin ini selama 2 menit \ndi tengah panasnya lomba! Dia balik lagi ke panggung!"
+    },
+    {
+      "name": "Komentator",
+      "text": "“Triple Crown Umamusume” Narita Brian yang sempat kena cedera sebelum “Emperor Prize (Spring)” \nsekarang sudah siap lari dengan sepenuh hati!"
+    },
+    {
+      "name": "Komentator",
+      "text": "Hari ini kira-kira dia bakal kasih kita tontonan kayak apa ya? \nDia udah dapet dukungan besar dan jadi favorit nomor satu!"
+    },
+    {
+      "name": "Penonton A",
+      "text": "Aku udah nunggu kamu dari musim semi～! \nPengen banget lihat Brian lari!"
+    },
+    {
+      "name": "Penonton B",
+      "text": "Mungkin bakal pecah rekor lagi nih! Nggak sabar～!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "……"
+    },
+    {
+      "text": "Aku fokus ngawasin cederamu, jadi latihannya nggak selalu maksimal. \nTapi kondisimu nggak jelek kok."
+    },
+    {
+      "text": "Dan yang paling penting, semangatmu\n buat lari di sini masih sama kayak dulu. \nTunjukin lari terbaikmu!",
+      "name": "<username>"
+    },
+    {
+      "text": "Dan yang paling penting, semangatmu\n buat lari di sini masih sama kayak dulu. \nTunjukin lari terbaikmu!",
+      "name": "<username>"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…Iya."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…Aku bakal lakukan sebisaku."
+    },
+    {
+      "name": "Komentator",
+      "text": "Masuk tikungan terakhir, lurusan terakhir! Semua mulai ngegas bareng-bareng!"
+    },
+    {
+      "name": "Komentator",
+      "text": "Eh!? Narita Brian nggak meledak di lurusan!? \nSementara yang lain mulai nyusul!"
+    },
+    {
+      "text": "Musim gugur iniーNarita Brian balik dengan finis peringkat 12, \nhasil yang di luar dugaan."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Heh… heh…"
+    },
+    {
+      "text": "Ya, rasanya nggak jelek. Kaki juga masih bisa gerak bagus."
+    },
+    {
+      "text": "Aku sempet mikir cederanya belum pulih totalー \ntapi ternyata Brian kerja keras banget di latihan biar bisa kayak gini."
+    },
+    {
+      "text": "Oke, kalau gitu sekarang kita latihan dengan anggapannya kayak lurusan terakhir. \nRace berikutnya “Japan Cup”, lurusan terakhir di Tokyo panjang banget."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Lurusan terakhir… jadi maksudnya gitu."
+    },
+    {
+      "text": "Iya, tapi ada apa?",
+      "name": "<username>"
+    },
+    {
+      "text": "Iya, tapi ada apa?",
+      "name": "<username>"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Maaf, bisa ganti ke latihan lain nggak? \nAku bakal coba spurtnya sendiri nanti."
+    },
+    {
+      "text": "Aku nggak masalah sih…"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "“Japan Cup” lebih panjang daripada “Emperor Prize (Autumn)”, \njadi aku pengen fokus ke pembagian pace."
+    },
+    {
+      "text": "Kalau gitu, ayo latihan pace-distribution aja."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Ya, aku berangkat."
+    },
+    {
+      "text": "…Baru kali ini dia sendiri yang minta ganti menu latihan."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Katanya sih cederanya udah sembuh, tapi kenapa ya…?"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Mayano! Latihan udah mulai!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Ah, iya iya! Aku datang!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "…Aku lihat Brian lari, tapi rasanya agak kabur. \nAku nggak se-excited dulu lagi…"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "…Brian-san."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Pembawa Acara TV:『Ayo bilang sesuatu buat fans \nyang nonton langsung race Narita Brian』"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Tamu TV A:『Kalau dipikir tenang, ini normal kok. \nDia kan istirahat 6 bulan』"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Tamu TV B:『Betul! Kebangkitan Brian sepenuhnya \nada di race berikutnya!』"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Di TV sama berita juga bilang kalau hasil ini karena dia \nrehab 6 bulan setelah cedera."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Selain itu insting balapnya juga pasti kaku, \ndan emang susah banget langsung balik ke kondisi puncak setelah comeback."
+    },
+    {
+      "text": "Aku terlalu sering lihat Brian menang, \njadi kadang suka lupa sama akal sehatー"
+    },
+    {
+      "text": "Menang setelah cedera itu nggak gampang. Makanya kita harus atur strategi \nlagi sebelum masuk “Japan Cup”."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ya… kamu bener."
+    },
+    {
+      "text": "Aku juga nggak bebas dari rasa khawatir. \nLarinya selalu di luar nalar."
+    },
+    {
+      "text": "Dan emang aku juga salah, dari awal cedera itu \naku nggak tangani dengan benar, padahal udah jelas harusnya gimana."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Heh… heh…"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "……"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…Maaf Trainer, tapi tetap saja aku…"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Aku sekarang milih buat lari dengan caraku sendiri…"
+    },
+    {
+      "name": "Komentator",
+      "text": "200 meter terakhir!! Hishi Amazon masih di depan! \nNarita Brian susah banget nyusul!"
+    },
+    {
+      "name": "Komentator",
+      "text": "Hishi Amazon nyampe garis duluan dengan jarak 2 panjang badan! \nNarita Brian makin ketinggalan, finis di posisi 6!"
+    },
+    {
+      "name": "Komentator",
+      "text": "Sama kayak di “Emperor Prize (Autumn)”, \ndi “Japan Cup” pun dia nggak bisa meledak di akhir!"
+    }
+  ]
 }

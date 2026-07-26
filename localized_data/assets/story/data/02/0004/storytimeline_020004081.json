@@ -1,231 +1,231 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Putaran besar Narita Brian setelah jadi “Umamusume Triple Crown”, \nternyata masih lanjut sampai tahun baru."
-        },
-        {
-            "name": "Komentator",
-            "text": "Masuk jalur lurus terakhir dari tikungan ke-4! \nNarita Brian ada di depan!"
-        },
-        {
-            "name": "Komentator",
-            "text": "Terus maju!! Jarak dengan yang lain makin jauh!"
-        },
-        {
-            "name": "Komentator",
-            "text": "Nggak ada yang bisa nyusul dia lagi! Sekarang tinggal sendirian!! \n6 panjang, 7 panjang jaraknya, Finish!"
-        },
-        {
-            "name": "Komentator",
-            "text": "Nggak ada lagi yang bisa nutupin Narita Brian!! \nMenang di “Hanshin Daishoten”!"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "……"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Kerja bagus, Brian-san."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Padahal balapan jarak jauh, tapi kamu pecahin rekor waktu terbaikmu sendiri. \nKamu kayak nggak punya batas."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Kamu pasti kepilih jadi “Umamusume perwakilan tahun ini”, \ndan balapannya juga menang telak begini…"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Narita Brian, larinya kamu sama tim <Sirius> doang \nbisa bikin Twinkle Series makin panas! Makasih!"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…Sama-sama."
-        },
-        {
-            "text": "Selanjutnya “Emperor’s Cup (Spring)”… ini balapan \nyang kakakmu menangkan tahun lalu. \nAyo kita kejar kemenangan buat kakak-beradik!",
-            "name": "<username>"
-        },
-        {
-            "text": "Selanjutnya “Emperor’s Cup (Spring)”… ini balapan \nyang kakakmu menangkan tahun lalu. \nAyo kita kejar kemenangan buat kakak-beradik!",
-            "name": "<username>"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Ya, menang itu hal yang wajar. …Yah, sebelum itu \naku bakal selesaikan dulu winning live-nya."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Katanya tujuh mahkota Presiden Rudolf juga udah pasti, \naku penasaran berapa banyak rekor baru yang bakal lahir tahun ini."
-        },
-        {
-            "text": "Seperti kata Mejiro McQueen, semua orang punya \nekspetasi besar buat kesuksesan Narita Brian."
-        },
-        {
-            "text": "Kira-kira kayak apa lari yang bakal dia tunjukkan? \nAku sampai susah nahan semangat, kayak fans yang dukung dia."
-        },
-        {
-            "name": "Penonton A",
-            "text": "Brian!! Lari kamu hari ini juga mantap banget!"
-        },
-        {
-            "name": "Penonton B",
-            "text": "Udah jelas, pusat perhatian “Emperor’s Cup (Spring)” \nbakal jatuh ke Brian!!"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Woaah～, Brian-san… itu larinya Umamusume Triple Crown beneran!"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Maya juga pengen coba lari sekeren itu suatu hari nanti!"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "……"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Jadi kamu beneran ada di sini."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Kak… gimana kondisi kakimu?"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Masih butuh waktu buat pulih. Badanku masih terasa kaku."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Kamu masih sama aja… Dari menang telak \nsebagai Umamusume perwakilan tahun ini sampai “Hanshin Daishoten”, \nsejauh apa lagi kamu mau melangkah?"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Aku nggak pernah pasang target di satu titik. \nCuma terus nyebrang garis finish di depan mata… itu aja."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "…Iya juga. Kamu selalu ngejar sesuatu, kayak tujuan tanpa akhir."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Tapi aku lihat kamu juga kayaknya menikmati itu. \nKamu bener-bener punya keinginan kuat buat terus lari."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Aku menikmatinya…? Padahal berapa kali pun aku lari, \naku masih nggak pernah puas?"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Iya, tanpa diragukan."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "……"
-        },
-        {
-            "text": "Beberapa hari setelah “Hanshin Daishoten”ー"
-        },
-        {
-            "text": "Latihan diadakan untuk persiapan “Emperor’s Cup (Spring)” \nyang bakal jadi balapan berikutnya buat Narita Brian."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…*Hah*."
-        },
-        {
-            "text": "Kamu keliatan agak capek, nggak apa-apa?",
-            "name": "<username>"
-        },
-        {
-            "text": "Kamu keliatan agak capek, nggak apa-apa?",
-            "name": "<username>"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Nggak masalah, aku belum lari dengan tenaga penuh."
-        },
-        {
-            "text": "Semoga aja, tapi karena lintasannya berat, \nyuk coba pindah ke trek serbuk kayu lain kali."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Ya, baiklah."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Brian-san kayaknya punya semangat buat lari di mana aja."
-        },
-        {
-            "text": "Semangat itu lahir dari hasil yang selalu melampaui ekspektasi. \nAku nggak bisa nggak berharap buat balapan berikutnya."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Rice juga nggak sabar pengen lihat dia \nakan balapan seperti apa selanjutnya."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Aku juga ngerasain hal yang sama, \ntapi aku nggak bisa cuma taruh harapan ke dia. \nAku juga harus bisa ngikutin Brian-san."
-        },
-        {
-            "text": "Aku juga bakal berusaha keras supaya bisa bikin Brian \nsiap tampil di balapan dengan performa terbaiknya.",
-            "name": "<username>"
-        },
-        {
-            "text": "Aku juga bakal berusaha keras supaya bisa bikin Brian \nsiap tampil di balapan dengan performa terbaiknya.",
-            "name": "<username>"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "…Hah!?",
-            "choice_data_list": [
-                "Kenapa…?"
-            ]
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Ngomong-ngomong soal persiapan balapan, \nkayaknya udah waktunya daftar Brian buat balapan kan?"
-        },
-        {
-            "text": "Oh iya juga, bener tuh."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Syukurlah～… bisa repot kalau sampai kelupaan."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Mau performa sebagus apa pun, nggak ada artinya \nkalau dia nggak ikut balapannya."
-        },
-        {
-            "text": "Aku selesain pendaftarannya dulu sebelum kelupaan. \nSementara itu, McQueen pimpin latihan semuaー"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "…Hah!?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Brian-san!?"
-        },
-        {
-            "text": "A-Ada apa!?",
-            "name": "<username>"
-        },
-        {
-            "text": "A-Ada apa!?",
-            "name": "<username>"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "*Hah*…*Hah*…!"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…Urgh!?"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Putaran besar Narita Brian setelah jadi “Umamusume Triple Crown”, \nternyata masih lanjut sampai tahun baru."
+    },
+    {
+      "name": "Komentator",
+      "text": "Masuk jalur lurus terakhir dari tikungan ke-4! \nNarita Brian ada di depan!"
+    },
+    {
+      "name": "Komentator",
+      "text": "Terus maju!! Jarak dengan yang lain makin jauh!"
+    },
+    {
+      "name": "Komentator",
+      "text": "Nggak ada yang bisa nyusul dia lagi! Sekarang tinggal sendirian!! \n6 panjang, 7 panjang jaraknya, Finish!"
+    },
+    {
+      "name": "Komentator",
+      "text": "Nggak ada lagi yang bisa nutupin Narita Brian!! \nMenang di “Hanshin Daishoten”!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "……"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Kerja bagus, Brian-san."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Padahal balapan jarak jauh, tapi kamu pecahin rekor waktu terbaikmu sendiri. \nKamu kayak nggak punya batas."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Kamu pasti kepilih jadi “Umamusume perwakilan tahun ini”, \ndan balapannya juga menang telak begini…"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Narita Brian, larinya kamu sama tim <Sirius> doang \nbisa bikin Twinkle Series makin panas! Makasih!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…Sama-sama."
+    },
+    {
+      "text": "Selanjutnya “Emperor’s Cup (Spring)”… ini balapan \nyang kakakmu menangkan tahun lalu. \nAyo kita kejar kemenangan buat kakak-beradik!",
+      "name": "<username>"
+    },
+    {
+      "text": "Selanjutnya “Emperor’s Cup (Spring)”… ini balapan \nyang kakakmu menangkan tahun lalu. \nAyo kita kejar kemenangan buat kakak-beradik!",
+      "name": "<username>"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Ya, menang itu hal yang wajar. …Yah, sebelum itu \naku bakal selesaikan dulu winning live-nya."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Katanya tujuh mahkota Presiden Rudolf juga udah pasti, \naku penasaran berapa banyak rekor baru yang bakal lahir tahun ini."
+    },
+    {
+      "text": "Seperti kata Mejiro McQueen, semua orang punya \nekspetasi besar buat kesuksesan Narita Brian."
+    },
+    {
+      "text": "Kira-kira kayak apa lari yang bakal dia tunjukkan? \nAku sampai susah nahan semangat, kayak fans yang dukung dia."
+    },
+    {
+      "name": "Penonton A",
+      "text": "Brian!! Lari kamu hari ini juga mantap banget!"
+    },
+    {
+      "name": "Penonton B",
+      "text": "Udah jelas, pusat perhatian “Emperor’s Cup (Spring)” \nbakal jatuh ke Brian!!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Woaah～, Brian-san… itu larinya Umamusume Triple Crown beneran!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Maya juga pengen coba lari sekeren itu suatu hari nanti!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "……"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Jadi kamu beneran ada di sini."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Kak… gimana kondisi kakimu?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Masih butuh waktu buat pulih. Badanku masih terasa kaku."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Kamu masih sama aja… Dari menang telak \nsebagai Umamusume perwakilan tahun ini sampai “Hanshin Daishoten”, \nsejauh apa lagi kamu mau melangkah?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Aku nggak pernah pasang target di satu titik. \nCuma terus nyebrang garis finish di depan mata… itu aja."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "…Iya juga. Kamu selalu ngejar sesuatu, kayak tujuan tanpa akhir."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Tapi aku lihat kamu juga kayaknya menikmati itu. \nKamu bener-bener punya keinginan kuat buat terus lari."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Aku menikmatinya…? Padahal berapa kali pun aku lari, \naku masih nggak pernah puas?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Iya, tanpa diragukan."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "……"
+    },
+    {
+      "text": "Beberapa hari setelah “Hanshin Daishoten”ー"
+    },
+    {
+      "text": "Latihan diadakan untuk persiapan “Emperor’s Cup (Spring)” \nyang bakal jadi balapan berikutnya buat Narita Brian."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…*Hah*."
+    },
+    {
+      "text": "Kamu keliatan agak capek, nggak apa-apa?",
+      "name": "<username>"
+    },
+    {
+      "text": "Kamu keliatan agak capek, nggak apa-apa?",
+      "name": "<username>"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Nggak masalah, aku belum lari dengan tenaga penuh."
+    },
+    {
+      "text": "Semoga aja, tapi karena lintasannya berat, \nyuk coba pindah ke trek serbuk kayu lain kali."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Ya, baiklah."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Brian-san kayaknya punya semangat buat lari di mana aja."
+    },
+    {
+      "text": "Semangat itu lahir dari hasil yang selalu melampaui ekspektasi. \nAku nggak bisa nggak berharap buat balapan berikutnya."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Rice juga nggak sabar pengen lihat dia \nakan balapan seperti apa selanjutnya."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Aku juga ngerasain hal yang sama, \ntapi aku nggak bisa cuma taruh harapan ke dia. \nAku juga harus bisa ngikutin Brian-san."
+    },
+    {
+      "text": "Aku juga bakal berusaha keras supaya bisa bikin Brian \nsiap tampil di balapan dengan performa terbaiknya.",
+      "name": "<username>"
+    },
+    {
+      "text": "Aku juga bakal berusaha keras supaya bisa bikin Brian \nsiap tampil di balapan dengan performa terbaiknya.",
+      "name": "<username>"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "…Hah!?",
+      "choice_data_list": [
+        "Kenapa…?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ngomong-ngomong soal persiapan balapan, \nkayaknya udah waktunya daftar Brian buat balapan kan?"
+    },
+    {
+      "text": "Oh iya juga, bener tuh."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Syukurlah～… bisa repot kalau sampai kelupaan."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Mau performa sebagus apa pun, nggak ada artinya \nkalau dia nggak ikut balapannya."
+    },
+    {
+      "text": "Aku selesain pendaftarannya dulu sebelum kelupaan. \nSementara itu, McQueen pimpin latihan semuaー"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "…Hah!?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Brian-san!?"
+    },
+    {
+      "text": "A-Ada apa!?",
+      "name": "<username>"
+    },
+    {
+      "text": "A-Ada apa!?",
+      "name": "<username>"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "*Hah*…*Hah*…!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…Urgh!?"
+    }
+  ]
 }

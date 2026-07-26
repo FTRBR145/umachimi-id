@@ -1,330 +1,330 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Beberapa bulan sebelum “SatsukiShou” saat \nNarita Brian menunjukkan cara memenangkan keajaibanー"
-        },
-        {
-            "text": "Pertama kali aku melihat dia berlari… terasa canggung."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Heh… heh…"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Phewah… Berat juga…!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Yeah-yeah, kalian berdua lari bagus! Semoga beruntung di lomba berikutnya!",
-            "choice_data_list": [
-                "Kamu juga harus lari…",
-                "Kamu juga harus lari…"
-            ]
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Tidak bisa dapat apa-apa cuma dengan berlari! Contohnya～… Aku bahkan tidak bisa membayangkannya!"
-        },
-        {
-            "text": "Yah, bagaimanapun juga, cukup sampai sini untuk hari ini. Kerja bagus, semuanya."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Oke～! Makan malam-makan malam! Sampai jumpa, Trainer!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Terima kasih atas kerja kerasnya, Trainer-san."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Sampai besok, Trainer-san… ah, huh? Yang di sana…"
-        },
-        {
-            "text": "Di mana Winning Ticket menatap, ada seorang Umamusume yang sepenuhnya mendedikasikan diri untuk latihan."
-        },
-        {
-            "name": "???",
-            "text": "Fu～…"
-        },
-        {
-            "name": "???",
-            "text": "…Ah!!"
-        },
-        {
-            "text": "Tubuh lentur dan langkah kuatー"
-        },
-        {
-            "text": "Saat dilihat, terkesan bukan lari buruk, tapi masih kurang sesuatu."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Gadis ini adik dari Hayahide, \ndan dia bernama Narita Brian.",
-            "choice_data_list": [
-                "Adik Biwa Hayahide…?"
-            ]
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Ya, tapi kenapa dia latihan sendiri… Bukankah dia seharusnya dengan timnya?"
-        },
-        {
-            "text": "Tim berarti, apakah dia sudah debut?"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Kalau ingat dengan benar, dia sudah lari 5 kali dan menang 2. Hasilnya tidak buruk, tapi terasa kurang."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Karena Hayahide bilang Brian adalah 'Umamusume Berbakat'."
-        },
-        {
-            "text": "Umamusume Berbakat…"
-        },
-        {
-            "text": "Kakaknya yang sangat terampil menilai \nya sebagai 'Umamusume Berbakat'ー"
-        },
-        {
-            "text": "Aku penasaran seperti apa lari Narita Brian, tapi \njawabannya muncul di tempat yang tak terduga."
-        },
-        {
-            "name": " Trainer lain A",
-            "text": "Di 'Selection Race' ini, agak sedikit Umamusume berbakat. Kamu harus hati-hati menentukan siapa yang akan discout."
-        },
-        {
-            "name": " Trainer lain B",
-            "text": "…Oh? Yang muncul di lomba berikutnya adalah Narita Brian, yang sudah debut…"
-        },
-        {
-            "name": "Trainer lain A",
-            "text": "Sepertinya dia keluar dari timnya. Trainer-nya tidak cocok dengannya."
-        },
-        {
-            "text": "“Selection Race” adalah lomba untuk Umamusume yang belum punya tim agar discout oleh trainer."
-        },
-        {
-            "text": "(Karena dia keluar dari tim, dia latihan sendiri sebelumnya. Tapi, ini apaan…)",
-            "name": "<username>"
-        },
-        {
-            "text": "(Karena dia keluar dari tim, dia latihan sendiri sebelumnya. Tapi, ini apaan…)",
-            "name": "<username>"
-        },
-        {
-            "text": "Sambil memikirkan hal itu, \nlomba Narita Brian pun dimulaiー"
-        },
-        {
-            "name": "Komentator",
-            "text": "Narita Brian 5 panjang badan dari garis finish! Dia tidak bisa meninggalkan langkah spurt!?"
-        },
-        {
-            "name": "Komentator",
-            "text": "Dia sudah punya catatan 2 kemenangan di Twinkle Series, jadi sulit dipercaya!"
-        },
-        {
-            "name": "Trainer lain A",
-            "text": "Lari yang hebat! Kenapa tidak lari dengan tim kita!?"
-        },
-        {
-            "name": "Umamusume A",
-            "text": "Y-Ya!! Aku juga, senang bisa bekerja sama!!"
-        },
-        {
-            "text": "Sambil para trainer memanggil Umamusume yang\nselesai berlari, aku juga menuju 1 Umamusume."
-        },
-        {
-            "text": "Sambil para trainer memanggil Umamusume yang\nselesai berlari, aku juga menuju 1 Umamusume."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "……"
-        },
-        {
-            "text": "Narita Brian, boleh aku bicara sebentar?"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…Aku rasa penampilanku tidak ada yang pantas untuk discout."
-        },
-        {
-            "text": "Seperti yang dia bilang, lomba itu kurang ada spurt dan aku\n tidak melihat tempat untuk menunjukkannya."
-        },
-        {
-            "text": "Namun, aku berpikir itu mungkin terkait dengan 'kecanggungan' yang kurasakan sebelumnya, dan mencoba memanggilnya."
-        },
-        {
-            "text": "Kekuatan tubuh dan langkah \nsempurna. Dan form-nya sempurna.",
-            "name": "<username>"
-        },
-        {
-            "text": "Kekuatan tubuh dan langkah \nsempurna. Dan form-nya sempurna.",
-            "name": "<username>"
-        },
-        {
-            "text": "Tapi aku pikir keduanya tidak cocok."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "……"
-        },
-        {
-            "text": "Form-mu terlalu indah, sehingga menahan\n kekuatanmu. Aku pikir baik untuk dicoba.",
-            "name": "<username>"
-        },
-         {
-            "text": "Form-mu terlalu indah, sehingga menahan\n kekuatanmu. Aku pikir baik untuk dicoba.",
-            "name": "<username>"
-        },
-        {
-            "text": "Bagaimana kalau lari lebih bebas dan sisanya serahkan pada angin?"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…Bebas… Serahkan pada angin…"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…Ah!!"
-        },
-        {
-            "text": "…!?"
-        },
-        {
-            "text": "Lari itu jauh melampaui ekspektasiku."
-        },
-        {
-            "text": "Form, yang sangat tertahan sehingga bisa dibilang ekstrem, \nsekarang terlihat seperti predator ganas menangkap mangsaー"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Haaaa～～!!"
-        },
-        {
-            "name": "Trainer lain B",
-            "text": "Eh…!? L-Lari… itu apa…!?"
-        },
-        {
-            "name": "Umamusume B",
-            "text": "Luar biasa… Semakin kencang…!?"
-        },
-        {
-            "text": "Hahaha… Aku yakin sekarang dia 'Mass of talent'.",
-            "name": "<username>"
-        },
-         {
-            "text": "Hahaha… Aku yakin sekarang dia 'Mass of talent'.",
-            "name": "<username>"
-        },
-        {
-            "text": "Kalau dia lari seperti itu di lomba sebelumnya, pasti menang pertama.",
-            "name": "<username>"
-        },
-        {
-            "text": "Kalau dia lari seperti itu di lomba sebelumnya, pasti menang pertama.",
-            "name": "<username>"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Masih ada beberapa yang terlalu kusadari.\n Kalau terbiasa, aku bisa lebih cepat."
-        },
-        {
-            "text": "Lebih cepat dari itu… yang benar saja."
-        },
-         {
-            "text": "Lebih cepat dari itu… yang benar saja."
-        },
-        {
-            "text": "Ngomong-ngomong, kenapa keluar dari tim? Kalau\n sudah menang 2 kali, bukankah trainer menghargainya?"
-        },
-        {
-            "text": "Ngomong-ngomong, kenapa keluar dari tim? Kalau\n sudah menang 2 kali, bukankah trainer menghargainya?"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…Karena aku ingin lebih banyak berlari.",
-            "choice_data_list": [
-                "Lebih banyak?"
-            ]
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Aku diberi tahu kalau prestasiku tidak stabil\n karena tidak bisa menyesuaikan perasaanku."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Jadi aku harus meninggalkan balapan sementara."
-        },
-        {
-            "text": "Penyesuaian perasaan…",
-            "name": "<username>"
-        },
-        {
-            "text": "Mungkin berarti tidak bisa mengendalikan 'dirimu' di lomba."
-        },
-        {
-            "text": "Penting untuk menaruh semangat, tapi ketenangan untuk menilai \nsituasi tak terduga dan membaca perkembangan sangat penting."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Tapi, cerita seperti itu tidak bisa diterima."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Sebagai trainer kau pasti mengerti. Lalu aku menolak, itu saja."
-        },
-        {
-            "text": "Aku ingin berlariーSangat sederhana, dia punya tekad kuat sampai keluar dari tim."
-        },
-        {
-            "text": "Dan dia punya kemampuan untuk mewujudkan perasaannya!"
-        },
-        {
-            "text": "Dari sekarang, tidak cukup waktu untuk 'Kyoto Junior Stakes'. \nSetelah itu ada juga 'Asahi Cup FS' segera setelahnya.",
-            "name": "<username>"
-        },
-         {
-            "text": "Dari sekarang, tidak cukup waktu untuk 'Kyoto Junior Stakes'. \nSetelah itu ada juga 'Asahi Cup FS' segera setelahnya.",
-            "name": "<username>"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…Apa yang kamu bicarakan?"
-        },
-        {
-            "text": "Mungkin dalam kasusmu, lebih baik \njujur dengan balapan daripada menahan keinginan berlari. Jadiー",
-            "choice_data_list": [
-                "Brian, maukah kamu berlari untuk tim kami?",
-                "Brian, maukah kamu berlari untuk tim kami?"
-            ],
-            "name": "<username>"
-        },
-         {
-            "text": "Mungkin dalam kasusmu, lebih baik \njujur dengan balapan daripada menahan keinginan berlari. Jadiー",
-            "choice_data_list": [
-                "Brian, maukah kamu berlari untuk tim kami?",
-                "Brian, maukah kamu berlari untuk tim kami?"
-            ],
-            "name": "<username>"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…Ngomong-ngomong, aku berlari agar discout hari ini. Kesan lari itu sangat kuat sampai aku lupa."
-        },
-        {
-            "text": "Mari coba lari itu berikutnya di lomba!"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Ya, biarkan mereka berlari sekuat tenaga…!"
-        },
-        {
-            "text": "Dengan demikian, Narita Brian bergabung sebagai anggota baru tim <Sirius>ー"
-        },
-        {
-            "text": "Segera kita akan menyaksikan 'bakat' gadis ini."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Beberapa bulan sebelum “SatsukiShou” saat \nNarita Brian menunjukkan cara memenangkan keajaibanー"
+    },
+    {
+      "text": "Pertama kali aku melihat dia berlari… terasa canggung."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Heh… heh…"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Phewah… Berat juga…!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Yeah-yeah, kalian berdua lari bagus! Semoga beruntung di lomba berikutnya!",
+      "choice_data_list": [
+        "Kamu juga harus lari…",
+        "Kamu juga harus lari…"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Tidak bisa dapat apa-apa cuma dengan berlari! Contohnya～… Aku bahkan tidak bisa membayangkannya!"
+    },
+    {
+      "text": "Yah, bagaimanapun juga, cukup sampai sini untuk hari ini. Kerja bagus, semuanya."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Oke～! Makan malam-makan malam! Sampai jumpa, Trainer!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Terima kasih atas kerja kerasnya, Trainer-san."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Sampai besok, Trainer-san… ah, huh? Yang di sana…"
+    },
+    {
+      "text": "Di mana Winning Ticket menatap, ada seorang Umamusume yang sepenuhnya mendedikasikan diri untuk latihan."
+    },
+    {
+      "name": "???",
+      "text": "Fu～…"
+    },
+    {
+      "name": "???",
+      "text": "…Ah!!"
+    },
+    {
+      "text": "Tubuh lentur dan langkah kuatー"
+    },
+    {
+      "text": "Saat dilihat, terkesan bukan lari buruk, tapi masih kurang sesuatu."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Gadis ini adik dari Hayahide, \ndan dia bernama Narita Brian.",
+      "choice_data_list": [
+        "Adik Biwa Hayahide…?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ya, tapi kenapa dia latihan sendiri… Bukankah dia seharusnya dengan timnya?"
+    },
+    {
+      "text": "Tim berarti, apakah dia sudah debut?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Kalau ingat dengan benar, dia sudah lari 5 kali dan menang 2. Hasilnya tidak buruk, tapi terasa kurang."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Karena Hayahide bilang Brian adalah 'Umamusume Berbakat'."
+    },
+    {
+      "text": "Umamusume Berbakat…"
+    },
+    {
+      "text": "Kakaknya yang sangat terampil menilai \nya sebagai 'Umamusume Berbakat'ー"
+    },
+    {
+      "text": "Aku penasaran seperti apa lari Narita Brian, tapi \njawabannya muncul di tempat yang tak terduga."
+    },
+    {
+      "name": " Trainer lain A",
+      "text": "Di 'Selection Race' ini, agak sedikit Umamusume berbakat. Kamu harus hati-hati menentukan siapa yang akan discout."
+    },
+    {
+      "name": " Trainer lain B",
+      "text": "…Oh? Yang muncul di lomba berikutnya adalah Narita Brian, yang sudah debut…"
+    },
+    {
+      "name": "Trainer lain A",
+      "text": "Sepertinya dia keluar dari timnya. Trainer-nya tidak cocok dengannya."
+    },
+    {
+      "text": "“Selection Race” adalah lomba untuk Umamusume yang belum punya tim agar discout oleh trainer."
+    },
+    {
+      "text": "(Karena dia keluar dari tim, dia latihan sendiri sebelumnya. Tapi, ini apaan…)",
+      "name": "<username>"
+    },
+    {
+      "text": "(Karena dia keluar dari tim, dia latihan sendiri sebelumnya. Tapi, ini apaan…)",
+      "name": "<username>"
+    },
+    {
+      "text": "Sambil memikirkan hal itu, \nlomba Narita Brian pun dimulaiー"
+    },
+    {
+      "name": "Komentator",
+      "text": "Narita Brian 5 panjang badan dari garis finish! Dia tidak bisa meninggalkan langkah spurt!?"
+    },
+    {
+      "name": "Komentator",
+      "text": "Dia sudah punya catatan 2 kemenangan di Twinkle Series, jadi sulit dipercaya!"
+    },
+    {
+      "name": "Trainer lain A",
+      "text": "Lari yang hebat! Kenapa tidak lari dengan tim kita!?"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Y-Ya!! Aku juga, senang bisa bekerja sama!!"
+    },
+    {
+      "text": "Sambil para trainer memanggil Umamusume yang\nselesai berlari, aku juga menuju 1 Umamusume."
+    },
+    {
+      "text": "Sambil para trainer memanggil Umamusume yang\nselesai berlari, aku juga menuju 1 Umamusume."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "……"
+    },
+    {
+      "text": "Narita Brian, boleh aku bicara sebentar?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…Aku rasa penampilanku tidak ada yang pantas untuk discout."
+    },
+    {
+      "text": "Seperti yang dia bilang, lomba itu kurang ada spurt dan aku\n tidak melihat tempat untuk menunjukkannya."
+    },
+    {
+      "text": "Namun, aku berpikir itu mungkin terkait dengan 'kecanggungan' yang kurasakan sebelumnya, dan mencoba memanggilnya."
+    },
+    {
+      "text": "Kekuatan tubuh dan langkah \nsempurna. Dan form-nya sempurna.",
+      "name": "<username>"
+    },
+    {
+      "text": "Kekuatan tubuh dan langkah \nsempurna. Dan form-nya sempurna.",
+      "name": "<username>"
+    },
+    {
+      "text": "Tapi aku pikir keduanya tidak cocok."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "……"
+    },
+    {
+      "text": "Form-mu terlalu indah, sehingga menahan\n kekuatanmu. Aku pikir baik untuk dicoba.",
+      "name": "<username>"
+    },
+    {
+      "text": "Form-mu terlalu indah, sehingga menahan\n kekuatanmu. Aku pikir baik untuk dicoba.",
+      "name": "<username>"
+    },
+    {
+      "text": "Bagaimana kalau lari lebih bebas dan sisanya serahkan pada angin?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…Bebas… Serahkan pada angin…"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…Ah!!"
+    },
+    {
+      "text": "…!?"
+    },
+    {
+      "text": "Lari itu jauh melampaui ekspektasiku."
+    },
+    {
+      "text": "Form, yang sangat tertahan sehingga bisa dibilang ekstrem, \nsekarang terlihat seperti predator ganas menangkap mangsaー"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Haaaa～～!!"
+    },
+    {
+      "name": "Trainer lain B",
+      "text": "Eh…!? L-Lari… itu apa…!?"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Luar biasa… Semakin kencang…!?"
+    },
+    {
+      "text": "Hahaha… Aku yakin sekarang dia 'Mass of talent'.",
+      "name": "<username>"
+    },
+    {
+      "text": "Hahaha… Aku yakin sekarang dia 'Mass of talent'.",
+      "name": "<username>"
+    },
+    {
+      "text": "Kalau dia lari seperti itu di lomba sebelumnya, pasti menang pertama.",
+      "name": "<username>"
+    },
+    {
+      "text": "Kalau dia lari seperti itu di lomba sebelumnya, pasti menang pertama.",
+      "name": "<username>"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Masih ada beberapa yang terlalu kusadari.\n Kalau terbiasa, aku bisa lebih cepat."
+    },
+    {
+      "text": "Lebih cepat dari itu… yang benar saja."
+    },
+    {
+      "text": "Lebih cepat dari itu… yang benar saja."
+    },
+    {
+      "text": "Ngomong-ngomong, kenapa keluar dari tim? Kalau\n sudah menang 2 kali, bukankah trainer menghargainya?"
+    },
+    {
+      "text": "Ngomong-ngomong, kenapa keluar dari tim? Kalau\n sudah menang 2 kali, bukankah trainer menghargainya?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…Karena aku ingin lebih banyak berlari.",
+      "choice_data_list": [
+        "Lebih banyak?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Aku diberi tahu kalau prestasiku tidak stabil\n karena tidak bisa menyesuaikan perasaanku."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Jadi aku harus meninggalkan balapan sementara."
+    },
+    {
+      "text": "Penyesuaian perasaan…",
+      "name": "<username>"
+    },
+    {
+      "text": "Mungkin berarti tidak bisa mengendalikan 'dirimu' di lomba."
+    },
+    {
+      "text": "Penting untuk menaruh semangat, tapi ketenangan untuk menilai \nsituasi tak terduga dan membaca perkembangan sangat penting."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Tapi, cerita seperti itu tidak bisa diterima."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Sebagai trainer kau pasti mengerti. Lalu aku menolak, itu saja."
+    },
+    {
+      "text": "Aku ingin berlariーSangat sederhana, dia punya tekad kuat sampai keluar dari tim."
+    },
+    {
+      "text": "Dan dia punya kemampuan untuk mewujudkan perasaannya!"
+    },
+    {
+      "text": "Dari sekarang, tidak cukup waktu untuk 'Kyoto Junior Stakes'. \nSetelah itu ada juga 'Asahi Cup FS' segera setelahnya.",
+      "name": "<username>"
+    },
+    {
+      "text": "Dari sekarang, tidak cukup waktu untuk 'Kyoto Junior Stakes'. \nSetelah itu ada juga 'Asahi Cup FS' segera setelahnya.",
+      "name": "<username>"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…Apa yang kamu bicarakan?"
+    },
+    {
+      "text": "Mungkin dalam kasusmu, lebih baik \njujur dengan balapan daripada menahan keinginan berlari. Jadiー",
+      "choice_data_list": [
+        "Brian, maukah kamu berlari untuk tim kami?",
+        "Brian, maukah kamu berlari untuk tim kami?"
+      ],
+      "name": "<username>"
+    },
+    {
+      "text": "Mungkin dalam kasusmu, lebih baik \njujur dengan balapan daripada menahan keinginan berlari. Jadiー",
+      "choice_data_list": [
+        "Brian, maukah kamu berlari untuk tim kami?",
+        "Brian, maukah kamu berlari untuk tim kami?"
+      ],
+      "name": "<username>"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…Ngomong-ngomong, aku berlari agar discout hari ini. Kesan lari itu sangat kuat sampai aku lupa."
+    },
+    {
+      "text": "Mari coba lari itu berikutnya di lomba!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Ya, biarkan mereka berlari sekuat tenaga…!"
+    },
+    {
+      "text": "Dengan demikian, Narita Brian bergabung sebagai anggota baru tim <Sirius>ー"
+    },
+    {
+      "text": "Segera kita akan menyaksikan 'bakat' gadis ini."
+    }
+  ]
 }

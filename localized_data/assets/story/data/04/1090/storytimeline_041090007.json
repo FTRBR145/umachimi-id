@@ -1,285 +1,285 @@
 {
-    "no_wrap": false,
-    "text_block_list": [
-        {
-            "text": "Udah masuk musim panas nih. Kita semua ngumpul buat latihan spesial."
-        },
-        {
-            "name": "Umamusume A",
-            "text": "Aduh, berat juga ya... Panas banget, kaki juga kepeleset mulu...!"
-        },
-        {
-            "name": "Umamusume B",
-            "text": "Susah ya jaga postur tubuh～…… ...Hmm?"
-        },
-        {
-            "name": "Verxina",
-            "text": "Fuuu...!"
-        },
-        {
-            "name": "Umamusume A",
-            "text": "Ooooh～...! Emang beda ya Verxina-san... Persis kayak di akademi, posturnya cakep banget...!"
-        },
-        {
-            "name": "Umamusume B",
-            "text": "Di atas pasir aja udah kayak lukisan... Oke, ayo semangat dikit lagi!"
-        },
-        {
-            "name": "Verxina",
-            "text": "...Fuu. Maaf ya, Trainer-san. Ngerepotin ambil ini segala."
-        },
-        {
-            "name": "Verxina",
-            "text": "Latihan di pantai selesai deh. ...Tapi rasanya porsi latihannya agak lebih ringan dari biasanya ya――"
-        },
-        {
-            "name": "Verxina",
-            "text": "...Lari di pantai emang efektif. Tapi karena pijakannya susah, bahaya kalau kelamaan... bener gitu kan?",
-            "choice_data_list": [
-                "Bener banget!"
-            ]
-        },
-        {
-            "text": "――Tentu aja. Kali ini, aku mikirin banget menu latihannya."
-        },
-        {
-            "text": "Sebagai Trainer sih wajar ya, tapi... Sebenarnya, aku pengen nebus yang waktu itu..."
-        },
-        {
-            "name": "Verxina",
-            "text": "Habis ini renang kan...? Aku istirahat berapa lama lagi?",
-            "choice_data_list": [
-                "Sekitar 3 menit!"
-            ]
-        },
-        {
-            "name": "Verxina",
-            "text": "Ngerti. Kalau gitu... Waktunya pemanasan ringan kali ya?"
-        },
-        {
-            "text": "Sip. Hari ini aku bakal kerja sempurna. Aku pantau terus waktunya, siapin handuk sama minum tepat waktu."
-        },
-        {
-            "text": "Biar aku bisa jadi trainer yang bisa diandelin Verxina."
-        },
-        {
-            "name": "Verxina",
-            "text": "Kerja bagus, Trainer-san. Makasih lagi ya bimbingannya.",
-            "choice_data_list": [
-                "Ah, iya... kerja bagus...",
-                "Ah, iya... kerja bagus..."
-            ]
-        },
-        {
-            "name": "Verxina",
-            "text": "...Kamu kelihatan capek banget. Nggak apa-apa?",
-            "choice_data_list": [
-                "Kayaknya aku terlalu semangat deh.",
-                "Kayaknya aku terlalu semangat deh."
-            ]
-        },
-        {
-            "name": "Verxina",
-            "text": "Sama dong. Lingkungan yang keras bikin aku makin termotivasi."
-        },
-        {
-            "name": "Verxina",
-            "text": "Oh iya. Nanti malam kan mau barbekyuan."
-        },
-        {
-            "name": "Verxina",
-            "text": "Mulai lapar nih... Nanti porsinya agak banyak ah.",
-            "choice_data_list": [
-                "Asyik tuh.",
-                "Asyik tuh."
-            ]
-        },
-        {
-            "text": "Akhirnya, kita balik dari tempat latihan dengan semangat tinggi――"
-        },
-        {
-            "name": "Umamusume A",
-            "text": "Loh... nggak ada pemantik api!?!? Korek juga!?"
-        },
-        {
-            "name": "Umamusume B",
-            "text": "Dagingnya... nggak bisa mateng dong? Nggak bisa masak...? Dagingnya...?"
-        },
-        {
-            "name": "Umamusume C",
-            "text": "Nggak mauuu～!! Masa cuma makan sayur mentah doangー!"
-        },
-        {
-            "name": "Verxina",
-            "text": "Tenang! Semuanya!"
-        },
-        {
-            "name": "Verxina",
-            "text": "...Nggak apa-apa. Biar aku yang urus."
-        },
-        {
-            "name": "Verxina",
-            "text": "...Nggak ada kayu bakar atau korek ya. Terus, gimana nih...?"
-        },
-        {
-            "name": "Verxina",
-            "text": "Pertama-tama, kita harus cari cara bikin api dulu kan?",
-            "choice_data_list": [
-                "...Serahin aja ke aku!",
-                "...Serahin aja ke aku!"
-            ]
-        },
-        {
-            "name": "Verxina",
-            "text": "Eh... Trainer-san, ada ide?",
-            "choice_data_list": [
-                "Bisa diandelin kok!",
-                "Bisa diandelin kok!"
-            ]
-        },
-        {
-            "name": "Verxina",
-            "text": "............"
-        },
-        {
-            "name": "Verxina",
-            "text": "――Oke. Kalau gitu, aku kumpulin kayu bakar dulu ya."
-        },
-        {
-            "text": "...Tadi sih ngomong gitu, tapi aku nggak gitu tahu cara pastinya."
-        },
-        {
-            "text": "Tapi kalau bikin api, ada cara standarnya kan. Pertama butuh tongkat kayu dulu.",
-            "choice_data_list": [
-                "Oke... Kayaknya aku paham!"
-            ]
-        },
-        {
-            "text": "――Terus 15 menit kemudian...\nAku udah capek tapi apinya belum nyala juga."
-        },
-        {
-            "name": "Verxina",
-            "text": "Trainer-san. Semuanya udah bantu kumpulin banyak kayu bakar nih."
-        },
-        {
-            "name": "Verxina",
-            "text": "Apinya... kayaknya masih diproses ya. Mau dibantuin?",
-            "choice_data_list": [
-                "Makasih! Tapi bentar lagi kok!"
-            ]
-        },
-        {
-            "name": "Verxina",
-            "text": "............"
-        },
-        {
-            "name": "Verxina Kecil",
-            "text": "Nggak boleh, kalian masih terlalu kecil buat main korek. Serahin ke Kakak aja."
-        },
-        {
-            "name": "Ibu Mereka",
-            "text": "Ara ara～. Kamu bisa nggak? Biar Mama aja yang nyalain, ya～?"
-        },
-        {
-            "name": "Verxina Kecil",
-            "text": "B-bisa kok! Sebelumnya juga bisa――"
-        },
-        {
-            "name": "Ibu Mereka",
-            "text": "...Fufu. Ya udah, Mama serahin ke kamu ya. Kan \"Kakak\"."
-        },
-        {
-            "name": "Verxina Kecil",
-            "text": "B-bersiap... taaa!"
-        },
-        {
-            "name": "Verxina",
-            "text": "...Fufu. Semangat ya, Trainer-san.",
-            "choice_data_list": [
-                "...Iya!",
-                "...Iya!"
-            ]
-        },
-        {
-            "text": "Terus――pas matahari mulai terbenam――"
-        },
-        {
-            "name": "Verxina",
-            "text": "............Nyala!"
-        },
-        {
-            "name": "Umamusume A",
-            "text": "Aduh～ sempat panik tadi. Dagingnya enak～."
-        },
-        {
-            "name": "Umamusume C",
-            "text": "Iya nih... untung ada Verxina-senpai, kita nggak jadi makan sayur mentah～."
-        },
-        {
-            "name": "Verxina",
-            "text": "Nggak kok. Aku gak ngapa-ngapain. Kan yang nyalain api Trainer-san."
-        },
-        {
-            "name": "Umamusume B",
-            "text": "Mmm... bener juga! Trainer-san! Mulai sekarang kamu itu Pahlawan Daging!",
-            "choice_data_list": [
-                "Hahaha..."
-            ]
-        },
-        {
-            "name": "Verxina",
-            "text": "Beneran, makasih kerja kerasnya hari ini. Trainer-san.",
-            "choice_data_list": [
-                "...Aku bisa diandelin nggak hari ini?",
-                "...Aku bisa diandelin nggak hari ini?"
-            ]
-        },
-        {
-            "name": "Verxina",
-            "text": "Trainer-san ya? ............"
-        },
-        {
-            "name": "Verxina",
-            "text": "Fufu.",
-            "choice_data_list": [
-                "...Kayaknya nggak ya."
-            ]
-        },
-        {
-            "name": "Verxina",
-            "text": "Bukan gitu. Kamu nanya hal yang udah jelas banget."
-        },
-        {
-            "name": "Verxina",
-            "text": "Kamu selalu bisa diandelin. Sejak jadi trainerku, aku bangga banget sama Trainer-san."
-        },
-        {
-            "name": "Verxina",
-            "text": "Jujur banget. Selalu kerja keras――",
-            "choice_data_list": [
-                "...Tapi itu lebih cocok buat kamu deh.",
-                "...Tapi itu lebih cocok buat kamu deh."
-            ]
-        },
-        {
-            "name": "Verxina",
-            "text": "Berarti kita sama dong."
-        },
-        {
-            "name": "Verxina",
-            "text": "……Semenjak ketemu Trainer-san―― Kayaknya aku mulai paham \npandangan adik-adikku pada aku.",
-            "choice_data_list": [
-                "<size=36>Kira-kira kamu bisa mulai ngandelin aku nggak?</size>",
-                "<size=36>Kira-kira kamu bisa mulai ngandelin aku nggak?</size>"
-            ]
-        },
-        {
-            "name": "Verxina",
-            "text": "Iya. Kalau gitu, aku terima tawarannya deh――"
-        },
-        {
-            "name": "Verxina",
-            "text": "――Bisa tolong panggangin daging enak lagi nggak?"
-        }
-    ]
+  "no_wrap": false,
+  "text_block_list": [
+    {
+      "text": "Udah masuk musim panas nih. Kita semua ngumpul buat latihan spesial."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Aduh, berat juga ya... Panas banget, kaki juga kepeleset mulu...!"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Susah ya jaga postur tubuh～…… ...Hmm?"
+    },
+    {
+      "name": "Verxina",
+      "text": "Fuuu...!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Ooooh～...! Emang beda ya Verxina-san... Persis kayak di akademi, posturnya cakep banget...!"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Di atas pasir aja udah kayak lukisan... Oke, ayo semangat dikit lagi!"
+    },
+    {
+      "name": "Verxina",
+      "text": "...Fuu. Maaf ya, Trainer-san. Ngerepotin ambil ini segala."
+    },
+    {
+      "name": "Verxina",
+      "text": "Latihan di pantai selesai deh. ...Tapi rasanya porsi latihannya agak lebih ringan dari biasanya ya――"
+    },
+    {
+      "name": "Verxina",
+      "text": "...Lari di pantai emang efektif. Tapi karena pijakannya susah, bahaya kalau kelamaan... bener gitu kan?",
+      "choice_data_list": [
+        "Bener banget!"
+      ]
+    },
+    {
+      "text": "――Tentu aja. Kali ini, aku mikirin banget menu latihannya."
+    },
+    {
+      "text": "Sebagai Trainer sih wajar ya, tapi... Sebenarnya, aku pengen nebus yang waktu itu..."
+    },
+    {
+      "name": "Verxina",
+      "text": "Habis ini renang kan...? Aku istirahat berapa lama lagi?",
+      "choice_data_list": [
+        "Sekitar 3 menit!"
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "Ngerti. Kalau gitu... Waktunya pemanasan ringan kali ya?"
+    },
+    {
+      "text": "Sip. Hari ini aku bakal kerja sempurna. Aku pantau terus waktunya, siapin handuk sama minum tepat waktu."
+    },
+    {
+      "text": "Biar aku bisa jadi trainer yang bisa diandelin Verxina."
+    },
+    {
+      "name": "Verxina",
+      "text": "Kerja bagus, Trainer-san. Makasih lagi ya bimbingannya.",
+      "choice_data_list": [
+        "Ah, iya... kerja bagus...",
+        "Ah, iya... kerja bagus..."
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "...Kamu kelihatan capek banget. Nggak apa-apa?",
+      "choice_data_list": [
+        "Kayaknya aku terlalu semangat deh.",
+        "Kayaknya aku terlalu semangat deh."
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "Sama dong. Lingkungan yang keras bikin aku makin termotivasi."
+    },
+    {
+      "name": "Verxina",
+      "text": "Oh iya. Nanti malam kan mau barbekyuan."
+    },
+    {
+      "name": "Verxina",
+      "text": "Mulai lapar nih... Nanti porsinya agak banyak ah.",
+      "choice_data_list": [
+        "Asyik tuh.",
+        "Asyik tuh."
+      ]
+    },
+    {
+      "text": "Akhirnya, kita balik dari tempat latihan dengan semangat tinggi――"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Loh... nggak ada pemantik api!?!? Korek juga!?"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Dagingnya... nggak bisa mateng dong? Nggak bisa masak...? Dagingnya...?"
+    },
+    {
+      "name": "Umamusume C",
+      "text": "Nggak mauuu～!! Masa cuma makan sayur mentah doangー!"
+    },
+    {
+      "name": "Verxina",
+      "text": "Tenang! Semuanya!"
+    },
+    {
+      "name": "Verxina",
+      "text": "...Nggak apa-apa. Biar aku yang urus."
+    },
+    {
+      "name": "Verxina",
+      "text": "...Nggak ada kayu bakar atau korek ya. Terus, gimana nih...?"
+    },
+    {
+      "name": "Verxina",
+      "text": "Pertama-tama, kita harus cari cara bikin api dulu kan?",
+      "choice_data_list": [
+        "...Serahin aja ke aku!",
+        "...Serahin aja ke aku!"
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "Eh... Trainer-san, ada ide?",
+      "choice_data_list": [
+        "Bisa diandelin kok!",
+        "Bisa diandelin kok!"
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "............"
+    },
+    {
+      "name": "Verxina",
+      "text": "――Oke. Kalau gitu, aku kumpulin kayu bakar dulu ya."
+    },
+    {
+      "text": "...Tadi sih ngomong gitu, tapi aku nggak gitu tahu cara pastinya."
+    },
+    {
+      "text": "Tapi kalau bikin api, ada cara standarnya kan. Pertama butuh tongkat kayu dulu.",
+      "choice_data_list": [
+        "Oke... Kayaknya aku paham!"
+      ]
+    },
+    {
+      "text": "――Terus 15 menit kemudian...\nAku udah capek tapi apinya belum nyala juga."
+    },
+    {
+      "name": "Verxina",
+      "text": "Trainer-san. Semuanya udah bantu kumpulin banyak kayu bakar nih."
+    },
+    {
+      "name": "Verxina",
+      "text": "Apinya... kayaknya masih diproses ya. Mau dibantuin?",
+      "choice_data_list": [
+        "Makasih! Tapi bentar lagi kok!"
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "............"
+    },
+    {
+      "name": "Verxina Kecil",
+      "text": "Nggak boleh, kalian masih terlalu kecil buat main korek. Serahin ke Kakak aja."
+    },
+    {
+      "name": "Ibu Mereka",
+      "text": "Ara ara～. Kamu bisa nggak? Biar Mama aja yang nyalain, ya～?"
+    },
+    {
+      "name": "Verxina Kecil",
+      "text": "B-bisa kok! Sebelumnya juga bisa――"
+    },
+    {
+      "name": "Ibu Mereka",
+      "text": "...Fufu. Ya udah, Mama serahin ke kamu ya. Kan \"Kakak\"."
+    },
+    {
+      "name": "Verxina Kecil",
+      "text": "B-bersiap... taaa!"
+    },
+    {
+      "name": "Verxina",
+      "text": "...Fufu. Semangat ya, Trainer-san.",
+      "choice_data_list": [
+        "...Iya!",
+        "...Iya!"
+      ]
+    },
+    {
+      "text": "Terus――pas matahari mulai terbenam――"
+    },
+    {
+      "name": "Verxina",
+      "text": "............Nyala!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Aduh～ sempat panik tadi. Dagingnya enak～."
+    },
+    {
+      "name": "Umamusume C",
+      "text": "Iya nih... untung ada Verxina-senpai, kita nggak jadi makan sayur mentah～."
+    },
+    {
+      "name": "Verxina",
+      "text": "Nggak kok. Aku gak ngapa-ngapain. Kan yang nyalain api Trainer-san."
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Mmm... bener juga! Trainer-san! Mulai sekarang kamu itu Pahlawan Daging!",
+      "choice_data_list": [
+        "Hahaha..."
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "Beneran, makasih kerja kerasnya hari ini. Trainer-san.",
+      "choice_data_list": [
+        "...Aku bisa diandelin nggak hari ini?",
+        "...Aku bisa diandelin nggak hari ini?"
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "Trainer-san ya? ............"
+    },
+    {
+      "name": "Verxina",
+      "text": "Fufu.",
+      "choice_data_list": [
+        "...Kayaknya nggak ya."
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "Bukan gitu. Kamu nanya hal yang udah jelas banget."
+    },
+    {
+      "name": "Verxina",
+      "text": "Kamu selalu bisa diandelin. Sejak jadi trainerku, aku bangga banget sama Trainer-san."
+    },
+    {
+      "name": "Verxina",
+      "text": "Jujur banget. Selalu kerja keras――",
+      "choice_data_list": [
+        "...Tapi itu lebih cocok buat kamu deh.",
+        "...Tapi itu lebih cocok buat kamu deh."
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "Berarti kita sama dong."
+    },
+    {
+      "name": "Verxina",
+      "text": "……Semenjak ketemu Trainer-san―― Kayaknya aku mulai paham \npandangan adik-adikku pada aku.",
+      "choice_data_list": [
+        "<size=36>Kira-kira kamu bisa mulai ngandelin aku nggak?</size>",
+        "<size=36>Kira-kira kamu bisa mulai ngandelin aku nggak?</size>"
+      ]
+    },
+    {
+      "name": "Verxina",
+      "text": "Iya. Kalau gitu, aku terima tawarannya deh――"
+    },
+    {
+      "name": "Verxina",
+      "text": "――Bisa tolong panggangin daging enak lagi nggak?"
+    }
+  ]
 }

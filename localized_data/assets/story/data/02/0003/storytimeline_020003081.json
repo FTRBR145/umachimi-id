@@ -87,11 +87,11 @@
     },
     {
       "text": "Dia bilang, “Sampaikan salam buat Tickezou.”\nDia tahu tentang kita, dan kalau kamu bakal bikin aku jadi Umamusume Derby.",
-            "name": "<username>"
+      "name": "<username>"
     },
     {
       "text": "Dia bilang, “Sampaikan salam buat Tickezou.”\nDia tahu tentang kita, dan kalau kamu bakal bikin aku jadi Umamusume Derby.",
-            "name": "<username>"
+      "name": "<username>"
     },
     {
       "name": "Winning Ticket",
@@ -115,9 +115,9 @@
     {
       "name": "Winning Ticket",
       "text": "Iya! Kayaknya nyampur sama bahan pameran.",
-            "choice_data_list": [
-                "Catatan Derby?"
-            ]
+      "choice_data_list": [
+        "Catatan Derby?"
+      ]
     },
     {
       "text": "Pas dia nunjukin bukunya, aku lihat cerita tentang Derby\nditulis rapi pake huruf Hiragana anak-anak."
@@ -199,11 +199,11 @@
     },
     {
       "text": "Kamu emang bener-bener cinta Derby ya, Tickezou.",
-            "name": "<username>"
+      "name": "<username>"
     },
     {
       "text": "Kamu emang bener-bener cinta Derby ya, Tickezou.",
-            "name": "<username>"
+      "name": "<username>"
     },
     {
       "name": "Winning Ticket",

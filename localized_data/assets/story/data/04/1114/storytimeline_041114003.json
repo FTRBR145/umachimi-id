@@ -1,238 +1,238 @@
 {
-    "no_wrap": false,
-    "text_block_list": [
-        {
-            "name": "Buena Vista",
-            "text": "Selalu, Se～lalu. ……Sejak aku masih sangat kecil, dialah orang yang selalu berada di sisiku."
-        },
-        {
-            "name": "Buena Kecil",
-            "text": "Uh, uhhh～～……hujan, gak mau…… hiks……！",
-            "choice_data_list": [
-                "Buena, ketemu! Ayo kita pulang bareng."
-            ]
-        },
-        {
-            "name": "Buena Kecil",
-            "text": "Ah, Abang! Wah…… kamu basah kuyup!? Kamu nggak apa-apa? \nKamu…… udah nyari aku ke mana-mana, ya?"
-        },
-        {
-            "name": "Buena Kecil",
-            "text": "Ah, Kakak! Wah…… kamu basah kuyup!? Kamu nggak apa-apa? \nKamu…… udah nyari aku ke mana-mana, ya?"
-        },
-        {
-            "name": "Buena Vista",
-            "text": "Dia memegang payung yang harusnya untuknya, padahal dia juga basah kuyup. Meski begitu, dia selalu datang menghampiriku ketika cengeng dan manja."
-        },
-        {
-            "name": "Ibu Buena",
-            "text": "...Begini, bulan depan ada lomba buat anak-anak sampai usia awal SD. \nKamu gimana? ……Mau coba ikut?"
-        },
-        {
-            "name": "Buena Kecil",
-            "text": "Ya! Aku, ingin mencobanya…… aku ingin berlari!\nDan lalu――……Hey, Ibu."
-        },
-        {
-            "name": "Buena Kecil",
-            "text": "Kira-kira kalau aku minta Abang ikut, apa dia bakal datang?\nApakah…… dia akan melihat aku berlari lagi?"
-        },
-        {
-            "name": "Buena Kecil",
-            "text": "Kira-kira kalau aku minta Kakak ikut, apa dia bakal datang?\nApakah…… dia akan melihat aku berlari lagi?"
-        },
-        {
-            "name": "Buena Kecil",
-            "text": "(Kalau dia melihatku lagi…… Akankah matanya kembali berbinar penuh kagum seperti waktu itu?)"
-        },
-        {
-            "name": "Buena Vista",
-            "text": "Dengan tatapan mata nya yang berkilau itu lurus menatapku. Dialah orang yang selalu memberiku kekuatan di kedua kakiku, seolah aku bisa menjadi tak terkalahkan."
-        },
-        {
-            "name": "Buena Vista",
-            "text": "……Hey. Suatu hari nanti, kita juga pasti—!"
-        },
-        {
-            "name": "",
-            "text": "『Ya, kita juga bisa……！！』"
-        },
-        {
-            "name": "",
-            "text": "『Ya, kita juga bisa……！！』"
-        },
-        {
-            "name": "Buena Vista",
-            "text": "\"Suatu hari nanti, kita pasti akan sampai di pemandangan yang \nseindah ini.\""
-        },
-        {
-            "name": "Buena Vista",
-            "text": "……Ya, dia adalah orang yang pernah membuat janji yang sangat, sangat penting denganku."
-        },
-        {
-            "name": "Buena Vista",
-            "text": "Huft, Hah……! \nPemanasannya cukup sampai di sini aja, ya?"
-        },
-        {
-            "name": "Buena Vista",
-            "text": "Jadi untuk hari ini, kita akan latihannya di lintasan woodchip... benar, kan?",
-            "choice_data_list": [
-                "Ya, kita mulai dari 1000 meter dulu.",
-                "Ya, kita mulai dari 1000 meter dulu."
-            ]
-        },
-        {
-            "name": "Buena Vista",
-            "text": "Kita tadi sempat bahas mau mulai dari yang ringan, kan? \nKalau begitu… gimana kalau pace-nya sekitar 18 detik per 1 furlong?",
-            "choice_data_list": [
-                "Gak, mulai 20 detik per 1 furlong aja.",
-                "Gak, mulai 20 detik per 1 furlong aja."
-            ]
-        },
-        {
-            "name": "Buena Vista",
-            "text": "Eh, itu cukup pelan, ya…!\nPadahal lintasannya pakai woodchip yang ramah buat kaki, terus――"
-        },
-        {
-            "name": "Buena Vista",
-            "text": "....Jangan-jangan kamu khawatir padaku? Aku tidak apa-apa kok. Lagipula, tubuhku sudah jauh berkembang dari sebelumnya.",
-            "choice_data_list": [
-                "Benar sih. Tapi tetap saja...",
-                "Benar sih. Tapi tetap saja..."
-            ]
-        },
-        {
-            "name": "Buena Vista",
-            "text": "Begitu……ya. Jalur luar yang biasa kupakai berlari, yang sempat aku ceritakan waktu itu, ternyata banyak bagian tanahnya yang keras, ya?"
-        },
-        {
-            "name": "Buena Vista",
-            "text": "Aku juga sempat lari kemarin……jadi beban di tulang pasti sudah menumpuk. Makanya fokus di lintasan woodchip yang lebih empuk ya.",
-            "choice_data_list": [
-                "<size=39>Tenang saja, bebannya kita tingkatkan terus.</size>"
-            ]
-        },
-        {
-            "name": "Buena Vista",
-            "text": ".......Ya.\nSiap laksanakan, Trainer-san！"
-        },
-        {
-            "name": "Buena Vista",
-            "text": "Hah… hah… hah… huff!\nPace 16 detik, selesai……! Fuuhhー……"
-        },
-        {
-            "name": "Buena Vista",
-            "text": "(Untuk sesaat… aku sempat berpikir ingin dia tetap menjadi \"Abang\" yang sangat baik dan lembut)"
-        },
-        {
-            "name": "Buena Vista",
-            "text": "(Untuk sesaat… aku sempat berpikir ingin dia tetap menjadi \"Kakak\" yang sangat baik dan lembut)"
-        },
-        {
-            "name": "Buena Vista",
-            "text": "(Sudah bukan lagi. Soalnya, dia sudah menjadi seorang Trainer.)"
-        },
-        {
-            "name": "Buena Vista",
-            "text": "(....Tapi sekarang, kamu benar-benar sudah menjadi Trainerku.)",
-            "choice_data_list": [
-                "<size=38>Oke, istirahat selesai! Terakhir, pace 15 detik!</size>"
-            ]
-        },
-        {
-            "name": "Buena Vista",
-            "text": "Siap!! Aku akan berlari!!"
-        },
-        {
-            "name": "Buena Vista",
-            "text": "—Terima kasih sudah berbagi rencana sampai hari kompetisinya.\nMulai besok aku juga akan berusaha keras ya, Trainer-san!"
-        },
-        {
-            "name": "Buena Vista",
-            "text": "Jadi, kalau begitu……agenda rapatnya sudah selesai semua, kan?\nKalau mau, gimana kalau kita istirahat bareng? Aku bikinin tehnya ya.",
-            "choice_data_list": [
-                "<size=41>Sebentar……sebelum itu, ada satu hal lagi.</size>"
-            ]
-        },
-        {
-            "name": "Buena Vista",
-            "text": "Hmm?",
-            "choice_data_list": [
-                "<size=36>Soal \"pemandangan indah\" yang kamu tuju itu―</size>",
-                "<size=36>Soal \"pemandangan indah\" yang kamu tuju itu―</size>"
-            ]
-        },
-        {
-            "name": "Buena Vista",
-            "text": "『Pemandangan seperti apa yang ingin kutuju』, ya……"
-        },
-        {
-            "name": "Buena Vista",
-            "text": "Memang, yang aku kagumi adalah \"Japan Cup\"-nya Spe-san. Tapi, aku kan bukan Spe-san. Aku nggak akan bisa menciptakan pemandangan yang \npersis sama dengannya."
-        },
-        {
-            "name": "Buena Vista",
-            "text": "Tentu, aku punya pemandangan indah yang ingin kucapai！\nWalau masih keliatan abu-abu sih.",
-            "choice_data_list": [
-                "Benar, bakal seperti apa, ya?"
-            ]
-        },
-        {
-            "name": "Buena Vista",
-            "text": "Mungkin,『pemandangan indah yang bisa sampai ke semua orang』"
-        },
-        {
-            "name": "Buena Vista",
-            "text": "Dengan membawa sebanyak mungkin harapan dan mimpi orang-orang di benakku. Mencapainya bersama banyak orang――"
-        },
-        {
-            "name": "Buena Vista",
-            "text": "Pemandangan kemenangan yang kuat, memukau, dan penuh kemilau. \nItulah mimpi yang ku tuju."
-        },
-        {
-            "name": "Buena Vista",
-            "text": "Karena itu, aku ingin berlari dengan cara yang bisa menggetarkan hati.\nLarian yang membuat orang terpikat dalam sekali lihat dan ingin selalu mendukungku."
-        },
-        {
-            "name": "Buena Vista",
-            "text": "Karena itu… aku ingin menjadi Umamusume yang bisa menyalakan harapan yang kuat di hati semua orang. Aku ingin seperti itu."
-        },
-        {
-            "name": "Buena Vista",
-            "text": "……Fufu. Untuk mimpi yang diucapkan oleh gadis yang belum debut, rasanya agak berani ya? Wajahmu kelihatan bilang begitu, lho.",
-            "choice_data_list": [
-                "Eh!? N-nggak, mana ada――"
-            ]
-        },
-        {
-            "name": "Buena Vista",
-            "text": "Tapi, aku percaya."
-        },
-        {
-            "name": "Buena Vista",
-            "text": "Aku yakin… suatu hari nanti, aku pasti akan mencapai pemandangan impian itu. Aku percaya."
-        },
-        {
-            "name": "Buena Vista",
-            "text": "Aku tidak pernah meragukan perasaan ini. Tidak sekali pun.",
-            "choice_data_list": [
-                "Tidak sekali pun, ya…………"
-            ]
-        },
-        {
-            "name": "Buena Vista",
-            "text": "(Ah,……lagi-lagi.)"
-        },
-        {
-            "name": "Buena Vista",
-            "text": "(Wajahnya, kelihatan tegang.)"
-        },
-        {
-            "name": "Buena Vista",
-            "text": "――Baiklah! Rapatnya beneran kita akhiri sampai di sini saja, ya?"
-        },
-        {
-            "name": "Buena Vista",
-            "text": "Kalau begitu, ayo kita istirahat dulu.\n……Aku buatkan teh hangat, ya."
-        }
-    ]
+  "no_wrap": false,
+  "text_block_list": [
+    {
+      "name": "Buena Vista",
+      "text": "Selalu, Se～lalu. ……Sejak aku masih sangat kecil, dialah orang yang selalu berada di sisiku."
+    },
+    {
+      "name": "Buena Kecil",
+      "text": "Uh, uhhh～～……hujan, gak mau…… hiks……！",
+      "choice_data_list": [
+        "Buena, ketemu! Ayo kita pulang bareng."
+      ]
+    },
+    {
+      "name": "Buena Kecil",
+      "text": "Ah, Abang! Wah…… kamu basah kuyup!? Kamu nggak apa-apa? \nKamu…… udah nyari aku ke mana-mana, ya?"
+    },
+    {
+      "name": "Buena Kecil",
+      "text": "Ah, Kakak! Wah…… kamu basah kuyup!? Kamu nggak apa-apa? \nKamu…… udah nyari aku ke mana-mana, ya?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Dia memegang payung yang harusnya untuknya, padahal dia juga basah kuyup. Meski begitu, dia selalu datang menghampiriku ketika cengeng dan manja."
+    },
+    {
+      "name": "Ibu Buena",
+      "text": "...Begini, bulan depan ada lomba buat anak-anak sampai usia awal SD. \nKamu gimana? ……Mau coba ikut?"
+    },
+    {
+      "name": "Buena Kecil",
+      "text": "Ya! Aku, ingin mencobanya…… aku ingin berlari!\nDan lalu――……Hey, Ibu."
+    },
+    {
+      "name": "Buena Kecil",
+      "text": "Kira-kira kalau aku minta Abang ikut, apa dia bakal datang?\nApakah…… dia akan melihat aku berlari lagi?"
+    },
+    {
+      "name": "Buena Kecil",
+      "text": "Kira-kira kalau aku minta Kakak ikut, apa dia bakal datang?\nApakah…… dia akan melihat aku berlari lagi?"
+    },
+    {
+      "name": "Buena Kecil",
+      "text": "(Kalau dia melihatku lagi…… Akankah matanya kembali berbinar penuh kagum seperti waktu itu?)"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Dengan tatapan mata nya yang berkilau itu lurus menatapku. Dialah orang yang selalu memberiku kekuatan di kedua kakiku, seolah aku bisa menjadi tak terkalahkan."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "……Hey. Suatu hari nanti, kita juga pasti—!"
+    },
+    {
+      "name": "",
+      "text": "『Ya, kita juga bisa……！！』"
+    },
+    {
+      "name": "",
+      "text": "『Ya, kita juga bisa……！！』"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "\"Suatu hari nanti, kita pasti akan sampai di pemandangan yang \nseindah ini.\""
+    },
+    {
+      "name": "Buena Vista",
+      "text": "……Ya, dia adalah orang yang pernah membuat janji yang sangat, sangat penting denganku."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Huft, Hah……! \nPemanasannya cukup sampai di sini aja, ya?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Jadi untuk hari ini, kita akan latihannya di lintasan woodchip... benar, kan?",
+      "choice_data_list": [
+        "Ya, kita mulai dari 1000 meter dulu.",
+        "Ya, kita mulai dari 1000 meter dulu."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Kita tadi sempat bahas mau mulai dari yang ringan, kan? \nKalau begitu… gimana kalau pace-nya sekitar 18 detik per 1 furlong?",
+      "choice_data_list": [
+        "Gak, mulai 20 detik per 1 furlong aja.",
+        "Gak, mulai 20 detik per 1 furlong aja."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Eh, itu cukup pelan, ya…!\nPadahal lintasannya pakai woodchip yang ramah buat kaki, terus――"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "....Jangan-jangan kamu khawatir padaku? Aku tidak apa-apa kok. Lagipula, tubuhku sudah jauh berkembang dari sebelumnya.",
+      "choice_data_list": [
+        "Benar sih. Tapi tetap saja...",
+        "Benar sih. Tapi tetap saja..."
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Begitu……ya. Jalur luar yang biasa kupakai berlari, yang sempat aku ceritakan waktu itu, ternyata banyak bagian tanahnya yang keras, ya?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Aku juga sempat lari kemarin……jadi beban di tulang pasti sudah menumpuk. Makanya fokus di lintasan woodchip yang lebih empuk ya.",
+      "choice_data_list": [
+        "<size=39>Tenang saja, bebannya kita tingkatkan terus.</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": ".......Ya.\nSiap laksanakan, Trainer-san！"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Hah… hah… hah… huff!\nPace 16 detik, selesai……! Fuuhhー……"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(Untuk sesaat… aku sempat berpikir ingin dia tetap menjadi \"Abang\" yang sangat baik dan lembut)"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(Untuk sesaat… aku sempat berpikir ingin dia tetap menjadi \"Kakak\" yang sangat baik dan lembut)"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(Sudah bukan lagi. Soalnya, dia sudah menjadi seorang Trainer.)"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(....Tapi sekarang, kamu benar-benar sudah menjadi Trainerku.)",
+      "choice_data_list": [
+        "<size=38>Oke, istirahat selesai! Terakhir, pace 15 detik!</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Siap!! Aku akan berlari!!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "—Terima kasih sudah berbagi rencana sampai hari kompetisinya.\nMulai besok aku juga akan berusaha keras ya, Trainer-san!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Jadi, kalau begitu……agenda rapatnya sudah selesai semua, kan?\nKalau mau, gimana kalau kita istirahat bareng? Aku bikinin tehnya ya.",
+      "choice_data_list": [
+        "<size=41>Sebentar……sebelum itu, ada satu hal lagi.</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Hmm?",
+      "choice_data_list": [
+        "<size=36>Soal \"pemandangan indah\" yang kamu tuju itu―</size>",
+        "<size=36>Soal \"pemandangan indah\" yang kamu tuju itu―</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "『Pemandangan seperti apa yang ingin kutuju』, ya……"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Memang, yang aku kagumi adalah \"Japan Cup\"-nya Spe-san. Tapi, aku kan bukan Spe-san. Aku nggak akan bisa menciptakan pemandangan yang \npersis sama dengannya."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Tentu, aku punya pemandangan indah yang ingin kucapai！\nWalau masih keliatan abu-abu sih.",
+      "choice_data_list": [
+        "Benar, bakal seperti apa, ya?"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Mungkin,『pemandangan indah yang bisa sampai ke semua orang』"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Dengan membawa sebanyak mungkin harapan dan mimpi orang-orang di benakku. Mencapainya bersama banyak orang――"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Pemandangan kemenangan yang kuat, memukau, dan penuh kemilau. \nItulah mimpi yang ku tuju."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Karena itu, aku ingin berlari dengan cara yang bisa menggetarkan hati.\nLarian yang membuat orang terpikat dalam sekali lihat dan ingin selalu mendukungku."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Karena itu… aku ingin menjadi Umamusume yang bisa menyalakan harapan yang kuat di hati semua orang. Aku ingin seperti itu."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "……Fufu. Untuk mimpi yang diucapkan oleh gadis yang belum debut, rasanya agak berani ya? Wajahmu kelihatan bilang begitu, lho.",
+      "choice_data_list": [
+        "Eh!? N-nggak, mana ada――"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Tapi, aku percaya."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Aku yakin… suatu hari nanti, aku pasti akan mencapai pemandangan impian itu. Aku percaya."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Aku tidak pernah meragukan perasaan ini. Tidak sekali pun.",
+      "choice_data_list": [
+        "Tidak sekali pun, ya…………"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(Ah,……lagi-lagi.)"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(Wajahnya, kelihatan tegang.)"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "――Baiklah! Rapatnya beneran kita akhiri sampai di sini saja, ya?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Kalau begitu, ayo kita istirahat dulu.\n……Aku buatkan teh hangat, ya."
+    }
+  ]
 }

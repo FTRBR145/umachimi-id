@@ -1,80 +1,80 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Komentator",
-            "text": "“Arima Kinen” menutup seri Twinkle tahun ini, \ndan bintang utamanya adalah “Umamusume Triple Crown” Narita Brian!"
-        },
-        {
-            "name": "Komentator",
-            "text": "Pertarungan dengan Biwa Hayahide memang \nsayang sekali nggak bisa terjadi, tapi kakaknya akan \nmenantang panggung besar ini sambil bawa perasaan itu di pundaknya!"
-        },
-        {
-            "name": "Komentator",
-            "text": "Tapi, buat Narita Brian ini pertama kalinya \nmelawan kelas senior di balapan campuran!"
-        },
-        {
-            "name": "Komentator",
-            "text": "Lawan para veteran kelas satu, \napakah Umamusume pemegang mahkota ketiga ini \nbisa rebut kemenangan kelimanya di G1 bergengsi ini!?"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "……"
-        },
-        {
-            "text": "Bahkan di panggung besar kayak gini, \nkamu tetap bisa fokus dengan kuat ya."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Aku nggak tahu fokus ini bisa bertahan berapa lama. \nYang jelas aku pengen cepat lari dengan seluruh tenagaku."
-        },
-        {
-            "text": "Karena Biwa Hayahide nggak ada di balapan hari ini, \nmungkin banyak lawan yang tujuannya cuma buat ngejaga kamu."
-        },
-        {
-            "text": "Karena Biwa Hayahide nggak ada di balapan hari ini, \nmungkin banyak lawan yang tujuannya cuma buat ngejaga kamu."
-        },
-        {
-            "text": "Tapi, kamu tahu kan itu bukan masalah. \nTunjukkan lari yang jauh melampaui imajinasi semua orang hari ini!"
-        },
-        {
-            "text": "Tapi, kamu tahu kan itu bukan masalah. \nTunjukkan lari yang jauh melampaui imajinasi semua orang hari ini!"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Nggak usah dikasih tahu, aku pasti jalan."
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Hehe… akhirnya aku nyusul kamu, Narita Brian!"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…Iya."
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "“Arima Kinen” itu balapan besar tempat \norang-orang tangguh ngumpul. Tapi tetap saja, \naku akan berlari cuma melawanmu!"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Soalnya aku anggap kamu yang terkuat! Narita Brian, \npertarungan sama aku… jangan kabur."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…Bagus, aku akan jadi lawanmu. \nHadapi aku dengan seluruh kekuatanmu."
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Aku akan bikin kamu terhibur! Siap-siaplah!"
-        },
-        {
-            "name": "Komentator",
-            "text": "ーSekarang, masing-masing Umamusume udah di gerbang."
-        },
-        {
-            "name": "Komentator",
-            "text": "Apakah “Umamusume Triple Crown” Narita Brian \nbisa menang, atau ada Umamusume lain yang \nsiap bikin kejutan? “Arima Kinen”… dan sekarang, mulai!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Komentator",
+      "text": "“Arima Kinen” menutup seri Twinkle tahun ini, \ndan bintang utamanya adalah “Umamusume Triple Crown” Narita Brian!"
+    },
+    {
+      "name": "Komentator",
+      "text": "Pertarungan dengan Biwa Hayahide memang \nsayang sekali nggak bisa terjadi, tapi kakaknya akan \nmenantang panggung besar ini sambil bawa perasaan itu di pundaknya!"
+    },
+    {
+      "name": "Komentator",
+      "text": "Tapi, buat Narita Brian ini pertama kalinya \nmelawan kelas senior di balapan campuran!"
+    },
+    {
+      "name": "Komentator",
+      "text": "Lawan para veteran kelas satu, \napakah Umamusume pemegang mahkota ketiga ini \nbisa rebut kemenangan kelimanya di G1 bergengsi ini!?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "……"
+    },
+    {
+      "text": "Bahkan di panggung besar kayak gini, \nkamu tetap bisa fokus dengan kuat ya."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Aku nggak tahu fokus ini bisa bertahan berapa lama. \nYang jelas aku pengen cepat lari dengan seluruh tenagaku."
+    },
+    {
+      "text": "Karena Biwa Hayahide nggak ada di balapan hari ini, \nmungkin banyak lawan yang tujuannya cuma buat ngejaga kamu."
+    },
+    {
+      "text": "Karena Biwa Hayahide nggak ada di balapan hari ini, \nmungkin banyak lawan yang tujuannya cuma buat ngejaga kamu."
+    },
+    {
+      "text": "Tapi, kamu tahu kan itu bukan masalah. \nTunjukkan lari yang jauh melampaui imajinasi semua orang hari ini!"
+    },
+    {
+      "text": "Tapi, kamu tahu kan itu bukan masalah. \nTunjukkan lari yang jauh melampaui imajinasi semua orang hari ini!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Nggak usah dikasih tahu, aku pasti jalan."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Hehe… akhirnya aku nyusul kamu, Narita Brian!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…Iya."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "“Arima Kinen” itu balapan besar tempat \norang-orang tangguh ngumpul. Tapi tetap saja, \naku akan berlari cuma melawanmu!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Soalnya aku anggap kamu yang terkuat! Narita Brian, \npertarungan sama aku… jangan kabur."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…Bagus, aku akan jadi lawanmu. \nHadapi aku dengan seluruh kekuatanmu."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Aku akan bikin kamu terhibur! Siap-siaplah!"
+    },
+    {
+      "name": "Komentator",
+      "text": "ーSekarang, masing-masing Umamusume udah di gerbang."
+    },
+    {
+      "name": "Komentator",
+      "text": "Apakah “Umamusume Triple Crown” Narita Brian \nbisa menang, atau ada Umamusume lain yang \nsiap bikin kejutan? “Arima Kinen”… dan sekarang, mulai!"
+    }
+  ]
 }

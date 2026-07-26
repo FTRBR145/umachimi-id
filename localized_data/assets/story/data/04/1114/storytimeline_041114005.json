@@ -1,158 +1,158 @@
 {
-    "text_block_list": [
-        {
-            "name": "Buena Kecil",
-            "text": "Hmm……Ah! Ehehe!"
-        },
-        {
-            "name": "Buena Kecil",
-            "text": "Abang! Ketemu!",
-            "choice_data_list": [
-                "Aaah, ketahuan!"
-            ]
-        },
-        {
-            "name": "Buena Kecil",
-            "text": "Kakak! Ketemu!",
-            "choice_data_list": [
-                "Aaah, ketahuan!"
-            ]
-        },
-        {
-            "name": "Buena Kecil",
-            "text": "Ehehe……! Anu ya, kamu ngumpetnya pasti selalu di sini kan. \nBuu-chan hafal banget kok!"
-        },
-        {
-            "text": "――Tanpa sadar, aku mengingat semuanya. Hal yang dia suka, hal yang \ndia benci. Sampai kebiasaan kecilnya juga. Semuanya."
-        },
-        {
-            "text": "……Bagiku, itu sudah jadi \"hal yang wajar\"."
-        },
-        {
-            "text": "……Ah, beneran masih sibuk. Hehe, semangat ya kerjanya.",
-            "choice_data_list": [
-                "Buena juga, lari sampai selarut ini?",
-                "Buena juga, lari sampai selarut ini?"
-            ]
-        },
-        {
-            "text": "Ya. Terus ya, aku menemukannya di tengah-tengah latihan mandiri, tapi……"
-        },
-        {
-            "text": "Jreng! Coba tebak, ini apa?",
-            "choice_data_list": [
-                "<size=40>……Ah! Es krim yang dulu sering kita makan!</size>"
-            ]
-        },
-        {
-            "text": "Betul! Dulu kita suka banget ya, tapi udah gak pernah kelihatan lagi.\nKatanya sekarang diproduksi lagi lho. Yuk, kita makan bareng?",
-            "choice_data_list": [
-                "……Kamu ternyata masih ingat ya?"
-            ]
-        },
-        {
-            "text": "Hehe, soalnya kita dulu makan itu sering banget sih.\n……Terus, gimana? Persiapan seminar Trainer-nya. Berat ya?",
-            "choice_data_list": [
-                "Yaa, sejujurnya……aku agak gugup sih.",
-                "Yaa, sejujurnya……aku agak gugup sih."
-            ]
-        },
-        {
-            "text": "……Gitu ya. Hey, ada yang bisa kubantu nggak? \nBilang aja! Aku juga bakal bantu sebisaku."
-        },
-        {
-            "text": "Hmm, jadi di sini ya ruang seminar Trainer-nya……"
-        },
-        {
-            "text": "……Tadi bilangnya gugup, kira-kira dia aman nggak ya? \nKalau coba ngintip dikit aja, boleh nggak ya――"
-        },
-        {
-            "text": "Hmmー……ah, itu dia! \n――Eh, lagi ngobrol sama Trainer lain ya……?"
-        },
-        {
-            "name": "Rekan Trainer",
-            "text": "Lama gak ketemu ya! Sehat lu!? \nEh, udah berapa lama ya? Asli, udah lama banget kan?",
-            "choice_data_list": [
-                "<size=36>Perasaan tiap ketemu lu ngomongnya gitu mulu?</size>",
-                "<size=36>Perasaan tiap ketemu lu ngomongnya gitu mulu?</size>"
-            ]
-        },
-        {
-            "name": "Rekan Trainer",
-            "text": "Ahahaーー! Udah mulai bosen ya? \nEh, bentar. Jangan liatin gue pake tatapan kayak gitu dong!"
-        },
-        {
-            "text": "……Eh?"
-        },
-        {
-            "text": "Dia bisa berekspresi kayak gitu juga……?"
-        },
-        {
-            "text": "……Tumben banget……"
-        },
-        {
-            "text": "(……Seminarnya udah dimulai. Tapi, aku nggak nyangka kalau Trainer-san yang bakal presentasi duluan……！)"
-        },
-        {
-            "text": "(Semuanya pada merhatiin. Suasananya sepi banget……\nUh～, semangat ya……！)"
-        },
-        {
-            "name": "Trainer Menengah",
-            "text": "……Saya ada pertanyaan soal metode latihan itu. Mengesampingkan soal beban di kaki, kapan waktu yang tepat untuk beralihnya?"
-        },
-        {
-            "text": "(……Ah, pertanyaannya tajam banget……！)"
-        },
-        {
-            "text": "(Di situasi kayak gini, dia harus bisa jawab dengan benar……！)",
-            "choice_data_list": [
-                "<size=34>Baik, mengenai hal itu, izinkan saya menjelaskannya.</size>"
-            ]
-        },
-        {
-            "text": "……！ L-lho……？ Dia kelihatan tenang aja……？"
-        },
-        {
-            "name": "Trainer Pemula",
-            "text": "A-Anu, presentasi tadi benar-benar jadi pelajaran bagi saya……！ \nJadi, ada yang mau saya konsultasikan…… boleh nggak！？",
-            "choice_data_list": [
-                "Boleh kok, silakan kirim ke email ini ya."
-            ]
-        },
-        {
-            "name": "Rekan Trainer",
-            "text": "Oiiii, abis ini katanya ada acara minum-minum lho! \nLu pasti ikut kan?",
-            "choice_data_list": [
-                "Pasti dong!"
-            ]
-        },
-        {
-            "name": "Buena Vista",
-            "text": "Acara minum――……"
-        },
-        {
-            "text": "…………Gitu ya."
-        },
-        {
-            "text": "……Itu toh, sosok Trainer-san."
-        },
-        {
-            "text": "……Hehe, kalau dipikir-pikir wajar sih. \nKarena kita memang nggak selalu bareng, kan."
-        },
-        {
-            "text": "Ada banyak hal yang nggak aku tahu, dan ada banyak sisi dirinya yang belum pernah kulihat――"
-        },
-        {
-            "text": "…………Belum pernah, aku lihat……"
-        },
-        {
-            "text": "…………Abang."
-        },
-        {
-            "text": "…………Kakak."
-        },
-        {
-            "text": "Rasanya, kamu jadi semakin menjauh ya……?"
-        }
-    ]
+  "text_block_list": [
+    {
+      "name": "Buena Kecil",
+      "text": "Hmm……Ah! Ehehe!"
+    },
+    {
+      "name": "Buena Kecil",
+      "text": "Abang! Ketemu!",
+      "choice_data_list": [
+        "Aaah, ketahuan!"
+      ]
+    },
+    {
+      "name": "Buena Kecil",
+      "text": "Kakak! Ketemu!",
+      "choice_data_list": [
+        "Aaah, ketahuan!"
+      ]
+    },
+    {
+      "name": "Buena Kecil",
+      "text": "Ehehe……! Anu ya, kamu ngumpetnya pasti selalu di sini kan. \nBuu-chan hafal banget kok!"
+    },
+    {
+      "text": "――Tanpa sadar, aku mengingat semuanya. Hal yang dia suka, hal yang \ndia benci. Sampai kebiasaan kecilnya juga. Semuanya."
+    },
+    {
+      "text": "……Bagiku, itu sudah jadi \"hal yang wajar\"."
+    },
+    {
+      "text": "……Ah, beneran masih sibuk. Hehe, semangat ya kerjanya.",
+      "choice_data_list": [
+        "Buena juga, lari sampai selarut ini?",
+        "Buena juga, lari sampai selarut ini?"
+      ]
+    },
+    {
+      "text": "Ya. Terus ya, aku menemukannya di tengah-tengah latihan mandiri, tapi……"
+    },
+    {
+      "text": "Jreng! Coba tebak, ini apa?",
+      "choice_data_list": [
+        "<size=40>……Ah! Es krim yang dulu sering kita makan!</size>"
+      ]
+    },
+    {
+      "text": "Betul! Dulu kita suka banget ya, tapi udah gak pernah kelihatan lagi.\nKatanya sekarang diproduksi lagi lho. Yuk, kita makan bareng?",
+      "choice_data_list": [
+        "……Kamu ternyata masih ingat ya?"
+      ]
+    },
+    {
+      "text": "Hehe, soalnya kita dulu makan itu sering banget sih.\n……Terus, gimana? Persiapan seminar Trainer-nya. Berat ya?",
+      "choice_data_list": [
+        "Yaa, sejujurnya……aku agak gugup sih.",
+        "Yaa, sejujurnya……aku agak gugup sih."
+      ]
+    },
+    {
+      "text": "……Gitu ya. Hey, ada yang bisa kubantu nggak? \nBilang aja! Aku juga bakal bantu sebisaku."
+    },
+    {
+      "text": "Hmm, jadi di sini ya ruang seminar Trainer-nya……"
+    },
+    {
+      "text": "……Tadi bilangnya gugup, kira-kira dia aman nggak ya? \nKalau coba ngintip dikit aja, boleh nggak ya――"
+    },
+    {
+      "text": "Hmmー……ah, itu dia! \n――Eh, lagi ngobrol sama Trainer lain ya……?"
+    },
+    {
+      "name": "Rekan Trainer",
+      "text": "Lama gak ketemu ya! Sehat lu!? \nEh, udah berapa lama ya? Asli, udah lama banget kan?",
+      "choice_data_list": [
+        "<size=36>Perasaan tiap ketemu lu ngomongnya gitu mulu?</size>",
+        "<size=36>Perasaan tiap ketemu lu ngomongnya gitu mulu?</size>"
+      ]
+    },
+    {
+      "name": "Rekan Trainer",
+      "text": "Ahahaha! Apakah Anda mulai bosan? \nEh, bang. Jangan lihat aku seperti itu!"
+    },
+    {
+      "text": "……Eh?"
+    },
+    {
+      "text": "Dia bisa berekspresi kayak gitu juga……?"
+    },
+    {
+      "text": "……Tumben banget……"
+    },
+    {
+      "text": "(……Seminarnya udah dimulai. Tapi, aku nggak nyangka kalau Trainer-san yang bakal presentasi duluan……！)"
+    },
+    {
+      "text": "(Semuanya pada merhatiin. Suasananya sepi banget……\nUh～, semangat ya……！)"
+    },
+    {
+      "name": "Trainer Menengah",
+      "text": "……Saya ada pertanyaan soal metode latihan itu. Mengesampingkan soal beban di kaki, kapan waktu yang tepat untuk beralihnya?"
+    },
+    {
+      "text": "(……Ah, pertanyaannya tajam banget……！)"
+    },
+    {
+      "text": "(Di situasi kayak gini, dia harus bisa jawab dengan benar……！)",
+      "choice_data_list": [
+        "<size=34>Baik, mengenai hal itu, izinkan saya menjelaskannya.</size>"
+      ]
+    },
+    {
+      "text": "……！ L-lho……？ Dia kelihatan tenang aja……？"
+    },
+    {
+      "name": "Trainer Pemula",
+      "text": "A-Anu, presentasi tadi benar-benar jadi pelajaran bagi saya……！ \nJadi, ada yang mau saya konsultasikan…… boleh nggak！？",
+      "choice_data_list": [
+        "Boleh kok, silakan kirim ke email ini ya."
+      ]
+    },
+    {
+      "name": "Rekan Trainer",
+      "text": "Oiiii, abis ini katanya ada acara minum-minum lho! \nLu pasti ikut kan?",
+      "choice_data_list": [
+        "Pasti dong!"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Acara minum――……"
+    },
+    {
+      "text": "…………Gitu ya."
+    },
+    {
+      "text": "……Itu toh, sosok Trainer-san."
+    },
+    {
+      "text": "……Hehe, kalau dipikir-pikir wajar sih. \nKarena kita memang nggak selalu bareng, kan."
+    },
+    {
+      "text": "Ada banyak hal yang nggak aku tahu, dan ada banyak sisi dirinya yang belum pernah kulihat――"
+    },
+    {
+      "text": "…………Belum pernah, aku lihat……"
+    },
+    {
+      "text": "…………Abang."
+    },
+    {
+      "text": "…………Kakak."
+    },
+    {
+      "text": "Rasanya, kamu jadi semakin menjauh ya……?"
+    }
+  ]
 }

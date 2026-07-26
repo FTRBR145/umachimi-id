@@ -1,240 +1,240 @@
 {
-    "title": "Mulai hari ini, aku adalah!!",
-    "text_block_list": [
-        {
-            "name": "Cerita Sebelumnya",
-            "text": "Cerita sebelumnya！ Umamusume yang sangat menyukai manga, Kiseki, bertemu dengan seorang Trainer yang terpikat oleh gaya larinya."
-        },
-        {
-            "text": "Kemudian, dia mengajak trainer itu menyaksikan balapan\nsimulasi yang di ikutinya！",
-            "name": "Cerita Sebelumnya"
-        },
-        {
-            "text": "Kemudian, dia mengajak trainer itu menyaksikan balapan\nsimulasi yang di ikutinya！",
-            "name": "Cerita Sebelumnya"
-        },
-        {
-            "name": "Trainer Veteran",
-            "text": "Luar biasa peserta yang berkumpul di sini…… Ada Satono Crown yang meraih posisi ke-3 di Derby, bahkan ada Satono Diamond juga, si jenius berbakat yang dijadwalkan debut tahun ini."
-        },
-        {
-            "text": "Selain itu, bukan hanya putri dari keluarga Satono saja.\nVivlos pun, potensinya di jalur Tiara terlihat sangat kuat.",
-            "name": ""
-        },
-        {
-            "name": "Kiseki",
-            "text": "Fuuuー…… haaaー……！\nMereka benar-benar peserta yang punya kharisma ya！！\nFuuuー……！",
-            "choice_data_list": [
-                "K-Kamu gak apa-apa? Kiseki！?",
-                "K-Kamu gak apa-apa? Kiseki！?"
-            ]
-        },
-        {
-            "name": "Kiseki",
-            "text": "A-Aku baik-baik aja kok！ Dari semalam aja udah melek……！ \nM-meski ada rasa gugup, tapi aku juga merasa deg-degan！！"
-        },
-        {
-            "name": "Kiseki",
-            "text": "Situasi ini, mirip kayak 'Hiki' di dalam manga...\nJadi bikin berharap, kan. Kayak...\n\"Gimana cara Kiseki mengalahkan musuh kuat?\" gituu...",
-            "choice_data_list": [
-                "<size=38>...Ah, aku pengen liat kamu jadi tokoh utama!</size>",
-                "<size=38>...Ah, aku pengen liat kamu jadi tokoh utama!</size>"
-            ]
-        },
-        {
-            "name": "",
-            "text": "Kemudian Kiseki dipanggil oleh petugas start,\ndia menuju posisinya, sama seperti Umamusume lainnya."
-        },
-        {
-            "name": "",
-            "text": "Lalu suasana arena pun seketika hening――\ndan GERBANG TERBUKA！！"
-        },
-        {
-            "name": "",
-            "text": "Satono Diamond dan yang lainnya jadi pusat perhatian, saling mengawasi di posisi belakang dengan mengandalkan kecepatan akhir, tampaknya mereka sedang saling menahan diri",
-            "choice_data_list": [
-                "(Dan kemudian, dimana Kiseki……?)"
-            ]
-        },
-        {
-            "name": "",
-            "text": "Posisi Kiseki sekarang ke-2 dari belakang.\n…Benar-benar di belakang. Apakah dia tadi telat start?"
-        },
-        {
-            "name": "Trainer Menengah",
-            "text": "Oh, rupanya ada Umamusume yang belum dikontrak juga ikut. \nTapi posisinya terlihat sulit... Hah, cuma anak muda yang bisa lari tanpa mikir panjang ya",
-            "choice_data_list": [
-                "<size=38>(Salah, Kiseki pasti sudah merencanakannya)</size>",
-                "<size=38>(Salah, Kiseki pasti sudah merencanakannya)</size>"
-            ]
-        },
-        {
-            "name": "",
-            "text": "Dia bilang: \"Dengan lari, aku bisa bikin orang semangat'.\nKalau begitu, pasti dia sudah punya strategi buat mengalahkan musuh kuat ini"
-        },
-        {
-            "name": "Kiseki",
-            "text": "(Di mataku, isinya musuh-musuh yang ahli dalam spurt……！\nKalau mengambil posisi barisan depan dengan cara normal, \nitu hanya akan menjadi \"Alur Cerita Kekalahan yang Klise\"）"
-        },
-        {
-            "name": "Kiseki",
-            "text": "(Kalau gitu, gaada pilihan lain selain mengejutkan mereka！\nGoyahkan para pelari kuat itu, cari celahnya... dan tunjukkan kemenangan sang tokoh utama！)"
-        },
-        {
-            "name": "Kiseki",
-            "text": "(Bertaruhlah! Pada serangan ini ――Tariklah \n\"bendera\" pembalikan keadaan itu ke tanganmu!!)"
-        },
-        {
-            "name": "",
-            "text": "Mata Kiseki penuh dengan tekad bulat. Yang ada di ujung pandangannya adalah... celah sempit antara dua pelari di depannya.",
-            "choice_data_list": [
-                "(Kiseki, jangan-jangan kamu――）",
-                "(Kiseki, jangan-jangan kamu――）"
-            ]
-        },
-        {
-            "name": "Kiseki",
-            "text": "Ini duel akselerasi akhir! Selip dari celah dua rival yang saling mengawasi! Bikin mereka panik, menang sebelum sempat bereaksi! ...HAAAAAAAH!!"
-        },
-        {
-            "name": "Kiseki",
-            "text": "(Lajuuuuk, diriku!\nMulai aksi dramatis level center color! Lalu—)"
-        },
-        {
-            "name": "Kiseki",
-            "text": "(Lalu...?)"
-        },
-        {
-            "name": "Kiseki",
-            "text": "(Ah, itu...? Apa...?)"
-        },
-        {
-            "name": "Kiseki",
-            "text": "\"Ayo, kejar! Salip! Aku pasti bisa,!!! HAAAAAAAAH... YAAAAAAAHHHHHHHHHHH———!!"
-        },
-        {
-            "text": "Ke 8",
-            "name": "Kiseki"
-        },
-        {
-            "name": "",
-            "text": "Kiseki tak bisa ikut perebutan posisi atas, malah terus terlempar ke belakang....Tak ada penampilan mencolok yang bisa dia tunjukkan.\n\n",
-            "choice_data_list": [
-                "<size=35>(Tapi setidaknya usahanya patut diapresiasi...)</size>"
-            ]
-        },
-        {
-            "name": "Kiseki",
-            "text": "Ti-tidak sesuai rencana...\nKalau jadi tokoh utama, harus menang. Menang. Lalu—"
-        },
-        {
-            "name": "Kiseki",
-            "text": "Tidaaaaakkk-----",
-            "choice_data_list": [
-                "Kiseki !....."
-            ]
-        },
-        {
-            "name": "Kiseki",
-            "text": "Hah... hah... hah—\"\n\"Ini baru aja kesempatan ikut balapan simulasi...!"
-        },
-        {
-            "name": "Kiseki",
-            "text": "Aku tahu kemampuan kita berbeda.\nTapi aku mohon sampai dikabulkan demi bisa ikut lomba ini"
-        },
-        {
-            "name": "Kiseki",
-            "text": "Soalnya aku pikir bisa tunjukkin. Aku pengen tunjukkin!\"\n\"Penampilanku yang jadi tokoh utama di balapan paling seru...!"
-        },
-        {
-            "name": "Kiseki",
-            "text": "Kamu yang antusias menungguku.\nKamu yang jadi pembacaku."
-        },
-        {
-            "name": "Kiseki",
-            "text": "Tapi kenyataannya, nggak ada pembalikan keadaan, nggak ada yang dimulai,cuma lomba yang biasa aja...! Aku sama sekali nggak bisa bikin orang semangat"
-        },
-        {
-            "name": "Kiseki",
-            "text": "\"～～～... ...Malu... banget..."
-        },
-        {
-            "name": "",
-            "text": "Setelah balapan simulasi, aku berlari ke seluruh penjuru akademi demi menyapanya\nyang masih menahan wajah penuh kekecewaan"
-        },
-        {
-            "name": "",
-            "text": "Memang, mungkin dia tidak punya momen puncak di lomba kali ini.\nTapi sikapnya yang 'berani tantang rival kuat' sebelumnya, membuatku—",
-            "choice_data_list": [
-                "<size=38>(Menurutku, kamu MC yang hebat—!)</size>",
-                "<size=38>(Menurutku, kamu MC yang hebat—!)</size>"
-            ]
-        },
-        {
-            "name": "Kiseki",
-            "text": "Kalau gitu, kita adu lagi tiga minggu kemudian! Mohon bimbingannya!",
-            "choice_data_list": [
-                "Eh , Suara Kiseki ?!"
-            ]
-        },
-        {
-            "name": "",
-            "text": "Melihat ke luar jendela, Keajaiban sedang membungkuk penuh semangat kepada para Umamusume yang baru saja dihadapi hari ini. Lalu berikutnya, matanya berbinar—"
-        },
-        {
-            "name": "Kiseki",
-            "text": "Oke... sekarang tinggal ketemu trainer lagi..",
-            "choice_data_list": [
-                "<size=38>Kiseki , Apa yang tadi kamu bicarakan...!</size>"
-            ]
-        },
-        {
-            "name": "Kiseki",
-            "text": "Ah... bagus, kamu di sini, Trainer!\nAku akan adu lagi nanti! Mau nonton lagi, kan!?"
-        },
-        {
-            "name": "Kiseki",
-            "text": "Lomba berikutnya pasti bakal seru, sumpah!\nAku akan menang, dan jadi tokoh utama di karyaku!",
-            "choice_data_list": [
-                ".....! !"
-            ]
-        },
-        {
-            "name": "Kiseki",
-            "text": "Soalnya kalau tokoh utama nggak bergerak, cerita nggak akan mulai! Kalau aku nggak kejar mimpi, di depan sana nggak ada kemenangan!!"
-        },
-        {
-            "name": "Kiseki",
-            "text": "Aku nggak bisa cuma ngambek terus!\nKalau jadi tokoh utama di komik—harus ada balas dendam dong!"
-        },
-        {
-            "name": "Kiseki",
-            "text": "Aku pasti—bisa jadi Umamusume yang jadi tokoh utama...!",
-            "choice_data_list": [
-                "Kiseki ....."
-            ]
-        },
-        {
-            "name": "",
-            "text": "Keajaiban pasti... akan melakukan 'hal seru' lagi.\nSekali lagi, dia akan membuat penontonnya tak bisa berhenti menanti"
-        },
-        {
-            "name": "",
-            "text": "Karena kita pun tak bisa menahan harapan.\nAgar larinya menemukan bentuk—dan ingin menyaksikan momen itu.",
-            "choice_data_list": [
-                "....Kiseki , Eh !"
-            ]
-        },
-        {
-            "name": "Para Trainer",
-            "text": "\"Boleh aku bantu kamu?\"\n\"Boleh aku bantu kamu?\"",
-            "choice_data_list": [
-                "( ...Hah? )"
-            ]
-        },
-        {
-            "name": "Kiseki",
-            "text": "...Eh............?"
-        }
-    ]
+  "title": "Mulai hari ini, aku adalah!!",
+  "text_block_list": [
+    {
+      "name": "Cerita Sebelumnya",
+      "text": "Cerita sebelumnya！ Umamusume yang sangat menyukai manga, Kiseki, bertemu dengan seorang Trainer yang terpikat oleh gaya larinya."
+    },
+    {
+      "text": "Kemudian, dia mengajak trainer itu menyaksikan balapan\nsimulasi yang di ikutinya！",
+      "name": "Cerita Sebelumnya"
+    },
+    {
+      "text": "Kemudian, dia mengajak trainer itu menyaksikan balapan\nsimulasi yang di ikutinya！",
+      "name": "Cerita Sebelumnya"
+    },
+    {
+      "name": "Trainer Veteran",
+      "text": "Luar biasa peserta yang berkumpul di sini…… Ada Satono Crown yang meraih posisi ke-3 di Derby, bahkan ada Satono Diamond juga, si jenius berbakat yang dijadwalkan debut tahun ini."
+    },
+    {
+      "text": "Selain itu, bukan hanya putri dari keluarga Satono saja.\nVivlos pun, potensinya di jalur Tiara terlihat sangat kuat.",
+      "name": ""
+    },
+    {
+      "name": "Kiseki",
+      "text": "Fuuuー…… haaaー……！\nMereka benar-benar peserta yang punya kharisma ya！！\nFuuuー……！",
+      "choice_data_list": [
+        "K-Kamu gak apa-apa? Kiseki！?",
+        "K-Kamu gak apa-apa? Kiseki！?"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "A-Aku baik-baik aja kok！ Dari semalam aja udah melek……！ \nM-meski ada rasa gugup, tapi aku juga merasa deg-degan！！"
+    },
+    {
+      "name": "Kiseki",
+      "text": "Situasi ini, mirip kayak 'Hiki' di dalam manga...\nJadi bikin berharap, kan. Kayak...\n\"Gimana cara Kiseki mengalahkan musuh kuat?\" gituu...",
+      "choice_data_list": [
+        "<size=38>...Ah, aku pengen liat kamu jadi tokoh utama!</size>",
+        "<size=38>...Ah, aku pengen liat kamu jadi tokoh utama!</size>"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Kemudian Kiseki dipanggil oleh petugas start,\ndia menuju posisinya, sama seperti Umamusume lainnya."
+    },
+    {
+      "name": "",
+      "text": "Lalu suasana arena pun seketika hening――\ndan GERBANG TERBUKA！！"
+    },
+    {
+      "name": "",
+      "text": "Satono Diamond dan yang lainnya jadi pusat perhatian, saling mengawasi di posisi belakang dengan mengandalkan kecepatan akhir, tampaknya mereka sedang saling menahan diri",
+      "choice_data_list": [
+        "(Dan kemudian, dimana Kiseki……?)"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Posisi Kiseki sekarang ke-2 dari belakang.\n…Benar-benar di belakang. Apakah dia tadi telat start?"
+    },
+    {
+      "name": "Trainer Menengah",
+      "text": "Oh, rupanya ada Umamusume yang belum dikontrak juga ikut. \nTapi posisinya terlihat sulit... Hah, cuma anak muda yang bisa lari tanpa mikir panjang ya",
+      "choice_data_list": [
+        "<size=38>(Salah, Kiseki pasti sudah merencanakannya)</size>",
+        "<size=38>(Salah, Kiseki pasti sudah merencanakannya)</size>"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Dia bilang: \"Dengan lari, aku bisa bikin orang semangat'.\nKalau begitu, pasti dia sudah punya strategi buat mengalahkan musuh kuat ini"
+    },
+    {
+      "name": "Kiseki",
+      "text": "(Di mataku, isinya musuh-musuh yang ahli dalam spurt……！\nKalau mengambil posisi barisan depan dengan cara normal, \nitu hanya akan menjadi \"Alur Cerita Kekalahan yang Klise\"）"
+    },
+    {
+      "name": "Kiseki",
+      "text": "(Kalau gitu, gaada pilihan lain selain mengejutkan mereka！\nGoyahkan para pelari kuat itu, cari celahnya... dan tunjukkan kemenangan sang tokoh utama！)"
+    },
+    {
+      "name": "Kiseki",
+      "text": "(Bertaruhlah! Pada serangan ini ――Tariklah \n\"bendera\" pembalikan keadaan itu ke tanganmu!!)"
+    },
+    {
+      "name": "",
+      "text": "Mata Kiseki penuh dengan tekad bulat. Yang ada di ujung pandangannya adalah... celah sempit antara dua pelari di depannya.",
+      "choice_data_list": [
+        "(Kiseki, jangan-jangan kamu――）",
+        "(Kiseki, jangan-jangan kamu――）"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "Ini duel akselerasi akhir! Selip dari celah dua rival yang saling mengawasi! Bikin mereka panik, menang sebelum sempat bereaksi! ...HAAAAAAAH!!"
+    },
+    {
+      "name": "Kiseki",
+      "text": "(Lajuuuuk, diriku!\nMulai aksi dramatis level center color! Lalu—)"
+    },
+    {
+      "name": "Kiseki",
+      "text": "(Lalu...?)"
+    },
+    {
+      "name": "Kiseki",
+      "text": "(Ah, itu...? Apa...?)"
+    },
+    {
+      "name": "Kiseki",
+      "text": "\"Ayo, kejar! Salip! Aku pasti bisa,!!! HAAAAAAAAH... YAAAAAAAHHHHHHHHHHH———!!"
+    },
+    {
+      "text": "Ke 8",
+      "name": "Kiseki"
+    },
+    {
+      "name": "",
+      "text": "Kiseki tak bisa ikut perebutan posisi atas, malah terus terlempar ke belakang....Tak ada penampilan mencolok yang bisa dia tunjukkan.\n\n",
+      "choice_data_list": [
+        "<size=35>(Tapi setidaknya usahanya patut diapresiasi...)</size>"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "Ti-tidak sesuai rencana...\nKalau jadi tokoh utama, harus menang. Menang. Lalu—"
+    },
+    {
+      "name": "Kiseki",
+      "text": "Tidaaaaakkk-----",
+      "choice_data_list": [
+        "Kiseki !....."
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "Hah... hah... hah—\"\n\"Ini baru aja kesempatan ikut balapan simulasi...!"
+    },
+    {
+      "name": "Kiseki",
+      "text": "Aku tahu kemampuan kita berbeda.\nTapi aku mohon sampai dikabulkan demi bisa ikut lomba ini"
+    },
+    {
+      "name": "Kiseki",
+      "text": "Soalnya aku pikir bisa tunjukkin. Aku pengen tunjukkin!\"\n\"Penampilanku yang jadi tokoh utama di balapan paling seru...!"
+    },
+    {
+      "name": "Kiseki",
+      "text": "Kamu yang antusias menungguku.\nKamu yang jadi pembacaku."
+    },
+    {
+      "name": "Kiseki",
+      "text": "Tapi kenyataannya, nggak ada pembalikan keadaan, nggak ada yang dimulai,cuma lomba yang biasa aja...! Aku sama sekali nggak bisa bikin orang semangat"
+    },
+    {
+      "name": "Kiseki",
+      "text": "\"～～～... ...Malu... banget..."
+    },
+    {
+      "name": "",
+      "text": "Setelah balapan simulasi, aku berlari ke seluruh penjuru akademi demi menyapanya\nyang masih menahan wajah penuh kekecewaan"
+    },
+    {
+      "name": "",
+      "text": "Memang, mungkin dia tidak punya momen puncak di lomba kali ini.\nTapi sikapnya yang 'berani tantang rival kuat' sebelumnya, membuatku—",
+      "choice_data_list": [
+        "<size=38>(Menurutku, kamu MC yang hebat—!)</size>",
+        "<size=38>(Menurutku, kamu MC yang hebat—!)</size>"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "Kalau gitu, kita adu lagi tiga minggu kemudian! Mohon bimbingannya!",
+      "choice_data_list": [
+        "Eh , Suara Kiseki ?!"
+      ]
+    },
+    {
+      "name": "",
+      "text": "Melihat ke luar jendela, Keajaiban sedang membungkuk penuh semangat kepada para Umamusume yang baru saja dihadapi hari ini. Lalu berikutnya, matanya berbinar—"
+    },
+    {
+      "name": "Kiseki",
+      "text": "Oke... sekarang tinggal ketemu trainer lagi..",
+      "choice_data_list": [
+        "<size=38>Kiseki , Apa yang tadi kamu bicarakan...!</size>"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "Ah... bagus, kamu di sini, Trainer!\nAku akan adu lagi nanti! Mau nonton lagi, kan!?"
+    },
+    {
+      "name": "Kiseki",
+      "text": "Lomba berikutnya pasti bakal seru, sumpah!\nAku akan menang, dan jadi tokoh utama di karyaku!",
+      "choice_data_list": [
+        ".....! !"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "Soalnya kalau tokoh utama nggak bergerak, cerita nggak akan mulai! Kalau aku nggak kejar mimpi, di depan sana nggak ada kemenangan!!"
+    },
+    {
+      "name": "Kiseki",
+      "text": "Aku nggak bisa cuma ngambek terus!\nKalau jadi tokoh utama di komik—harus ada balas dendam dong!"
+    },
+    {
+      "name": "Kiseki",
+      "text": "Aku pasti—bisa jadi Umamusume yang jadi tokoh utama...!",
+      "choice_data_list": [
+        "Kiseki ....."
+      ]
+    },
+    {
+      "name": "",
+      "text": "Keajaiban pasti... akan melakukan 'hal seru' lagi.\nSekali lagi, dia akan membuat penontonnya tak bisa berhenti menanti"
+    },
+    {
+      "name": "",
+      "text": "Karena kita pun tak bisa menahan harapan.\nAgar larinya menemukan bentuk—dan ingin menyaksikan momen itu.",
+      "choice_data_list": [
+        "....Kiseki , Eh !"
+      ]
+    },
+    {
+      "name": "Para Trainer",
+      "text": "\"Boleh aku bantu kamu?\"\n\"Boleh aku bantu kamu?\"",
+      "choice_data_list": [
+        "( ...Hah? )"
+      ]
+    },
+    {
+      "name": "Kiseki",
+      "text": "...Eh............?"
+    }
+  ]
 }

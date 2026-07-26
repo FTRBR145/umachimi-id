@@ -1,249 +1,249 @@
 {
-    "text_block_list": [
-        {
-            "text": "(Lari terakhir di kamp musim panas...!\nHasil dari usahaku bareng Trainer-san...!)"
-        },
-        {
-            "text": "Yaaaaaaahhh!!"
-        },
-        {
-            "text": "Trainer-san, makasih banyak!",
-            "choice_data_list": [
-                "<size=39>Selamat, semua menu latihannya udah beres!</size>"
-            ]
-        },
-        {
-            "text": "Iya! ……Akhirnya selesai juga. \nKamp musim panas rasanya cepet banget ya."
-        },
-        {
-            "text": "Hehe, isinya lari terus ya. Semuanya cuma lari doang.\nApa ini yang namanya masa muda ya?",
-            "choice_data_list": [
-                "<size=33>Kalau gitu, mau nyoba hal khas musim panas lainnya?</size>"
-            ]
-        },
-        {
-            "text": "Eh? ……Boleh?"
-        },
-        {
-            "text": "……Ya, mau……! \nAyo lakukan. Bentar ya, aku cari info acaranya dulu!"
-        },
-        {
-            "text": "Trainer-san, katanya ada festival kembang api lho.\nKalau ini, khas musim panas banget kan?"
-        },
-        {
-            "text": "……Dulu kita pernah nonton bareng juga kan. \nDipakein yukata sama ibu, terus naik ke tempat yang tinggi……",
-            "choice_data_list": [
-                "Iya, aku ingat. Kalau nggak salah――"
-            ]
-        },
-        {
-            "name": "Buena Kecil",
-            "text": "Wah……! Indah banget! \nHehe, taa～mayaaa～!"
-        },
-        {
-            "name": "Buena Kecil",
-            "text": "Abang, suka kembang api yang mana?\nKalau Buu-chan, suka yang warna emas!"
-        },
-        {
-            "name": "Buena Kecil",
-            "text": "Kakak, suka kembang api yang mana?\nKalau Buu-chan, suka yang warna emas!"
-        },
-        {
-            "name": "Buena Kecil",
-            "text": "Aku pengen lihat lebih deket lagi deh……! \nSoalnya, kembang apinya kelihatan kayak jatuh melayang dari atas kan?"
-        },
-        {
-            "name": "Buena Vista",
-            "text": "...Kangen banget ya. \nKira-kira sekarang bisa lihat lebih dekat dari waktu itu nggak ya?",
-            "choice_data_list": [
-                "Kalau begitu, nanti kucariin tempatnya!"
-            ]
-        },
-        {
-            "text": "Beneran? Hehe, aku tunggu ya."
-        },
-        {
-            "text": "Kalau gitu, kita kumpul jam――"
-        },
-        {
-            "text": "……Apa mungkin, aku datang terlalu cepat ya?"
-        },
-        {
-            "text": "(Nggak nyangka……一ternyata dia masih ingat dulu kita pernah nonton kembang api bareng. ……Hehe)"
-        },
-        {
-            "text": "(Udah lama banget sejak saat itu. Apa Trainer-san bakal tetap antusias kayak anak kecil ya? Hehe.)",
-            "choice_data_list": [
-                "Buena, maaf nungguin!"
-            ]
-        },
-        {
-            "text": "……! Enggak kok, aku juga baru nyampe."
-        },
-        {
-            "text": "……Nah, ayo berangkat. Di sebelah mana ya?",
-            "choice_data_list": [
-                "Ah, sebelah sini!",
-                "Ah, sebelah sini!"
-            ]
-        },
-        {
-            "text": "……Eh?"
-        },
-        {
-            "text": "Eh?"
-        },
-        {
-            "text": "Eeeeehh……!?",
-            "choice_data_list": [
-                "Kenapa, Buena?",
-                "Kenapa, Buena?"
-            ]
-        },
-        {
-            "text": "A-apanya yang kenapa...! \nHabisnya, ini kan... kapal, kita ada di atas laut lho!?"
-        },
-        {
-            "text": "Katanya mau nonton kembang api……\n……Tapi kok, kamu malah nyewa kapal pesiar……?",
-            "choice_data_list": [
-                "<size=34>Nggak sengaja nemu pas nyari, jadi langsung pesen!</size>"
-            ]
-        },
-        {
-            "text": "Nggak sengaja, katamu...!?"
-        },
-        {
-            "text": "Hehe, hehehe……! Astaga……!"
-        },
-        {
-            "text": "...Aku nggak kepikiran sama sekali lho...\nKalau nonton dari kapal pesiar.",
-            "choice_data_list": [
-                "<size=33>Soalnya, disini kembang apinya kelihatan paling dekat.</size>"
-            ]
-        },
-        {
-            "text": "……Ternyata sekarang,\nkamu bisa ngelakuin hal di luar dugaan dengan gampang ya."
-        },
-        {
-            "text": "Emang bener ya, orang dewasa itu――emang hebat ya……\nKamu lama-lama kelihatan jadi makin keren."
-        },
-        {
-            "text": "...Kamu, beneran banyak berubah ya. \nJauh banget, sejak waktu kita kecil dulu.",
-            "choice_data_list": [
-                "Kalau emang iya, ini berkat Buena, lho."
-            ]
-        },
-        {
-            "text": "……Berkat aku……?"
-        },
-        {
-            "text": "(Dia ngomong gitu dengan santainya.\nHal sehebat itu, dibilang seakan hal yang biasa.)",
-            "choice_data_list": [
-                "<size=29>Buat bisa di sampingmu, jadi teman masa kecil aja gak cukup.</size>"
-            ]
-        },
-        {
-            "text": "(Wajahnya terlihat sedikit tertekan, saat menggumamkan hal itu.)",
-            "choice_data_list": [
-                "<size=30>Aku lakuin semuanya sekuat tenaga, jadi aku harus berubah.</size>"
-            ]
-        },
-        {
-            "text": "(Tatapannya padaku masih terasa lembut seperti dulu――\nTapi, sekarang terasa lebih kuat dibanding masa itu.)",
-            "choice_data_list": [
-                "<size=34>Makanya, kalau aku berubah, itu semua berkat kamu.</size>",
-                "<size=34>Makanya, kalau aku berubah, itu semua berkat kamu.</size>"
-            ]
-        },
-        {
-            "text": "\"Demi Buena, aku bakal berjuang sampai kapan pun. \nAku bisa terus berkembang――Itu aja kok alasannya.\""
-        },
-        {
-            "text": "……Abang."
-        },
-        {
-            "text": "……Kakak."
-        },
-        {
-            "text": "Abang."
-        },
-        {
-            "text": "Kakak."
-        },
-        {
-            "text": "Curang ah.\nAku kejar sekuat tenaga pun... rasanya masih kurang."
-        },
-        {
-            "text": "Habisnya, kamu selalu nunjukin sisi baru terus sih.",
-            "choice_data_list": [
-                "<size=42>...Nanti, kamu jadi ngerasa kesepian lagi?</size>"
-            ]
-        },
-        {
-            "text": "Enggak sama sekali kok.\nSekarang――aku justru seneng banget, sampai nggak bisa tahan lagi."
-        },
-        {
-            "text": "Bisa terus ngenal kamu,\ndan terus pengen tahu kamu lebih banyak... bikin aku bahagia."
-        },
-        {
-            "text": "Hei, sisi Abang yang masih sama, maupun sisi dirimu yang udah berubah..."
-        },
-        {
-            "text": "Hei, sisi Kakak yang masih sama, maupun sisi dirimu yang udah berubah..."
-        },
-        {
-            "text": "Bolehkah, aku……terus berada di sampingmu? \nMelihatmu dari tempat yang paling dekat."
-        },
-        {
-            "text": "Mulai sekarang, aku mau tahu segalanya tentangmu……!",
-            "choice_data_list": [
-                "...Tentu saja!"
-            ]
-        },
-        {
-            "text": "(Kembang apinya meluncur dan meledak. Lingkaran bunga api yang \nmekar kini jauh lebih indah dari yang kami lihat waktu itu.)"
-        },
-        {
-            "text": "(Pemandangan seindah mimpi ini, kuabadikan dalam ingatan bersamanya di sisiku.)"
-        },
-        {
-            "text": "Ah, itu kembang api yang warna emas……!\n……Keren. Serasa dihujani cahaya kelap-kelip……",
-            "choice_data_list": [
-                "Seperti hujan emas ya.",
-                "Seperti hujan emas ya."
-            ]
-        },
-        {
-            "text": "Iya, iya…… *hiks*.\nEh? Kok malah…… uhh……!",
-            "choice_data_list": [
-                "Kamu terlalu terharu ya?"
-            ]
-        },
-        {
-            "text": "Habisnya, Habisnya……!\nEntah mengapa, pemandangannya sangat indah……!"
-        },
-        {
-            "text": "Kenapa ya?\nDibandingkan dulu, sekarang rasanya jauh lebih……"
-        },
-        {
-            "text": "……"
-        },
-        {
-            "name": "Buena Kecil",
-            "text": "Abang, suka kembang api yang mana?\nKalau Buu-chan, suka yang warna emas!"
-        },
-        {
-            "name": "Buena Kecil",
-            "text": "Kakak, suka kembang api yang mana?\nKalau Buu-chan, suka yang warna emas!"
-        },
-        {
-            "text": "(……Ternyata dulu, aku cuma fokus ke kembang apinya aja.\nSampai aku nggak sadar, sama apa yang diterangi cahaya emasnya.)"
-        },
-        {
-            "text": "――Ah, begitu ya."
-        },
-        {
-            "text": "Ternyata, seindah ini."
-        }
-    ]
+  "text_block_list": [
+    {
+      "text": "(Lari terakhir di kamp musim panas...!\nHasil dari usahaku bareng Trainer-san...!)"
+    },
+    {
+      "text": "Yaaaaaaahhh!!"
+    },
+    {
+      "text": "Trainer-san, makasih banyak!",
+      "choice_data_list": [
+        "<size=39>Selamat, semua menu latihannya udah beres!</size>"
+      ]
+    },
+    {
+      "text": "Iya! ……Akhirnya selesai juga. \nKamp musim panas rasanya cepet banget ya."
+    },
+    {
+      "text": "Hehe, isinya lari terus ya. Semuanya cuma lari doang.\nApa ini yang namanya masa muda ya?",
+      "choice_data_list": [
+        "<size=33>Kalau gitu, mau nyoba hal khas musim panas lainnya?</size>"
+      ]
+    },
+    {
+      "text": "Eh? ……Boleh?"
+    },
+    {
+      "text": "……Ya, mau……! \nAyo lakukan. Bentar ya, aku cari info acaranya dulu!"
+    },
+    {
+      "text": "Trainer-san, katanya ada festival kembang api lho.\nKalau ini, khas musim panas banget kan?"
+    },
+    {
+      "text": "……Dulu kita pernah nonton bareng juga kan. \nDipakein yukata sama ibu, terus naik ke tempat yang tinggi……",
+      "choice_data_list": [
+        "Iya, aku ingat. Kalau nggak salah――"
+      ]
+    },
+    {
+      "name": "Buena Kecil",
+      "text": "Wah……! Indah banget! \nHehe, taa～mayaaa～!"
+    },
+    {
+      "name": "Buena Kecil",
+      "text": "Abang, suka kembang api yang mana?\nKalau Buu-chan, suka yang warna emas!"
+    },
+    {
+      "name": "Buena Kecil",
+      "text": "Kakak, suka kembang api yang mana?\nKalau Buu-chan, suka yang warna emas!"
+    },
+    {
+      "name": "Buena Kecil",
+      "text": "Aku pengen lihat lebih deket lagi deh……! \nSoalnya, kembang apinya kelihatan kayak jatuh melayang dari atas kan?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...Kangen banget ya. \nKira-kira sekarang bisa lihat lebih dekat dari waktu itu nggak ya?",
+      "choice_data_list": [
+        "Kalau begitu, nanti kucariin tempatnya!"
+      ]
+    },
+    {
+      "text": "Beneran? Hehe, aku tunggu ya."
+    },
+    {
+      "text": "Kalau gitu, kita kumpul jam――"
+    },
+    {
+      "text": "……Apa mungkin, aku datang terlalu cepat ya?"
+    },
+    {
+      "text": "(Nggak nyangka……一ternyata dia masih ingat dulu kita pernah nonton kembang api bareng. ……Hehe)"
+    },
+    {
+      "text": "(Udah lama banget sejak saat itu. Apa Trainer-san bakal tetap antusias kayak anak kecil ya? Hehe.)",
+      "choice_data_list": [
+        "Buena, maaf nungguin!"
+      ]
+    },
+    {
+      "text": "……! Enggak kok, aku juga baru nyampe."
+    },
+    {
+      "text": "……Nah, ayo berangkat. Di sebelah mana ya?",
+      "choice_data_list": [
+        "Ah, sebelah sini!",
+        "Ah, sebelah sini!"
+      ]
+    },
+    {
+      "text": "……Eh?"
+    },
+    {
+      "text": "Eh?"
+    },
+    {
+      "text": "Eeeeehh……!?",
+      "choice_data_list": [
+        "Kenapa, Buena?",
+        "Kenapa, Buena?"
+      ]
+    },
+    {
+      "text": "A-apanya yang kenapa...! \nHabisnya, ini kan... kapal, kita ada di atas laut lho!?"
+    },
+    {
+      "text": "Katanya mau nonton kembang api……\n……Tapi kok, kamu malah nyewa kapal pesiar……?",
+      "choice_data_list": [
+        "<size=34>Nggak sengaja nemu pas nyari, jadi langsung pesen!</size>"
+      ]
+    },
+    {
+      "text": "Nggak sengaja, katamu...!?"
+    },
+    {
+      "text": "Hehe, hehehe……! Astaga……!"
+    },
+    {
+      "text": "...Aku nggak kepikiran sama sekali lho...\nKalau nonton dari kapal pesiar.",
+      "choice_data_list": [
+        "<size=33>Soalnya, disini kembang apinya kelihatan paling dekat.</size>"
+      ]
+    },
+    {
+      "text": "……Ternyata sekarang,\nkamu bisa ngelakuin hal di luar dugaan dengan gampang ya."
+    },
+    {
+      "text": "Emang bener ya, orang dewasa itu――emang hebat ya……\nKamu lama-lama kelihatan jadi makin keren."
+    },
+    {
+      "text": "...Kamu, beneran banyak berubah ya. \nJauh banget, sejak waktu kita kecil dulu.",
+      "choice_data_list": [
+        "Kalau emang iya, ini berkat Buena, lho."
+      ]
+    },
+    {
+      "text": "……Berkat aku……?"
+    },
+    {
+      "text": "(Dia ngomong gitu dengan santainya.\nHal sehebat itu, dibilang seakan hal yang biasa.)",
+      "choice_data_list": [
+        "<size=29>Buat bisa di sampingmu, jadi teman masa kecil aja gak cukup.</size>"
+      ]
+    },
+    {
+      "text": "(Wajahnya terlihat sedikit tertekan, saat menggumamkan hal itu.)",
+      "choice_data_list": [
+        "<size=30>Aku lakuin semuanya sekuat tenaga, jadi aku harus berubah.</size>"
+      ]
+    },
+    {
+      "text": "(Tatapannya padaku masih terasa lembut seperti dulu――\nTapi, sekarang terasa lebih kuat dibanding masa itu.)",
+      "choice_data_list": [
+        "<size=34>Makanya, kalau aku berubah, itu semua berkat kamu.</size>",
+        "<size=34>Makanya, kalau aku berubah, itu semua berkat kamu.</size>"
+      ]
+    },
+    {
+      "text": "\"Demi Buena, aku bakal berjuang sampai kapan pun. \nAku bisa terus berkembang――Itu aja kok alasannya.\""
+    },
+    {
+      "text": "……Abang."
+    },
+    {
+      "text": "……Kakak."
+    },
+    {
+      "text": "Abang."
+    },
+    {
+      "text": "Kakak."
+    },
+    {
+      "text": "Curang ah.\nAku kejar sekuat tenaga pun... rasanya masih kurang."
+    },
+    {
+      "text": "Habisnya, kamu selalu nunjukin sisi baru terus sih.",
+      "choice_data_list": [
+        "<size=42>...Nanti, kamu jadi ngerasa kesepian lagi?</size>"
+      ]
+    },
+    {
+      "text": "Enggak sama sekali kok.\nSekarang――aku justru seneng banget, sampai nggak bisa tahan lagi."
+    },
+    {
+      "text": "Bisa terus ngenal kamu,\ndan terus pengen tahu kamu lebih banyak... bikin aku bahagia."
+    },
+    {
+      "text": "Hei, sisi Abang yang masih sama, maupun sisi dirimu yang udah berubah..."
+    },
+    {
+      "text": "Hei, sisi Kakak yang masih sama, maupun sisi dirimu yang udah berubah..."
+    },
+    {
+      "text": "Bolehkah, aku……terus berada di sampingmu? \nMelihatmu dari tempat yang paling dekat."
+    },
+    {
+      "text": "Mulai sekarang, aku mau tahu segalanya tentangmu……!",
+      "choice_data_list": [
+        "...Tentu saja!"
+      ]
+    },
+    {
+      "text": "(Kembang apinya meluncur dan meledak. Lingkaran bunga api yang \nmekar kini jauh lebih indah dari yang kami lihat waktu itu.)"
+    },
+    {
+      "text": "(Pemandangan seindah mimpi ini, kuabadikan dalam ingatan bersamanya di sisiku.)"
+    },
+    {
+      "text": "Ah, itu kembang api yang warna emas……!\n……Keren. Serasa dihujani cahaya kelap-kelip……",
+      "choice_data_list": [
+        "Seperti hujan emas ya.",
+        "Seperti hujan emas ya."
+      ]
+    },
+    {
+      "text": "Iya, iya…… *hiks*.\nEh? Kok malah…… uhh……!",
+      "choice_data_list": [
+        "Kamu terlalu terharu ya?"
+      ]
+    },
+    {
+      "text": "Habisnya, Habisnya……!\nEntah mengapa, pemandangannya sangat indah……!"
+    },
+    {
+      "text": "Kenapa ya?\nDibandingkan dulu, sekarang rasanya jauh lebih……"
+    },
+    {
+      "text": "……"
+    },
+    {
+      "name": "Buena Kecil",
+      "text": "Abang, suka kembang api yang mana?\nKalau Buu-chan, suka yang warna emas!"
+    },
+    {
+      "name": "Buena Kecil",
+      "text": "Kakak, suka kembang api yang mana?\nKalau Buu-chan, suka yang warna emas!"
+    },
+    {
+      "text": "(……Ternyata dulu, aku cuma fokus ke kembang apinya aja.\nSampai aku nggak sadar, sama apa yang diterangi cahaya emasnya.)"
+    },
+    {
+      "text": "――Ah, begitu ya."
+    },
+    {
+      "text": "Ternyata, seindah ini."
+    }
+  ]
 }
