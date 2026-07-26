@@ -39,17 +39,22 @@ def main():
         print(path)
         fs_path = "localized_data" / path
 
-        hasher.update_mmap(fs_path)
+        data = fs_path.read_bytes()
+        if path.suffix.lower() in ('.json', '.txt', '.md'):
+            data = data.replace(b'\r\n', b'\n')
+
+        hasher.update(data)
         file_hash = hasher.digest()
         hasher.reset()
 
         index["files"].append({
             'path': path.as_posix(),
             'hash': file_hash.hex(),
-            'size': fs_path.stat().st_size
+            'size': len(data)
         })
 
     with open("index.json", "w", encoding="utf-8", newline='\n') as f:
         json.dump(index, f, ensure_ascii=False, indent=2)
 
-main()
+if __name__ == "__main__":
+    main()
