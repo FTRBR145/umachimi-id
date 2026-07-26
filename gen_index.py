@@ -3,15 +3,14 @@ from pathlib import Path
 import json
 from blake3 import blake3
 
-def ls_tree(tree: pygit2.Tree, parent=Path(""), skip_trees=False):
+def ls_tree(repo: pygit2.Repository, tree: pygit2.Tree, parent=Path("")):
     for e in tree:
         path = parent / e.name
         if isinstance(e, pygit2.Tree):
-            if not skip_trees:
-                yield path
-            yield from ls_tree(e, path, skip_trees)
+            yield from ls_tree(repo, e, path)
         else:
-            yield path
+            blob = repo.get(e.id)
+            yield path, blob.data
 
 def main():
     with open("index_base.json") as f:
@@ -32,20 +31,20 @@ def main():
         return
 
     hasher = blake3(max_threads=blake3.AUTO)
-    for path in ls_tree(ld_tree, skip_trees=True):
+    for path, data in ls_tree(repo, ld_tree):
         if path.name == ".gitignore":
             continue
 
-        fs_path = "localized_data" / path
+        print(path)
 
-        hasher.update_mmap(fs_path)
+        hasher.update(data)
         file_hash = hasher.digest()
         hasher.reset()
 
         index["files"].append({
             'path': path.as_posix(),
             'hash': file_hash.hex(),
-            'size': fs_path.stat().st_size
+            'size': len(data)
         })
 
     with open("index.json", "w", encoding="utf-8", newline='\n') as f:
