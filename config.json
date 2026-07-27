@@ -18,7 +18,7 @@
   "ipc_listen_all": false,
   "force_allow_dynamic_camera": false,
   "live_theater_allow_same_chara": false,
-  "sugoi_url": null,
+  "sugoi_url": "http://[IP_ADDRESS]/translate",
   "auto_translate_stories": true,
   "auto_translate_localize": true,
   "language": "id",

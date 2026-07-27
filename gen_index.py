@@ -22,8 +22,11 @@ def main():
 
             with open(full_path, "rb") as file_obj:
                 raw_bytes = file_obj.read()
-                # Normalize line endings to LF to match git/repo consistency
+            TEXT_EXTENSIONS = {'.json', '.txt', '.md', '.yaml', '.yml', '.csv'}
+            if rel_path.suffix.lower() in TEXT_EXTENSIONS:
                 clean_bytes = raw_bytes.replace(b"\r\n", b"\n")
+            else:
+                clean_bytes = raw_bytes
 
             hasher = blake3(clean_bytes, max_threads=blake3.AUTO)
             file_hash = hasher.hexdigest()

@@ -1,4 +1,4 @@
-# **UPDATE 22-07-26**
+# **UPDATE 26-07-26**
 
 **🟢 New :**
 - Lirik Yukoma Thermae (onsen)
