@@ -1,54 +1,46 @@
-import pygit2
+import os
 from pathlib import Path
 import json
 from blake3 import blake3
 
-def ls_tree(repo: pygit2.Repository, tree: pygit2.Tree, parent=Path("")):
-    for e in tree:
-        path = parent / e.name
-        if isinstance(e, pygit2.Tree):
-            yield from ls_tree(repo, e, path)
-        else:
-            blob = repo.get(e.id)
-            yield path, blob.data
-
 def main():
-    with open("index_base.json") as f:
+    with open("index_base.json", "r", encoding="utf-8") as f:
         index = json.load(f)
     index["files"] = []
 
-    repo = pygit2.Repository('.')
-    tree = repo.revparse_single('HEAD').tree
-
-    ld_tree = None
-    for e in tree:
-        if e.name == "localized_data" and isinstance(e, pygit2.Tree):
-            ld_tree = e
-            break
-
-    if not ld_tree:
-        print("[Error] localized_data tree not found")
+    ld_dir = Path("localized_data")
+    if not ld_dir.exists():
+        print("[Error] localized_data directory not found")
         return
 
-    hasher = blake3(max_threads=blake3.AUTO)
-    for path, data in ls_tree(repo, ld_tree):
-        if path.name == ".gitignore":
-            continue
+    for root, dirs, files in os.walk(ld_dir):
+        for f in files:
+            if f == ".gitignore":
+                continue
+            full_path = Path(root) / f
+            rel_path = full_path.relative_to(ld_dir)
 
-        print(path)
+            with open(full_path, "rb") as file_obj:
+                raw_bytes = file_obj.read()
+                # Normalize line endings to LF to match git/repo consistency
+                clean_bytes = raw_bytes.replace(b"\r\n", b"\n")
 
-        hasher.update(data)
-        file_hash = hasher.digest()
-        hasher.reset()
+            hasher = blake3(clean_bytes, max_threads=blake3.AUTO)
+            file_hash = hasher.hexdigest()
 
-        index["files"].append({
-            'path': path.as_posix(),
-            'hash': file_hash.hex(),
-            'size': len(data)
-        })
+            index["files"].append({
+                'path': rel_path.as_posix(),
+                'hash': file_hash,
+                'size': len(clean_bytes)
+            })
+
+    # Sort files by path for deterministic index.json output
+    index["files"].sort(key=lambda x: x['path'])
 
     with open("index.json", "w", encoding="utf-8", newline='\n') as f:
         json.dump(index, f, ensure_ascii=False, indent=2)
+
+    print(f"Successfully generated index.json with {len(index['files'])} files.")
 
 if __name__ == "__main__":
     main()
