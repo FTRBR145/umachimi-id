@@ -1,6 +1,8 @@
-# ☁️ Panduan Deploy Cloud Auto-Translator (Cloudflare Workers)
+# ☁️ Panduan Deploy Cloud Auto-Translator (Cloudflare Workers + Gemini AI)
 
 Dengan menggunakan Cloudflare Workers, fitur *Auto-Translate* Umamusume akan aktif **24/7 di Cloud secara GRATIS**. Anda tidak perlu lagi menjalankan script Python atau file `.bat` di komputer Anda, dan ini bisa langsung dipakai di **PC maupun HP Android**.
+
+Mendukung **Google Gemini 2.5 Flash** untuk dialog bernuansa anime yang alami, dengan **Hybrid Fallback** otomatis ke Google Translate jika kuota AI habis atau API key belum disetel.
 
 ---
 
@@ -23,7 +25,23 @@ Dengan menggunakan Cloudflare Workers, fitur *Auto-Translate* Umamusume akan akt
 
 ---
 
-## 🔗 Langkah 3: Dapatkan URL dan Pasang di Game
+## 🤖 Langkah 3 (Opsional tapi Sangat Direkomendasikan): Pasang Gemini AI API Key
+
+Untuk mendapatkan kualitas terjemahan dialog anime yang luwes, ekspresif, dan tidak kaku:
+
+1. Dapatkan API Key gratis di [Google AI Studio](https://aistudio.google.com/) (klik **Get API key** ➔ **Create API key**). Gratis permanen tanpa kartu kredit.
+2. Di halaman Worker Anda di Cloudflare Dashboard, buka tab **Settings** ➔ **Variables and Secrets**.
+3. Klik **Add variable** / **Add secret**:
+   - **Variable name**: `GEMINI_API_KEY`
+   - **Value**: Tempelkan API Key dari Google AI Studio.
+4. Klik **Save and deploy**.
+
+> [!NOTE]
+> Jika Anda melewati langkah ini (tanpa API key), Worker akan tetap bekerja 100% menggunakan Google Translate biasa.
+
+---
+
+## 🔗 Langkah 4: Dapatkan URL dan Pasang di Game
 
 Setelah di-deploy, Anda akan mendapatkan URL publik, contohnya:
 ```text
@@ -54,5 +72,6 @@ Buka file `config.json` di Android (di dalam folder Hachimi) atau atur via menu 
 
 ## ✅ Selesai!
 Sekarang setiap kali Anda bermain Umamusume di PC atau Android:
-* Semua cerita baru dan pilihan dialog akan diterjemahkan secara otomatis oleh cloud.
+* Cerita baru dan pilihan dialog akan diterjemahkan secara otomatis oleh AI (Gemini 2.5 Flash) dengan gaya bahasa visual novel yang natural.
+* Jika kuota AI sedang penuh atau ada gangguan jaringan, sistem akan secara instan beralih ke Google Translate biasa tanpa membuat game macet.
 * Anda tidak perlu lagi menyalakan terminal, Python, atau file `.bat` di PC!

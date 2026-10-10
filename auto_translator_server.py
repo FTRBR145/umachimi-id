@@ -4,10 +4,14 @@ import urllib.request
 import urllib.parse
 import re
 import sys
+import os
 
 sys.stdout.reconfigure(encoding='utf-8')
 
 jp_regex = re.compile(r'[\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FFF]')
+
+# Baca GEMINI_API_KEY dari environment variable jika ada
+GEMINI_API_KEY = os.environ.get('GEMINI_API_KEY', '').strip()
 
 NAME_MAP = {
     'エアグルーヴ': 'Air Groove',
@@ -20,16 +24,65 @@ NAME_MAP = {
     'ゴールドシップ': 'Gold Ship',
     'ダイワスカーレット': 'Daiwa Scarlet',
     'ウオッカ': 'Vodka',
+    'グラスワンダー': 'Grass Wonder',
+    'メジロマックイーン': 'Mejiro McQueen',
     'ルーラー': 'Ruler',
     'トレーナー': 'Trainer',
     'ウマ娘': 'Uma Musume',
     'たわけ': 'bodoh/idiot'
 }
 
+SYSTEM_PROMPT = (
+    "Kamu adalah penerjemah resmi game visual novel Umamusume: Pretty Derby.\n"
+    "Tugasmu: Terjemahkan teks/dialog bahasa Jepang ke Bahasa Indonesia bernuansa anime/visual novel yang ekspresif, santai, dan alami.\n"
+    "Aturan penting:\n"
+    "1. Sesuaikan nada bicara dengan kepribadian karakter (misal: Air Groove tegas/ketus, Gold Ship santai/usil, Rice Shower sopan/pemalu).\n"
+    "2. Pertahankan nama karakter resmi dalam ejaan alfabet (Air Groove, Special Week, Silence Suzuka, Tokai Teio, dll.) dan istilah balap (G1, debut, trainer, fans, senpai).\n"
+    "3. Jangan tambahkan tanda petik pembuka/penutup dan jangan beri catatan penjelasan apa pun.\n"
+    "4. Pertahankan format baris baru jika ada.\n"
+    "5. Kembalikan HANYA teks terjemahan akhir murni."
+)
+
 def clean_brackets_and_quotes(s):
     if not isinstance(s, str) or not s:
         return s
     return re.sub(r'^[“"”\'「」『』\s]+|[“"”\'「」『』\s]+$', '', s).strip()
+
+def translate_gemini(text, api_key):
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={api_key}"
+    payload = {
+        "system_instruction": {
+            "parts": [{"text": SYSTEM_PROMPT}]
+        },
+        "contents": [
+            {
+                "parts": [{"text": text}]
+            }
+        ],
+        "generationConfig": {
+            "temperature": 0.3,
+            "maxOutputTokens": 500
+        }
+    }
+    req_bytes = json.dumps(payload).encode('utf-8')
+    req = urllib.request.Request(url, data=req_bytes, headers={'Content-Type': 'application/json'})
+    with urllib.request.urlopen(req, timeout=8) as res:
+        data = json.loads(res.read().decode('utf-8'))
+        candidate_text = data.get('candidates', [{}])[0].get('content', {}).get('parts', [{}])[0].get('text', '')
+        if candidate_text:
+            return clean_brackets_and_quotes(candidate_text)
+    raise Exception("Empty Gemini response")
+
+def translate_google(text):
+    s = text.replace('\n', ' __NEWLINE__ ')
+    url = 'https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=id&dt=t&q=' + urllib.parse.quote(s)
+    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    with urllib.request.urlopen(req, timeout=5) as res:
+        data = json.loads(res.read().decode('utf-8'))
+        res_text = ''.join([item[0] for item in data[0] if item[0]])
+        res_text = res_text.replace(' __NEWLINE__ ', '\n').replace('__NEWLINE__', '\n')
+        res_text = res_text.replace('alur udara', 'Air Groove').replace('Alur Udara', 'Air Groove').replace('penggaris', 'Ruler').replace('Penggaris', 'Ruler')
+        return clean_brackets_and_quotes(res_text)
 
 def translate_single(text):
     if not isinstance(text, str) or not text or not jp_regex.search(text):
@@ -43,19 +96,18 @@ def translate_single(text):
     if not core_text:
         core_text = text
         
-    s = core_text.replace('\n', ' __NEWLINE__ ')
-    url = 'https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=id&dt=t&q=' + urllib.parse.quote(s)
-    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    # 1. Coba Gemini AI jika API key tersedia
+    if GEMINI_API_KEY:
+        try:
+            return translate_gemini(core_text, GEMINI_API_KEY)
+        except Exception as e:
+            print(f"[Gemini Fallback -> Google] {e}")
+
+    # 2. Fallback otomatis ke Google Translate
     try:
-        with urllib.request.urlopen(req, timeout=5) as res:
-            data = json.loads(res.read().decode('utf-8'))
-            res_text = ''.join([item[0] for item in data[0] if item[0]])
-            res_text = res_text.replace(' __NEWLINE__ ', '\n').replace('__NEWLINE__', '\n')
-            res_text = res_text.replace('alur udara', 'Air Groove').replace('Alur Udara', 'Air Groove').replace('penggaris', 'Ruler').replace('Penggaris', 'Ruler')
-            res_text = clean_brackets_and_quotes(res_text)
-            return res_text
+        return translate_google(core_text)
     except Exception as e:
-        print('Translation Error:', e)
+        print(f"[Google Translate Error] {e}")
         return text
 
 def translate_data(data):
@@ -71,7 +123,6 @@ class SugoiHandler(http.server.BaseHTTPRequestHandler):
     def do_POST(self):
         length = int(self.headers.get('Content-Length', 0))
         body = self.rfile.read(length).decode('utf-8')
-        print(f"\n[REQUEST] Path: {self.path} | Body: {body[:100]}")
         try:
             req_data = json.loads(body)
             if isinstance(req_data, dict) and ('content' in req_data or 'text' in req_data):
@@ -85,9 +136,8 @@ class SugoiHandler(http.server.BaseHTTPRequestHandler):
             self.send_header('Content-Type', 'application/json')
             self.end_headers()
             self.wfile.write(res_bytes)
-            print(f"[RESPONSE] {res_bytes.decode('utf-8')[:100]}")
+            print(f"Translated: {repr(body)[:60]} -> {repr(translated)[:60]}")
         except Exception as e:
-            print(f"[ERROR] {e}")
             self.send_response(500)
             self.end_headers()
             self.wfile.write(str(e).encode('utf-8'))
@@ -96,8 +146,10 @@ class SugoiHandler(http.server.BaseHTTPRequestHandler):
         pass
 
 if __name__ == '__main__':
+    engine_name = "Google Gemini 2.5 Flash + Fallback" if GEMINI_API_KEY else "Google Translate (Standard)"
     server = http.server.HTTPServer(('127.0.0.1', 5000), SugoiHandler)
-    print("Auto Translator Server v8 running on http://127.0.0.1:5000/translate...")
+    print(f"Auto Translator Server running on http://127.0.0.1:5000/translate...")
+    print(f"Engine: {engine_name}")
     try:
         server.serve_forever()
     except KeyboardInterrupt:
