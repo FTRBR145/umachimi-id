@@ -1,0 +1,62 @@
+{
+  "title": null,
+  "text_block_list": [
+    {
+      "name": "Bunga Nishino",
+      "text": "Tuan Bourbon! Merawat bunga,\r\nTerima kasih atas bantuan Anda!",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "ミホノブルボン",
+      "text": "足腰へのいいトレーニングになりました。\r\nあれがフラワーさんの脚の秘訣なのですね。",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "ミホノブルボン",
+      "text": "私の日課トレーニングに加えるには……\r\n3000ｍ花壇を世話すれば、理想値です。",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "ニシノフラワー",
+      "text": "ええっ！？　長距離コース分ですか！\r\nそんなにお世話したら、倒れちゃいますよっ！",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "ニシノフラワー",
+      "text": "でも……素敵ですね、3000ｍの花壇！\r\nお花のそばを走れたら気持ちよさそうです。",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "ミホノブルボン",
+      "text": "――シミュレーション開始……体温上昇。\r\nステータス『ほっこり』を確認。",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "ミホノブルボン",
+      "text": "トレーニングにもなり、癒しにもなる。\r\n……花とは、興味深い生物ですね。",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "ニシノフラワー",
+      "text": "えへへ……。\r\nまた一緒にお世話、やりましょうね♪",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    }
+  ],
+  "no_wrap": false
+}

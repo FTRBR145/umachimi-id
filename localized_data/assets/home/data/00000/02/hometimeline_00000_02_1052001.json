@@ -1,0 +1,55 @@
+{
+  "title": null,
+  "text_block_list": [
+    {
+      "name": "Haruurara",
+      "text": "Ninpo dan Umei no Jutsu!",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "agnes digital",
+      "text": "(Ya!\r\nApa itu teknik menghormati?\nTidak ada satu hal pun yang transparan! )",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "Haruurara",
+      "text": "Hehehehe! Kemarin ke Sei-chan\r\nItulah yang saya pelajari!",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "Haruurara",
+      "text": "Hei, hei, bisakah kamu melihatnya?\nBisakah kamu melihatnya?",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "agnes digital",
+      "text": "Saya tidak bisa melihatnya! ! ! ! !",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "Haruurara",
+      "text": "gambar! ? Benar-benar! ?\nHore! Ini sukses besar!",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "agnes digital",
+      "text": "Hyoeeh~~~~~~! !",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    }
+  ],
+  "no_wrap": false
+}

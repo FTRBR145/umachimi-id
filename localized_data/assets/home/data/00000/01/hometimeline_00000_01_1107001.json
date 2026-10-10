@@ -1,0 +1,34 @@
+{
+  "title": null,
+  "text_block_list": [
+    {
+      "name": "ketuk kota dansa",
+      "text": "Oh! Getaran ini adalah――",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "ketuk kota dansa",
+      "text": "Bagaimanapun, ini dari ibu!\nHai! Apakah Anda akan berpartisipasi dalam kompetisi dansa di seluruh Amerika Serikat?",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "ketuk kota dansa",
+      "text": "Orang itu juga sedang mengejar mimpinya.\nKalau begitu, aku juga tidak boleh kalah!",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "ketuk kota dansa",
+      "text": "Lihat, Bu!\nAku akan membangunkanmu kastil yang sangat besar hingga membuatmu kehilangan keberanian!",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    }
+  ],
+  "no_wrap": false
+}

@@ -1,0 +1,34 @@
+{
+  "title": null,
+  "text_block_list": [
+    {
+      "name": "gerakan halus",
+      "text": "Ke mana saya harus pergi hari ini?",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "gerakan halus",
+      "text": "Menginspeksi distrik perbelanjaan――bukan...\r\nBagaimana kalau kita jalan-jalan?\nAtau mungkin sedang mencari semanggi berdaun empat?",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "gerakan halus",
+      "text": "Hehe, tak percaya aku khawatir harus pergi ke mana...\r\nAku sangat, sangat bersemangat!",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "gerakan halus",
+      "text": "Baiklah, saya memutuskan! Ayo lakukan keduanya!\r\nAyo cari semanggi berdaun empat,\nLalu kita pergi ke kawasan perbelanjaan♪",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    }
+  ],
+  "no_wrap": false
+}

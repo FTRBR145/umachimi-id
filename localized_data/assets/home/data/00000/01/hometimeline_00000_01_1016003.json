@@ -1,0 +1,34 @@
+{
+  "title": null,
+  "text_block_list": [
+    {
+      "name": "Narita Brian",
+      "text": "\n Sepertinya menu baru telah ditambahkan ke kafetaria.",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Daging sapi panggang, ayam goreng,\niga, semur lidah...",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Dagingnya enak...\r\nTeksturnya yang kenyal dan sari dagingnya yang kaya memang tak tertahankan.",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Hehe, aku menantikan waktu makan.",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    }
+  ],
+  "no_wrap": false
+}

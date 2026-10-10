@@ -1,0 +1,34 @@
+{
+  "title": null,
+  "text_block_list": [
+    {
+      "name": "Yukinovidin",
+      "text": "Sangat populer di SNS! Fitur spesial pada\nampul halus yang melembapkan dan mengandung ekstrak CICA! ”\n...Hmm~?",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "Yukinovidin",
+      "text": "CICA...? Ampul... booster?\nHmm, \"Gadis Shichi\" menggunakan mantra ini\nKamu sudah menguasainya, bukan?　Yo, yoshi...!",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "Yukinovidin",
+      "text": "Tuan Smartphone, tolong jaga saya!\nTolong bantu saya dengan fungsi pencarian...!",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "Yukinovidin",
+      "text": "... \"Booster adalah serum pengantar.\"\n...Apa serum pendahuluannya...?",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    }
+  ],
+  "no_wrap": false
+}

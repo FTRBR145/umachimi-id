@@ -1,0 +1,34 @@
+{
+  "title": null,
+  "text_block_list": [
+    {
+      "name": "Hishiakebono",
+      "text": "Hehe♪ Di mana aku harus bersembunyi?\r\nKalau tidak cepat, setan akan datang!",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "Hishiakebono",
+      "text": "Bagaimanapun, itu adalah sesuatu yang hanya bisa aku lakukan karena aku sudah besar.\r\nKamu ingin bersembunyi dengan cara yang tidak dapat ditiru orang lain~♪",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "Hishiakebono",
+      "text": "Haruskah aku mencoba mendaki ke tempat yang tinggi?\r\nAtau mungkin berpura-pura menjadi tiga patung dewi?",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "Hishiakebono",
+      "text": "Ah! Mari kita berpura-pura menjadi pohon besar,\r\nKamu mungkin tidak dapat menemukannya jika kamu diam saja! ?",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    }
+  ],
+  "no_wrap": false
+}

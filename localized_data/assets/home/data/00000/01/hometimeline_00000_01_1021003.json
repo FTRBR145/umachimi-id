@@ -1,0 +1,34 @@
+{
+  "title": null,
+  "text_block_list": [
+    {
+      "name": "Salib Tamamo",
+      "text": "Huh, itu menakutkan.\r\nAku takut dengan kemampuanku sendiri.",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "Salib Tamamo",
+      "text": "Apa, kamu ingin bertanya?\r\nMau bagaimana lagi. Aku menanyakan sesuatu yang istimewa padamu!\nSiapa saya?",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "タマモクロス",
+      "text": "同時に開催された3つのセール！\r\nその3つともを完ッ璧にハシゴして、\nぜーんぶのセール品を買うてみせたんや！",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "タマモクロス",
+      "text": "いやぁ～アンタにも見したかったわ。\r\n商店街の人混みを駆け抜ける\n“白い稲妻”の勇姿を……！",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    }
+  ],
+  "no_wrap": false
+}

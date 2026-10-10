@@ -1,0 +1,34 @@
+{
+  "title": null,
+  "text_block_list": [
+    {
+      "name": "elang pintar",
+      "text": "Huh, ujian yang akan datang ini sungguh menyedihkan.\nTapi, saya harus menghindari titik merah.",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "elang pintar",
+      "text": "Itu benar!\nBagaimana kalau mencoba menghafal subjek ke dalam lagu?",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "elang pintar",
+      "text": "歌を考えるのはファル子得意だもん☆\n1番は歴史、2番は化学、\n間奏はファル子の短歌！",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "elang pintar",
+      "text": "Jika menular pada anak-anak yang tidak pandai belajar,\r\nIni mungkin menjadi lagu hit nomor satu musim ini☆",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    }
+  ],
+  "no_wrap": false
+}

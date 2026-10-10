@@ -1,0 +1,41 @@
+{
+  "title": null,
+  "text_block_list": [
+    {
+      "name": "Pelatih Kiryuin",
+      "text": "itu! Bolehkah aku menanyakan sesuatu padamu?",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "Pelatih Kiryuin",
+      "text": "Aku selalu ingin bertanya pada seseorang. Tapi,\nMenurutku masalah ini disebabkan oleh ketidakdewasaan...\nItu――",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "Pelatih Kiryuin",
+      "text": "\n Menurutmu seberapa besar imbalan yang seharusnya diberikan kepada gadis kuda pekerja keras tanpa melangkah terlalu jauh?\n?",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "Pelatih Kiryuin",
+      "text": "Aku sedang dalam banyak masalah. Karena Meek, \n, selalu menjadi pekerja keras!",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    },
+    {
+      "name": "Pelatih Kiryuin",
+      "text": "Apakah pergi ke toko roti seminggu sekali\ndapat diterima? ?",
+      "choice_data_list": [],
+      "color_text_info_list": [],
+      "new_clip_length": null
+    }
+  ],
+  "no_wrap": false
+}

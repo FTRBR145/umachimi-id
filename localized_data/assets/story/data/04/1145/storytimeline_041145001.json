@@ -1,0 +1,420 @@
+{
+    "title": "pemain papan langka",
+    "text_block_list": [
+        {
+            "name": "Air Groove",
+            "text": "Tidak, kenapa tidak!",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": null,
+            "text": "Suara marah bergema di seluruh lapangan latihan.",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": "Air Groove",
+            "text": "Dia bilang dia pulang tepat setelah kelas! ?\nMeskipun aku sudah menyuruhmu datang hari ini...berapa lama kamu akan terus bermalas-malasan?",
+            "choice_data_list": [
+                "(Saya ingin tahu apakah beberapa siswa mengalami kesulitan?)"
+            ],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": "Air Groove",
+            "text": "Butuh banyak kerja keras... Ah, kuharap aku lebih memperhatikan\nsaat aku masih di sekolah agar setidaknya aku bisa tumbuh menjadi sedikit lebih rajin...",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": null,
+            "text": "Yang dia khawatirkan adalah Air Groove ---\nSaat dia menjabat sebagai wakil ketua OSIS, dia memancarkan kepribadian yang tegas namun penuh perhatian.",
+            "choice_data_list": [
+                "(Sepertinya sulit...)"
+            ],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": null,
+            "text": "Pada malam hari, segera setelah saya kembali ke kamar, saya menyalakan komputer untuk bermain game.\nAkhir-akhir ini saya terpikat pada permainan papan Reversi.",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": null,
+            "text": "Meski merupakan game klasik sederhana, pertarungan online-nya cukup seru.\nKarena――",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": "？？？",
+            "text": "“Kamu lelah, bisakah kamu mendengarku?\n---Hmm, kalau begitu ayo kita mulai.''",
+            "choice_data_list": [
+                "Domi-san, terima kasih atas dukungan Anda yang tiada henti hari ini."
+            ],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": null,
+            "text": "Ini karena ini juga merupakan tempat untuk berinteraksi dengan ``dominare'' - domi, seorang pemain ahli yang memiliki kekuatan tak tertandingi di dunia dalam game.",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": "dominare",
+            "text": "Apa yang akan kamu lakukan hari ini? 8×8 boleh saja, tapi bukankah ini saatnya Anda mencoba\n10×10?",
+            "choice_data_list": [
+                "“Yah… aku masih merasa standarnya terlalu tinggi.”"
+            ],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": "dominare",
+            "text": "Haha, benarkah? Memang benar bahwa reversi 10×10 meningkatkan kesulitan taktis dengan menambah jumlah\nkotak.",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": "dominare",
+            "text": "Kalau begitu, ayo lakukan yang terbaik dengan 8x8 hari ini.\nAku tak sabar untuk melihat seberapa kuat dirimu...?",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": null,
+            "text": "Domi adalah pemain yang saya kagumi.\nKami telah menjadi teman baik, tapi saya terus mengagumi keterampilan luar biasa orang ini.",
+            "choice_data_list": [
+                "“Saya akan melakukan yang terbaik, saya harap ini pertarungan yang bagus.”"
+            ],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": null,
+            "text": "“Sudut” adalah kehidupan Reversi!\nSaya mengerahkan seluruh upaya saya untuk mempraktikkan pola “cara menangkap tendangan sudut” yang telah saya tanamkan di kepala saya selama beberapa hari terakhir――",
+            "choice_data_list": [
+                "Tikungan kedua, itadakimasu"
+            ],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": "dominare",
+            "text": "``Hah...itu tipuan yang bagus. Saya telah belajar dengan baik.”",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": "dominare",
+            "text": "``――――Tapi, itu manis.''",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": "dominare",
+            "text": "Saat kamu sibuk berusaha memenangkan empat tikungan,\nMenurutmu apa yang aku lakukan?",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": "dominare",
+            "text": "Aku memotong jalan keluarmu.",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": null,
+            "text": "Aku penasaran apa artinya...Aku tidak langsung memahaminya, jadi aku menatap papan itu.\n――Kemudian, saya tiba-tiba menyadari sesuatu.",
+            "choice_data_list": [
+                "Hanya tinggal kotak fatal yang tersisa...kita pasti kalah!"
+            ],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": "dominare",
+            "text": "Ya, Anda terlalu terpaku pada “menangkap keempat penjuru”.\nItu sebabnya Anda tidak menyadari bahwa saya terus mempersempit pilihan Anda.",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": "dominare",
+            "text": "Jika Anda terlalu terjebak dalam keuntungan instan, pandangan Anda terhadap papan akan menjadi kabur.\nIlusi fokus - bias kognitif klasik.",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": "dominare",
+            "text": "Jangan terikat pada suatu pola. Jangan terkecoh dengan keuntungan sekali pakai.\nMendominasi seluruh papan - itulah inti permainan papan.",
+            "choice_data_list": [
+                "Nah, kami datang...!"
+            ],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": null,
+            "text": "Kekalahan total. Dikalahkan dengan begitu jelas...",
+            "choice_data_list": [
+                "\"Domi-san luar biasa...Aku mengaguminya.\""
+            ],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": "dominare",
+            "text": "Haha, kamu mengatakan sesuatu yang baik. Namun tingkat peningkatan Anda juga\ncukup mengesankan. Hari ini juga cukup kenyal.",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": "dominare",
+            "text": "Anda akan terbiasa dengan 10x10 dengan cepat, dan Anda juga bisa mempelajari permainan papan lainnya.\nBukankah begitu? Sepertinya akan menyenangkan bermain catur dan kartu bersama Anda.",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": null,
+            "text": "Domi sangat berpengetahuan tentang berbagai permainan, mulai dari permainan papan klasik hingga permainan\nterbaru. Sebagai seseorang yang mengagumi orang ini...",
+            "choice_data_list": [
+                "\"Mungkin aku ingin mencobanya...\""
+            ],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": "dominare",
+            "text": "Hei, apakah kamu tertarik? Saya akan memberi tahu Anda kapan saja.\nMungkin merupakan ide bagus untuk merekrut orang secara online dan memainkan permainan manusia serigala atau permainan penentuan posisi.",
+            "choice_data_list": [
+                "\"Tolong! \""
+            ],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": "dominare",
+            "text": "``--Yah, sudah waktunya.'' Bolehkah kita buka hari ini?\nLain kali, mari kita bertarung 10x10.''",
+            "choice_data_list": [
+                "Terima kasih. Kapan Anda akan melakukan yang berikutnya?"
+            ],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": "dominare",
+            "text": "``Saya baik-baik saja kapan saja, saya akan menyesuaikan diri dengan Anda.\nPada dasarnya ini online, jadi boleh saja muncul kapan pun Anda mau.''",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": null,
+            "text": "Kami berjanji untuk melakukannya pada akhir pekan berikutnya, dan hari itu kami membatalkannya.",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": "Air Groove",
+            "text": "Ayo keluar, idiot! !",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": null,
+            "text": "Suatu sore. Aku menghentikan langkahku ketika mendengar suara marah Air Groove.\n...Ini seperti deja vu.",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": "Air Groove",
+            "text": "Ruler! Hei, jawab aku, Penguasa!\nBisakah kamu mendengarku! Apakah kamu sudah bangun? ?",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": null,
+            "text": "Dia menggedor dengan keras pintu sebuah bangunan kecil dan tua di sudut blok tempat ruang klub berjejer.\nMungkin siswa bermasalah itu dibarikade di dalam...?",
+            "choice_data_list": [
+                "...Ada apa, kamu baik-baik saja?",
+                "...Ada apa? Apakah kamu baik-baik saja?"
+            ],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": "Air Groove",
+            "text": "Tidak ada apa-apa. Apakah Anda...seorang pelatih? Sepertinya ada penguasa di sini...\nIblis pemalas Tawake bersembunyi di tempat ini sebagai bentengnya.",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": "Air Groove",
+            "text": "\n Meskipun ini adalah ruang klub lama yang tidak digunakan, masalahnya mereka menjadikannya markas mereka...",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": "Air Groove",
+            "text": "\n Meskipun aku menyuruhnya pergi latihan hari ini, dia malah tidak menjawab!",
+            "choice_data_list": [
+                "Itu...sedikit mengkhawatirkan.",
+                "Itu...sedikit mengkhawatirkan."
+            ],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": null,
+            "text": "Tidak apa-apa jika dia hanya mengabaikannya atau tidur, tapi\nBagaimana jika dia sakit dan pingsan... atau semacamnya?",
+            "choice_data_list": [
+                "Mengapa tidak mencoba melakukan panggilan LANE?"
+            ],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": "Air Groove",
+            "text": "Betul...jika kamu tertidur, aku akan membangunkanmu.",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": null,
+            "text": "(Pururururururururururu――benjolan!)",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": "Air Groove",
+            "text": "! ! Orang itu memotongnya...! ?\n---M-LANE?　…………….",
+            "choice_data_list": [
+                "ada apa? LANE dari gadis itu?",
+                "Apa yang terjadi? LANE dari gadis itu?"
+            ],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": null,
+            "text": "``Berisik'' ``Saya sedang sibuk saat ini''\n``Saya akan tetap di dalam kandang sampai lusa''",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": null,
+            "text": "Itu kemalasan yang memalukan...\nTerkurung selama tiga hari adalah sesuatu yang tidak bisa saya tinggalkan.",
+            "choice_data_list": [
+                "Apakah ada cara agar dia keluar?"
+            ],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": "Air Groove",
+            "text": "Ah...jika ini terjadi, itu adalah langkah yang sulit.",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": null,
+            "text": "Air Groove mengatakan itu dan mengeluarkannya dari sakunya...\nItu adalah kunci ruang klub! ! Otoritas wakil ketua OSIS bersinar di sini...!",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": "Air Groove",
+            "text": "Maafkan saya untuk hari ini! !\nSampai sekarang, saya melakukannya karena kebaikan! !",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": "？？？",
+            "text": "Higyaa! ? ! ?",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": "Air Groove &? ? ?",
+            "text": "“Keluarlah, ini alasannya! ” “Mengapa! ? Kuncinya adalah! ? ”\n``Hari ini aku akan membiarkanmu lari!'' ! “Oh, wah!”",
+            "choice_data_list": [
+                "(--Hah?)"
+            ],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": null,
+            "text": "Aku mendengar suara keluar dari suaraku dan tiba-tiba aku merasa seperti teringat sesuatu.",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": "？？？",
+            "text": "Tunggu sebentar, tolong lepaskan, Air Groove Sun!\nHari ini saya ingin memecah setumpuk game!",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": null,
+            "text": "Aku ingat... tidak mendekati itu. Saya mendengar suara ini hampir setiap minggu...!",
+            "choice_data_list": [
+                "Ah, um..."
+            ],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": "？？？",
+            "text": "Hah? Siapa kamu...?",
+            "choice_data_list": [
+                "Mungkin... \"mendominasi\"?"
+            ],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        },
+        {
+            "name": "？？？",
+            "text": "------gambar?",
+            "choice_data_list": [],
+            "color_text_info_list": [],
+            "new_clip_length": null
+        }
+    ],
+    "no_wrap": false
+}
